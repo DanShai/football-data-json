@@ -457,7 +457,7 @@
       ["Roma-Udinese", ""]
     ]
   },
-  "team-fixtures": {
+  "teamfixtures": {
     "Udinese": [
       ["Parma-Udinese", "2-2"],
       ["Udinese-Sampdoria", "1-0"],

@@ -228,17 +228,17 @@
       ["Tottenham Ho-Cardiff City", "1-0"],
       ["Watford-AFC Bournemo", "0-4"]
     ],
-    "12": [
-      ["Arsenal-Wolverhampto", ""],
-      ["Cardiff City-Brighton   H", ""],
-      ["Chelsea-Everton", ""],
-      ["Crystal Pala-Tottenham Ho", ""],
-      ["Huddersfield-West Ham Uni", ""],
-      ["Leicester Ci-Burnley", ""],
-      ["Liverpool-Fulham", ""],
-      ["Manchester C-Manchester U", ""],
-      ["Newcastle Un-AFC Bournemo", ""],
-      ["Southampton-Watford", ""]
+    "38": [
+      ["Brighton   H-Manchester C", ""],
+      ["Burnley-Arsenal", ""],
+      ["Crystal Pala-AFC Bournemo", ""],
+      ["Fulham-Newcastle Un", ""],
+      ["Leicester Ci-Chelsea", ""],
+      ["Liverpool-Wolverhampto", ""],
+      ["Manchester U-Cardiff City", ""],
+      ["Southampton-Huddersfield", ""],
+      ["Tottenham Ho-Everton", ""],
+      ["Watford-West Ham Uni", ""]
     ],
     "11": [
       ["AFC Bournemo-Manchester U", ""],
@@ -276,17 +276,17 @@
       ["West Ham Uni-Manchester C", ""],
       ["Wolverhampto-Huddersfield", ""]
     ],
-    "38": [
-      ["Brighton   H-Manchester C", ""],
-      ["Burnley-Arsenal", ""],
-      ["Crystal Pala-AFC Bournemo", ""],
-      ["Fulham-Newcastle Un", ""],
-      ["Leicester Ci-Chelsea", ""],
-      ["Liverpool-Wolverhampto", ""],
-      ["Manchester U-Cardiff City", ""],
-      ["Southampton-Huddersfield", ""],
-      ["Tottenham Ho-Everton", ""],
-      ["Watford-West Ham Uni", ""]
+    "12": [
+      ["Arsenal-Wolverhampto", ""],
+      ["Cardiff City-Brighton   H", ""],
+      ["Chelsea-Everton", ""],
+      ["Crystal Pala-Tottenham Ho", ""],
+      ["Huddersfield-West Ham Uni", ""],
+      ["Leicester Ci-Burnley", ""],
+      ["Liverpool-Fulham", ""],
+      ["Manchester C-Manchester U", ""],
+      ["Newcastle Un-AFC Bournemo", ""],
+      ["Southampton-Watford", ""]
     ],
     "15": [
       ["AFC Bournemo-Huddersfield", ""],
@@ -457,7 +457,7 @@
       ["West Ham Uni-Everton", ""]
     ]
   },
-  "team-fixtures": {
+  "teamfixtures": {
     "Southampton": [
       ["Southampton-Burnley", "0-0"],
       ["Everton-Southampton", "2-1"],
