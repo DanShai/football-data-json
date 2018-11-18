@@ -188,9 +188,9 @@
       ["Venezia-Livorno", "1-1"]
     ],
     "9": [
-      ["Crotone-Salernitana", ""],
       ["Benevento-Cremonese", "2-1"],
       ["Brescia-Cosenza", "1-0"],
+      ["Crotone-Salernitana", "1-1"],
       ["Foggia-Lecce", "2-2"],
       ["Hellas Veron-Perugia", "2-1"],
       ["Livorno-Ascoli", "1-0"],
@@ -210,26 +210,26 @@
       ["Venezia-Hellas Veron", "1-1"]
     ],
     "11": [
-      ["Benevento-Ascoli", ""],
-      ["Crotone-Carpi", ""],
-      ["Foggia-Brescia", ""],
-      ["Hellas Veron-Cremonese", ""],
-      ["Livorno-Perugia", ""],
-      ["Calcio Padov-Cittadella", ""],
-      ["Palermo-Cosenza", ""],
-      ["Pescara-Lecce", ""],
-      ["Venezia-Salernitana", ""]
+      ["Benevento-Ascoli", "1-2"],
+      ["Crotone-Carpi", "1-1"],
+      ["Foggia-Brescia", "2-2"],
+      ["Hellas Veron-Cremonese", "1-1"],
+      ["Livorno-Perugia", "2-3"],
+      ["Calcio Padov-Cittadella", "0-0"],
+      ["Palermo-Cosenza", "2-1"],
+      ["Pescara-Lecce", "4-2"],
+      ["Venezia-Salernitana", "1-0"]
     ],
     "10": [
-      ["Ascoli-Hellas Veron", ""],
-      ["Carpi-Palermo", ""],
-      ["Cittadella-Foggia", ""],
-      ["Cosenza-Pescara", ""],
-      ["Cremonese-Venezia", ""],
-      ["Lecce-Crotone", ""],
-      ["Perugia-Calcio Padov", ""],
-      ["Salernitana-Livorno", ""],
-      ["Spezia-Benevento", ""]
+      ["Spezia-Benevento", ""],
+      ["Ascoli-Hellas Veron", "1-0"],
+      ["Carpi-Palermo", "0-3"],
+      ["Cittadella-Foggia", "1-1"],
+      ["Cosenza-Pescara", "1-1"],
+      ["Cremonese-Venezia", "0-1"],
+      ["Lecce-Crotone", "1-0"],
+      ["Perugia-Calcio Padov", "3-2"],
+      ["Salernitana-Livorno", "3-1"]
     ],
     "13": [
       ["Benevento-Perugia", ""],
@@ -243,15 +243,15 @@
       ["Venezia-Brescia", ""]
     ],
     "12": [
-      ["Ascoli-Calcio Padov", ""],
-      ["Brescia-Hellas Veron", ""],
-      ["Carpi-Benevento", ""],
-      ["Cittadella-Venezia", ""],
-      ["Cosenza-Lecce", ""],
-      ["Cremonese-Livorno", ""],
-      ["Palermo-Pescara", ""],
-      ["Perugia-Crotone", ""],
-      ["Salernitana-Spezia", ""]
+      ["Ascoli-Calcio Padov", "2-3"],
+      ["Brescia-Hellas Veron", "4-2"],
+      ["Carpi-Benevento", "2-2"],
+      ["Cittadella-Venezia", "3-2"],
+      ["Cosenza-Lecce", "2-3"],
+      ["Cremonese-Livorno", "1-0"],
+      ["Palermo-Pescara", "3-0"],
+      ["Perugia-Crotone", "2-1"],
+      ["Salernitana-Spezia", "1-0"]
     ],
     "15": [
       ["Benevento-Hellas Veron", ""],
@@ -397,7 +397,7 @@
       ["Brescia-Venezia", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Palermo": [
       ["Salernitana-Palermo", "0-0"],
       ["Palermo-Cremonese", "2-2"],
@@ -406,7 +406,9 @@
       ["Brescia-Palermo", "2-1"],
       ["Palermo-Crotone", "1-0"],
       ["Lecce-Palermo", "1-2"],
-      ["Palermo-Venezia", "1-1"]
+      ["Palermo-Venezia", "1-1"],
+      ["Carpi-Palermo", "0-3"],
+      ["Palermo-Cosenza", "2-1"]
     ],
     "Calcio Padov": [
       ["Hellas Veron-Calcio Padov", "1-1"],
@@ -417,7 +419,9 @@
       ["Calcio Padov-Pescara", "2-2"],
       ["Brescia-Calcio Padov", "4-1"],
       ["Crotone-Calcio Padov", "2-1"],
-      ["Calcio Padov-Spezia", "0-0"]
+      ["Calcio Padov-Spezia", "0-0"],
+      ["Perugia-Calcio Padov", "3-2"],
+      ["Calcio Padov-Cittadella", "0-0"]
     ],
     "Ascoli": [
       ["Ascoli-Cosenza", "1-1"],
@@ -427,7 +431,9 @@
       ["Ascoli-Cremonese", "0-0"],
       ["Foggia-Ascoli", "3-2"],
       ["Ascoli-Carpi", "1-0"],
-      ["Livorno-Ascoli", "1-0"]
+      ["Livorno-Ascoli", "1-0"],
+      ["Ascoli-Hellas Veron", "1-0"],
+      ["Benevento-Ascoli", "1-2"]
     ],
     "Carpi": [
       ["Foggia-Carpi", "4-2"],
@@ -437,7 +443,9 @@
       ["Perugia-Carpi", "0-1"],
       ["Spezia-Carpi", "2-1"],
       ["Carpi-Cosenza", "1-1"],
-      ["Ascoli-Carpi", "1-0"]
+      ["Ascoli-Carpi", "1-0"],
+      ["Carpi-Palermo", "0-3"],
+      ["Crotone-Carpi", "1-1"]
     ],
     "Crotone": [
       ["Cittadella-Crotone", "3-0"],
@@ -447,7 +455,10 @@
       ["Pescara-Crotone", "2-1"],
       ["Crotone-Brescia", "2-2"],
       ["Palermo-Crotone", "1-0"],
-      ["Crotone-Calcio Padov", "2-1"]
+      ["Crotone-Calcio Padov", "2-1"],
+      ["Crotone-Salernitana", "1-1"],
+      ["Lecce-Crotone", "1-0"],
+      ["Crotone-Carpi", "1-1"]
     ],
     "Perugia": [
       ["Brescia-Perugia", "1-1"],
@@ -457,7 +468,9 @@
       ["Cosenza-Perugia", "1-1"],
       ["Perugia-Venezia", "1-0"],
       ["Salernitana-Perugia", "2-1"],
-      ["Hellas Veron-Perugia", "2-1"]
+      ["Hellas Veron-Perugia", "2-1"],
+      ["Perugia-Calcio Padov", "3-2"],
+      ["Livorno-Perugia", "2-3"]
     ],
     "Pescara": [
       ["Cremonese-Pescara", "1-1"],
@@ -468,7 +481,9 @@
       ["Calcio Padov-Pescara", "2-2"],
       ["Pescara-Benevento", "2-1"],
       ["Spezia-Pescara", "1-3"],
-      ["Pescara-Cittadella", "0-1"]
+      ["Pescara-Cittadella", "0-1"],
+      ["Cosenza-Pescara", "1-1"],
+      ["Pescara-Lecce", "4-2"]
     ],
     "Cosenza": [
       ["Ascoli-Cosenza", "1-1"],
@@ -479,7 +494,9 @@
       ["Cosenza-Perugia", "1-1"],
       ["Carpi-Cosenza", "1-1"],
       ["Cosenza-Foggia", "2-0"],
-      ["Brescia-Cosenza", "1-0"]
+      ["Brescia-Cosenza", "1-0"],
+      ["Cosenza-Pescara", "1-1"],
+      ["Palermo-Cosenza", "2-1"]
     ],
     "Hellas Veron": [
       ["Hellas Veron-Calcio Padov", "1-1"],
@@ -490,7 +507,9 @@
       ["Salernitana-Hellas Veron", "1-0"],
       ["Hellas Veron-Lecce", "0-2"],
       ["Venezia-Hellas Veron", "1-1"],
-      ["Hellas Veron-Perugia", "2-1"]
+      ["Hellas Veron-Perugia", "2-1"],
+      ["Ascoli-Hellas Veron", "1-0"],
+      ["Hellas Veron-Cremonese", "1-1"]
     ],
     "Salernitana": [
       ["Salernitana-Palermo", "0-0"],
@@ -500,7 +519,10 @@
       ["Salernitana-Ascoli", "1-1"],
       ["Salernitana-Hellas Veron", "1-0"],
       ["Cremonese-Salernitana", "0-0"],
-      ["Salernitana-Perugia", "2-1"]
+      ["Salernitana-Perugia", "2-1"],
+      ["Crotone-Salernitana", "1-1"],
+      ["Salernitana-Livorno", "3-1"],
+      ["Venezia-Salernitana", "1-0"]
     ],
     "Foggia": [
       ["Foggia-Carpi", "4-2"],
@@ -511,7 +533,9 @@
       ["Benevento-Foggia", "1-3"],
       ["Foggia-Ascoli", "3-2"],
       ["Cosenza-Foggia", "2-0"],
-      ["Foggia-Lecce", "2-2"]
+      ["Foggia-Lecce", "2-2"],
+      ["Cittadella-Foggia", "1-1"],
+      ["Foggia-Brescia", "2-2"]
     ],
     "Venezia": [
       ["Venezia-Spezia", "1-0"],
@@ -521,7 +545,9 @@
       ["Venezia-Livorno", "1-1"],
       ["Perugia-Venezia", "1-0"],
       ["Venezia-Hellas Veron", "1-1"],
-      ["Palermo-Venezia", "1-1"]
+      ["Palermo-Venezia", "1-1"],
+      ["Cremonese-Venezia", "0-1"],
+      ["Venezia-Salernitana", "1-0"]
     ],
     "Benevento": [
       ["Benevento-Lecce", "3-3"],
@@ -531,7 +557,8 @@
       ["Benevento-Foggia", "1-3"],
       ["Pescara-Benevento", "2-1"],
       ["Benevento-Livorno", "1-0"],
-      ["Benevento-Cremonese", "2-1"]
+      ["Benevento-Cremonese", "2-1"],
+      ["Benevento-Ascoli", "1-2"]
     ],
     "Cremonese": [
       ["Cremonese-Pescara", "1-1"],
@@ -541,7 +568,9 @@
       ["Cremonese-Cosenza", "2-0"],
       ["Ascoli-Cremonese", "0-0"],
       ["Cremonese-Salernitana", "0-0"],
-      ["Benevento-Cremonese", "2-1"]
+      ["Benevento-Cremonese", "2-1"],
+      ["Cremonese-Venezia", "0-1"],
+      ["Hellas Veron-Cremonese", "1-1"]
     ],
     "Cittadella": [
       ["Cittadella-Crotone", "3-0"],
@@ -551,7 +580,9 @@
       ["Cittadella-Benevento", "0-1"],
       ["Lecce-Cittadella", "1-1"],
       ["Cittadella-Brescia", "2-2"],
-      ["Pescara-Cittadella", "0-1"]
+      ["Pescara-Cittadella", "0-1"],
+      ["Cittadella-Foggia", "1-1"],
+      ["Calcio Padov-Cittadella", "0-0"]
     ],
     "Spezia": [
       ["Venezia-Spezia", "1-0"],
@@ -573,7 +604,9 @@
       ["Lecce-Cittadella", "1-1"],
       ["Hellas Veron-Lecce", "0-2"],
       ["Lecce-Palermo", "1-2"],
-      ["Foggia-Lecce", "2-2"]
+      ["Foggia-Lecce", "2-2"],
+      ["Lecce-Crotone", "1-0"],
+      ["Pescara-Lecce", "4-2"]
     ],
     "Brescia": [
       ["Brescia-Perugia", "1-1"],
@@ -584,7 +617,8 @@
       ["Crotone-Brescia", "2-2"],
       ["Brescia-Calcio Padov", "4-1"],
       ["Cittadella-Brescia", "2-2"],
-      ["Brescia-Cosenza", "1-0"]
+      ["Brescia-Cosenza", "1-0"],
+      ["Foggia-Brescia", "2-2"]
     ],
     "Livorno": [
       ["Pescara-Livorno", "2-1"],
@@ -594,7 +628,9 @@
       ["Venezia-Livorno", "1-1"],
       ["Livorno-Spezia", "1-3"],
       ["Benevento-Livorno", "1-0"],
-      ["Livorno-Ascoli", "1-0"]
+      ["Livorno-Ascoli", "1-0"],
+      ["Salernitana-Livorno", "3-1"],
+      ["Livorno-Perugia", "2-3"]
     ]
   },
   "teams": {

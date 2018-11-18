@@ -477,23 +477,20 @@
       ["Forest Green-Tranmere Rov", "3-1"]
     ],
     "17": [
-      ["Cheltenham T-Mansfield To", ""],
-      ["Colchester U-Swindon Town", ""],
-      ["Crawley Town-Milton Keyne", ""],
-      ["Lincoln City-Forest Green", ""],
-      ["Macclesfield-Bury", ""],
-      ["Morecambe-Yeovil Town", ""],
-      ["Northampton-Crewe Alexan", ""],
-      ["Port Vale-Notts County", ""],
-      ["Stevenage-Oldham Athle", ""],
-      ["Tranmere Rov-Exeter City", ""],
-      ["Mansfield To-Grimsby Town", ""],
-      ["Notts County-Oldham Athle", ""]
+      ["Cheltenham T-Mansfield To", "2-2"],
+      ["Colchester U-Swindon Town", "1-0"],
+      ["Crawley Town-Milton Keyne", "0-4"],
+      ["Lincoln City-Forest Green", "2-1"],
+      ["Macclesfield-Bury", "1-4"],
+      ["Morecambe-Yeovil Town", "2-1"],
+      ["Northampton-Crewe Alexan", "2-0"],
+      ["Port Vale-Notts County", "2-2"],
+      ["Stevenage-Oldham Athle", "3-2"],
+      ["Tranmere Rov-Exeter City", "2-0"],
+      ["Mansfield To-Grimsby Town", "2-1"],
+      ["Notts County-Oldham Athle", "0-0"]
     ],
     "16": [
-      ["Cambridge Un-Grimsby Town", ""],
-      ["Crewe Alexan-Mansfield To", ""],
-      ["Carlisle Uni-Newport Coun", ""],
       ["Colchester U-Lincoln City", "1-0"],
       ["Crewe Alexan-Grimsby Town", "2-0"],
       ["Exeter City-Forest Green", "1-2"],
@@ -502,7 +499,10 @@
       ["Northampton-Oldham Athle", "2-1"],
       ["Notts County-Swindon Town", "1-2"],
       ["Port Vale-Bury", "1-0"],
-      ["Tranmere Rov-Crawley Town", "5-1"]
+      ["Tranmere Rov-Crawley Town", "5-1"],
+      ["Crewe Alexan-Mansfield To", "0-3"],
+      ["Cambridge Un-Grimsby Town", "1-0"],
+      ["Carlisle Uni-Newport Coun", "3-2"]
     ],
     "19": [
       ["Lincoln City-Mansfield To", ""],
@@ -519,17 +519,17 @@
       ["Tranmere Rov-Oldham Athle", ""]
     ],
     "18": [
-      ["Bury-Stevenage", ""],
-      ["Crewe Alexan-Tranmere Rov", ""],
-      ["Exeter City-Northampton", ""],
-      ["Forest Green-Morecambe", ""],
-      ["Grimsby Town-Crawley Town", ""],
-      ["Mansfield To-Port Vale", ""],
-      ["Milton Keyne-Macclesfield", ""],
-      ["Newport Coun-Colchester U", ""],
-      ["Notts County-Cheltenham T", ""],
-      ["Oldham Athle-Cambridge Un", ""],
-      ["Swindon Town-Carlisle Uni", ""],
+      ["Bury-Stevenage", "4-0"],
+      ["Crewe Alexan-Tranmere Rov", "3-2"],
+      ["Exeter City-Northampton", "2-2"],
+      ["Forest Green-Morecambe", "0-1"],
+      ["Grimsby Town-Crawley Town", "1-0"],
+      ["Mansfield To-Port Vale", "1-0"],
+      ["Milton Keyne-Macclesfield", "2-0"],
+      ["Newport Coun-Colchester U", "2-0"],
+      ["Notts County-Cheltenham T", "0-3"],
+      ["Oldham Athle-Cambridge Un", "3-1"],
+      ["Swindon Town-Carlisle Uni", "0-4"],
       ["Yeovil Town-Lincoln City", ""]
     ],
     "31": [
@@ -645,7 +645,7 @@
       ["Yeovil Town-Grimsby Town", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Crawley Town": [
       ["Cheltenham T-Crawley Town", "0-1"],
       ["Crawley Town-Stevenage", "1-3"],
@@ -655,7 +655,9 @@
       ["Oldham Athle-Crawley Town", "2-1"],
       ["Lincoln City-Crawley Town", "0-1"],
       ["Crawley Town-Morecambe", "2-0"],
-      ["Forest Green-Crawley Town", "1-0"]
+      ["Forest Green-Crawley Town", "1-0"],
+      ["Crawley Town-Yeovil Town", "3-1"],
+      ["Notts County-Crawley Town", "3-1"]
     ],
     "Morecambe": [
       ["Crewe Alexan-Morecambe", "6-0"],
@@ -666,7 +668,9 @@
       ["Bury-Morecambe", "3-2"],
       ["Morecambe-Swindon Town", "0-1"],
       ["Crawley Town-Morecambe", "2-0"],
-      ["Morecambe-Macclesfield", "2-1"]
+      ["Morecambe-Macclesfield", "2-1"],
+      ["Grimsby Town-Morecambe", "1-2"],
+      ["Cheltenham T-Morecambe", "2-2"]
     ],
     "Carlisle Uni": [
       ["Exeter City-Carlisle Uni", "3-1"],
@@ -678,7 +682,8 @@
       ["Cambridge Un-Carlisle Uni", "1-2"],
       ["Carlisle Uni-Tranmere Rov", "0-2"],
       ["Bury-Carlisle Uni", "0-1"],
-      ["Carlisle Uni-Stevenage", "0-1"]
+      ["Carlisle Uni-Stevenage", "0-1"],
+      ["Carlisle Uni-Grimsby Town", "0-1"]
     ],
     "Tranmere Rov": [
       ["Stevenage-Tranmere Rov", "2-2"],
@@ -689,7 +694,9 @@
       ["Northampton-Tranmere Rov", "1-1"],
       ["Tranmere Rov-Colchester U", "1-1"],
       ["Carlisle Uni-Tranmere Rov", "0-2"],
-      ["Tranmere Rov-Newport Coun", "0-1"]
+      ["Tranmere Rov-Newport Coun", "0-1"],
+      ["Milton Keyne-Tranmere Rov", "1-1"],
+      ["Tranmere Rov-Lincoln City", "1-0"]
     ],
     "Northampton ": [],
     "Cambridge Un": [
@@ -701,7 +708,9 @@
       ["Stevenage-Cambridge Un", "0-1"],
       ["Cambridge Un-Carlisle Uni", "1-2"],
       ["Colchester U-Cambridge Un", "3-0"],
-      ["Cambridge Un-Mansfield To", "1-1"]
+      ["Cambridge Un-Mansfield To", "1-1"],
+      ["Newport Coun-Cambridge Un", "4-2"],
+      ["Cambridge Un-Forest Green", "1-3"]
     ],
     "Mansfield To": [
       ["Mansfield To-Newport Coun", "3-0"],
@@ -711,7 +720,10 @@
       ["Macclesfield-Mansfield To", "1-1"],
       ["Mansfield To-Carlisle Uni", "1-0"],
       ["Mansfield To-Exeter City", "1-2"],
-      ["Cambridge Un-Mansfield To", "1-1"]
+      ["Cambridge Un-Mansfield To", "1-1"],
+      ["Mansfield To-Northampton", "4-0"],
+      ["Mansfield To-Oldham Athle", "0-0"],
+      ["Bury-Mansfield To", "2-2"]
     ],
     "Exeter City": [
       ["Exeter City-Carlisle Uni", "3-1"],
@@ -722,7 +734,9 @@
       ["Exeter City-Lincoln City", "0-3"],
       ["Exeter City-Notts County", "5-1"],
       ["Mansfield To-Exeter City", "1-2"],
-      ["Exeter City-Cheltenham T", "3-1"]
+      ["Exeter City-Cheltenham T", "3-1"],
+      ["Port Vale-Exeter City", "1-1"],
+      ["Exeter City-Stevenage", "1-0"]
     ],
     "Milton Keyne": [
       ["Oldham Athle-Milton Keyne", "1-2"],
@@ -733,7 +747,9 @@
       ["Swindon Town-Milton Keyne", "1-1"],
       ["Milton Keyne-Forest Green", "1-1"],
       ["Lincoln City-Milton Keyne", "2-1"],
-      ["Yeovil Town-Milton Keyne", "1-1"]
+      ["Yeovil Town-Milton Keyne", "1-1"],
+      ["Milton Keyne-Tranmere Rov", "1-1"],
+      ["Port Vale-Milton Keyne", "0-2"]
     ],
     "Yeovil Town": [
       ["Bury-Yeovil Town", "1-0"],
@@ -744,7 +760,9 @@
       ["Grimsby Town-Yeovil Town", "0-1"],
       ["Newport Coun-Yeovil Town", "0-6"],
       ["Yeovil Town-Swindon Town", "0-3"],
-      ["Yeovil Town-Milton Keyne", "1-1"]
+      ["Yeovil Town-Milton Keyne", "1-1"],
+      ["Crawley Town-Yeovil Town", "3-1"],
+      ["Colchester U-Yeovil Town", "3-1"]
     ],
     "Oldham Athle": [
       ["Oldham Athle-Milton Keyne", "1-2"],
@@ -755,7 +773,9 @@
       ["Oldham Athle-Crawley Town", "2-1"],
       ["Oldham Athle-Newport Coun", "0-1"],
       ["Grimsby Town-Oldham Athle", "0-3"],
-      ["Oldham Athle-Colchester U", "3-3"]
+      ["Oldham Athle-Colchester U", "3-3"],
+      ["Swindon Town-Oldham Athle", "0-0"],
+      ["Mansfield To-Oldham Athle", "0-0"]
     ],
     "Macclesfield": [
       ["Swindon Town-Macclesfield", "3-2"],
@@ -766,7 +786,9 @@
       ["Crewe Alexan-Macclesfield", "3-0"],
       ["Stevenage-Macclesfield", "1-0"],
       ["Macclesfield-Lincoln City", "1-2"],
-      ["Morecambe-Macclesfield", "2-1"]
+      ["Morecambe-Macclesfield", "2-1"],
+      ["Macclesfield-Forest Green", "1-1"],
+      ["Newport Coun-Macclesfield", "3-3"]
     ],
     "Swindon Town": [
       ["Swindon Town-Macclesfield", "3-2"],
@@ -777,7 +799,9 @@
       ["Swindon Town-Milton Keyne", "1-1"],
       ["Morecambe-Swindon Town", "0-1"],
       ["Swindon Town-Bury", "1-2"],
-      ["Yeovil Town-Swindon Town", "0-3"]
+      ["Yeovil Town-Swindon Town", "0-3"],
+      ["Swindon Town-Oldham Athle", "0-0"],
+      ["Crewe Alexan-Swindon Town", "1-0"]
     ],
     "Bury": [
       ["Bury-Yeovil Town", "1-0"],
@@ -788,7 +812,10 @@
       ["Bury-Morecambe", "3-2"],
       ["Bury-Grimsby Town", "4-0"],
       ["Swindon Town-Bury", "1-2"],
-      ["Bury-Carlisle Uni", "0-1"]
+      ["Bury-Carlisle Uni", "0-1"],
+      ["Colchester U-Bury", "1-2"],
+      ["Northampton-Bury", "0-0"],
+      ["Bury-Mansfield To", "2-2"]
     ],
     "Stevenage": [
       ["Stevenage-Tranmere Rov", "2-2"],
@@ -800,7 +827,8 @@
       ["Stevenage-Macclesfield", "1-0"],
       ["Notts County-Stevenage", "3-3"],
       ["Stevenage-Grimsby Town", "1-0"],
-      ["Carlisle Uni-Stevenage", "0-1"]
+      ["Carlisle Uni-Stevenage", "0-1"],
+      ["Exeter City-Stevenage", "1-0"]
     ],
     "Lincoln City": [
       ["Northampton-Lincoln City", "0-1"],
@@ -811,7 +839,9 @@
       ["Exeter City-Lincoln City", "0-3"],
       ["Lincoln City-Crawley Town", "0-1"],
       ["Macclesfield-Lincoln City", "1-2"],
-      ["Lincoln City-Milton Keyne", "2-1"]
+      ["Lincoln City-Milton Keyne", "2-1"],
+      ["Cheltenham T-Lincoln City", "0-2"],
+      ["Tranmere Rov-Lincoln City", "1-0"]
     ],
     "Colchester U": [
       ["Notts County-Colchester U", "0-0"],
@@ -822,7 +852,9 @@
       ["Cheltenham T-Colchester U", "1-3"],
       ["Tranmere Rov-Colchester U", "1-1"],
       ["Colchester U-Cambridge Un", "3-0"],
-      ["Oldham Athle-Colchester U", "3-3"]
+      ["Oldham Athle-Colchester U", "3-3"],
+      ["Colchester U-Bury", "1-2"],
+      ["Colchester U-Yeovil Town", "3-1"]
     ],
     "Port Vale": [
       ["Port Vale-Cambridge Un", "3-0"],
@@ -833,7 +865,9 @@
       ["Port Vale-Newport Coun", "1-2"],
       ["Forest Green-Port Vale", "1-1"],
       ["Port Vale-Northampton", "2-0"],
-      ["Crewe Alexan-Port Vale", "0-1"]
+      ["Crewe Alexan-Port Vale", "0-1"],
+      ["Port Vale-Exeter City", "1-1"],
+      ["Port Vale-Milton Keyne", "0-2"]
     ],
     "Newport Coun": [
       ["Mansfield To-Newport Coun", "3-0"],
@@ -844,7 +878,9 @@
       ["Port Vale-Newport Coun", "1-2"],
       ["Oldham Athle-Newport Coun", "0-1"],
       ["Newport Coun-Yeovil Town", "0-6"],
-      ["Tranmere Rov-Newport Coun", "0-1"]
+      ["Tranmere Rov-Newport Coun", "0-1"],
+      ["Newport Coun-Cambridge Un", "4-2"],
+      ["Newport Coun-Macclesfield", "3-3"]
     ],
     "Forest Green": [
       ["Grimsby Town-Forest Green", "1-4"],
@@ -855,7 +891,9 @@
       ["Notts County-Forest Green", "1-3"],
       ["Forest Green-Port Vale", "1-1"],
       ["Milton Keyne-Forest Green", "1-1"],
-      ["Forest Green-Crawley Town", "1-0"]
+      ["Forest Green-Crawley Town", "1-0"],
+      ["Macclesfield-Forest Green", "1-1"],
+      ["Cambridge Un-Forest Green", "1-3"]
     ],
     "Grimsby Town": [
       ["Grimsby Town-Forest Green", "1-4"],
@@ -866,7 +904,9 @@
       ["Grimsby Town-Yeovil Town", "0-1"],
       ["Bury-Grimsby Town", "4-0"],
       ["Grimsby Town-Oldham Athle", "0-3"],
-      ["Stevenage-Grimsby Town", "1-0"]
+      ["Stevenage-Grimsby Town", "1-0"],
+      ["Grimsby Town-Morecambe", "1-2"],
+      ["Carlisle Uni-Grimsby Town", "0-1"]
     ],
     "Notts County": [
       ["Notts County-Colchester U", "0-0"],
@@ -877,7 +917,9 @@
       ["Notts County-Forest Green", "1-3"],
       ["Exeter City-Notts County", "5-1"],
       ["Notts County-Stevenage", "3-3"],
-      ["Northampton-Notts County", "0-0"]
+      ["Northampton-Notts County", "0-0"],
+      ["Notts County-Crewe Alexan", "2-1"],
+      ["Notts County-Crawley Town", "3-1"]
     ],
     "Cheltenham T": [
       ["Cheltenham T-Crawley Town", "0-1"],
@@ -888,7 +930,9 @@
       ["Cheltenham T-Colchester U", "1-3"],
       ["Northampton-Cheltenham T", "1-3"],
       ["Cheltenham T-Crewe Alexan", "0-0"],
-      ["Exeter City-Cheltenham T", "3-1"]
+      ["Exeter City-Cheltenham T", "3-1"],
+      ["Cheltenham T-Lincoln City", "0-2"],
+      ["Cheltenham T-Morecambe", "2-2"]
     ],
     "Crewe Alexan": [
       ["Crewe Alexan-Morecambe", "6-0"],
@@ -898,7 +942,9 @@
       ["Carlisle Uni-Crewe Alexan", "1-0"],
       ["Crewe Alexan-Macclesfield", "3-0"],
       ["Cheltenham T-Crewe Alexan", "0-0"],
-      ["Crewe Alexan-Port Vale", "0-1"]
+      ["Crewe Alexan-Port Vale", "0-1"],
+      ["Notts County-Crewe Alexan", "2-1"],
+      ["Crewe Alexan-Swindon Town", "1-0"]
     ]
   },
   "teams": {

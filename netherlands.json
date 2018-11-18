@@ -170,9 +170,9 @@
       ["NAC Breda-PSV", "0-2"],
       ["Fortuna Sitt-Ajax", "0-2"],
       ["Excelsior-VVV", "1-0"],
-      ["Heracles-Emmen", "2-1"],
       ["De Graafscha-Willem II", "2-1"],
       ["AZ-PEC Zwolle", "2-2"],
+      ["Heracles-Emmen", "2-1"],
       ["Groningen-Utrecht", "1-1"],
       ["Feyenoord-Vitesse", "2-1"]
     ],
@@ -181,9 +181,9 @@
       ["Fortuna Sitt-Willem II", "4-4"],
       ["Excelsior-Heerenveen", "3-3"],
       ["VVV-NAC Breda", "3-0"],
-      ["Vitesse-ADO Den Haag", "1-1"],
-      ["Feyenoord-Utrecht", "1-0"],
       ["Emmen-PEC Zwolle", "0-1"],
+      ["Feyenoord-Utrecht", "1-0"],
+      ["Vitesse-ADO Den Haag", "1-1"],
       ["Groningen-AZ", "1-3"],
       ["PSV-Ajax", "3-0"]
     ],
@@ -210,26 +210,26 @@
       ["Ajax-AZ", "5-0"]
     ],
     "11": [
-      ["Excelsior-Groningen", ""],
-      ["NAC Breda-Heracles", ""],
-      ["Ajax-Willem II", ""],
-      ["AZ-De Graafscha", ""],
-      ["PSV-Vitesse", ""],
-      ["Heerenveen-Emmen", ""],
-      ["Utrecht-ADO Den Haag", ""],
-      ["Fortuna Sitt-PEC Zwolle", ""],
-      ["Feyenoord-VVV", ""]
+      ["Feyenoord-VVV", ""],
+      ["Excelsior-Groningen", "2-4"],
+      ["NAC Breda-Heracles", "2-1"],
+      ["Ajax-Willem II", "2-0"],
+      ["AZ-De Graafscha", "1-0"],
+      ["PSV-Vitesse", "1-0"],
+      ["Heerenveen-Emmen", "1-1"],
+      ["Utrecht-ADO Den Haag", "3-0"],
+      ["Fortuna Sitt-PEC Zwolle", "3-0"]
     ],
     "10": [
-      ["Willem II-Utrecht", ""],
-      ["Vitesse-Fortuna Sitt", ""],
-      ["Ajax-Feyenoord", ""],
-      ["AZ-Heerenveen", ""],
       ["Emmen-VVV", "1-1"],
-      ["ADO Den Haag-NAC Breda", "1-1"],
+      ["PEC Zwolle-Heracles", "1-1"],
       ["De Graafscha-Excelsior", "4-1"],
       ["Groningen-PSV", "1-2"],
-      ["PEC Zwolle-Heracles", "1-1"]
+      ["ADO Den Haag-NAC Breda", "1-1"],
+      ["Vitesse-Fortuna Sitt", "2-1"],
+      ["Willem II-Utrecht", "0-1"],
+      ["Ajax-Feyenoord", "3-0"],
+      ["AZ-Heerenveen", "2-3"]
     ],
     "13": [
       ["PEC Zwolle-ADO Den Haag", ""],
@@ -243,15 +243,15 @@
       ["VVV-AZ", ""]
     ],
     "12": [
-      ["PEC Zwolle-Willem II", ""],
-      ["Emmen-NAC Breda", ""],
-      ["De Graafscha-PSV", ""],
-      ["Vitesse-Utrecht", ""],
-      ["VVV-Fortuna Sitt", ""],
-      ["Groningen-Heerenveen", ""],
-      ["Excelsior-Ajax", ""],
-      ["ADO Den Haag-AZ", ""],
-      ["Heracles-Feyenoord", ""]
+      ["PEC Zwolle-Willem II", "2-3"],
+      ["Emmen-NAC Breda", "2-0"],
+      ["De Graafscha-PSV", "1-4"],
+      ["Vitesse-Utrecht", "2-1"],
+      ["VVV-Fortuna Sitt", "3-2"],
+      ["Groningen-Heerenveen", "2-0"],
+      ["Excelsior-Ajax", "1-7"],
+      ["ADO Den Haag-AZ", "0-1"],
+      ["Heracles-Feyenoord", "0-2"]
     ],
     "15": [
       ["Fortuna Sitt-AZ", ""],
@@ -375,7 +375,7 @@
       ["Willem II-PSV", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Groningen": [
       ["Vitesse-Groningen", "5-1"],
       ["Groningen-Willem II", "0-1"],
@@ -385,7 +385,9 @@
       ["Groningen-AZ", "1-3"],
       ["Groningen-Utrecht", "1-1"],
       ["ADO Den Haag-Groningen", "1-0"],
-      ["Heracles-Groningen", "4-1"]
+      ["Heracles-Groningen", "4-1"],
+      ["Groningen-PSV", "1-2"],
+      ["Excelsior-Groningen", "2-4"]
     ],
     "Fortuna Sitt": [
       ["Excelsior-Fortuna Sitt", "1-1"],
@@ -396,7 +398,9 @@
       ["Fortuna Sitt-Willem II", "4-4"],
       ["Fortuna Sitt-Ajax", "0-2"],
       ["Emmen-Fortuna Sitt", "3-3"],
-      ["Fortuna Sitt-De Graafscha", "3-1"]
+      ["Fortuna Sitt-De Graafscha", "3-1"],
+      ["Vitesse-Fortuna Sitt", "2-1"],
+      ["Fortuna Sitt-PEC Zwolle", "3-0"]
     ],
     "Heracles": [
       ["Ajax-Heracles", "1-1"],
@@ -407,7 +411,9 @@
       ["Heracles-De Graafscha", "4-0"],
       ["Heracles-Emmen", "2-1"],
       ["Vitesse-Heracles", "4-0"],
-      ["Heracles-Groningen", "4-1"]
+      ["Heracles-Groningen", "4-1"],
+      ["PEC Zwolle-Heracles", "1-1"],
+      ["NAC Breda-Heracles", "2-1"]
     ],
     "Emmen": [
       ["ADO Den Haag-Emmen", "1-2"],
@@ -418,7 +424,9 @@
       ["Emmen-PEC Zwolle", "0-1"],
       ["Heracles-Emmen", "2-1"],
       ["Emmen-Fortuna Sitt", "3-3"],
-      ["PSV-Emmen", "6-0"]
+      ["PSV-Emmen", "6-0"],
+      ["Emmen-VVV", "1-1"],
+      ["Heerenveen-Emmen", "1-1"]
     ],
     "VVV": [
       ["Willem II-VVV", "0-1"],
@@ -429,7 +437,8 @@
       ["VVV-NAC Breda", "3-0"],
       ["Excelsior-VVV", "1-0"],
       ["PSV-VVV", "4-0"],
-      ["VVV-ADO Den Haag", "2-0"]
+      ["VVV-ADO Den Haag", "2-0"],
+      ["Emmen-VVV", "1-1"]
     ],
     "Vitesse": [
       ["Vitesse-Groningen", "5-1"],
@@ -440,7 +449,9 @@
       ["Vitesse-ADO Den Haag", "1-1"],
       ["Feyenoord-Vitesse", "2-1"],
       ["Vitesse-Heracles", "4-0"],
-      ["Excelsior-Vitesse", "2-0"]
+      ["Excelsior-Vitesse", "2-0"],
+      ["Vitesse-Fortuna Sitt", "2-1"],
+      ["PSV-Vitesse", "1-0"]
     ],
     "De Graafscha": [
       ["De Graafscha-Feyenoord", "2-0"],
@@ -451,7 +462,9 @@
       ["Heracles-De Graafscha", "4-0"],
       ["De Graafscha-Willem II", "2-1"],
       ["De Graafscha-Heerenveen", "0-5"],
-      ["Fortuna Sitt-De Graafscha", "3-1"]
+      ["Fortuna Sitt-De Graafscha", "3-1"],
+      ["De Graafscha-Excelsior", "4-1"],
+      ["AZ-De Graafscha", "1-0"]
     ],
     "ADO Den Haag": [
       ["ADO Den Haag-Emmen", "1-2"],
@@ -462,7 +475,9 @@
       ["Vitesse-ADO Den Haag", "1-1"],
       ["Heerenveen-ADO Den Haag", "1-1"],
       ["ADO Den Haag-Groningen", "1-0"],
-      ["VVV-ADO Den Haag", "2-0"]
+      ["VVV-ADO Den Haag", "2-0"],
+      ["ADO Den Haag-NAC Breda", "1-1"],
+      ["Utrecht-ADO Den Haag", "3-0"]
     ],
     "Ajax": [
       ["Ajax-Heracles", "1-1"],
@@ -473,7 +488,9 @@
       ["PSV-Ajax", "3-0"],
       ["Fortuna Sitt-Ajax", "0-2"],
       ["Ajax-AZ", "5-0"],
-      ["Heerenveen-Ajax", "0-4"]
+      ["Heerenveen-Ajax", "0-4"],
+      ["Ajax-Feyenoord", "3-0"],
+      ["Ajax-Willem II", "2-0"]
     ],
     "NAC Breda": [
       ["AZ-NAC Breda", "5-0"],
@@ -484,7 +501,9 @@
       ["VVV-NAC Breda", "3-0"],
       ["NAC Breda-PSV", "0-2"],
       ["Utrecht-NAC Breda", "2-1"],
-      ["NAC Breda-Willem II", "2-2"]
+      ["NAC Breda-Willem II", "2-2"],
+      ["ADO Den Haag-NAC Breda", "1-1"],
+      ["NAC Breda-Heracles", "2-1"]
     ],
     "Utrecht": [
       ["PSV-Utrecht", "4-0"],
@@ -495,7 +514,9 @@
       ["Feyenoord-Utrecht", "1-0"],
       ["Groningen-Utrecht", "1-1"],
       ["Utrecht-NAC Breda", "2-1"],
-      ["Utrecht-AZ", "2-1"]
+      ["Utrecht-AZ", "2-1"],
+      ["Willem II-Utrecht", "0-1"],
+      ["Utrecht-ADO Den Haag", "3-0"]
     ],
     "Excelsior": [
       ["Excelsior-Fortuna Sitt", "1-1"],
@@ -506,7 +527,9 @@
       ["Excelsior-Heerenveen", "3-3"],
       ["Excelsior-VVV", "1-0"],
       ["PEC Zwolle-Excelsior", "2-0"],
-      ["Excelsior-Vitesse", "2-0"]
+      ["Excelsior-Vitesse", "2-0"],
+      ["De Graafscha-Excelsior", "4-1"],
+      ["Excelsior-Groningen", "2-4"]
     ],
     "PEC Zwolle": [
       ["PEC Zwolle-Heerenveen", "2-3"],
@@ -517,7 +540,9 @@
       ["Emmen-PEC Zwolle", "0-1"],
       ["AZ-PEC Zwolle", "2-2"],
       ["PEC Zwolle-Excelsior", "2-0"],
-      ["Feyenoord-PEC Zwolle", "3-0"]
+      ["Feyenoord-PEC Zwolle", "3-0"],
+      ["PEC Zwolle-Heracles", "1-1"],
+      ["Fortuna Sitt-PEC Zwolle", "3-0"]
     ],
     "Feyenoord": [
       ["De Graafscha-Feyenoord", "2-0"],
@@ -528,7 +553,8 @@
       ["Feyenoord-Utrecht", "1-0"],
       ["Feyenoord-Vitesse", "2-1"],
       ["Willem II-Feyenoord", "1-1"],
-      ["Feyenoord-PEC Zwolle", "3-0"]
+      ["Feyenoord-PEC Zwolle", "3-0"],
+      ["Ajax-Feyenoord", "3-0"]
     ],
     "Heerenveen": [
       ["PEC Zwolle-Heerenveen", "2-3"],
@@ -539,7 +565,9 @@
       ["Excelsior-Heerenveen", "3-3"],
       ["Heerenveen-ADO Den Haag", "1-1"],
       ["De Graafscha-Heerenveen", "0-5"],
-      ["Heerenveen-Ajax", "0-4"]
+      ["Heerenveen-Ajax", "0-4"],
+      ["AZ-Heerenveen", "2-3"],
+      ["Heerenveen-Emmen", "1-1"]
     ],
     "AZ": [
       ["AZ-NAC Breda", "5-0"],
@@ -550,7 +578,9 @@
       ["Groningen-AZ", "1-3"],
       ["AZ-PEC Zwolle", "2-2"],
       ["Ajax-AZ", "5-0"],
-      ["Utrecht-AZ", "2-1"]
+      ["Utrecht-AZ", "2-1"],
+      ["AZ-Heerenveen", "2-3"],
+      ["AZ-De Graafscha", "1-0"]
     ],
     "PSV": [
       ["PSV-Utrecht", "4-0"],
@@ -561,7 +591,9 @@
       ["PSV-Ajax", "3-0"],
       ["NAC Breda-PSV", "0-2"],
       ["PSV-VVV", "4-0"],
-      ["PSV-Emmen", "6-0"]
+      ["PSV-Emmen", "6-0"],
+      ["Groningen-PSV", "1-2"],
+      ["PSV-Vitesse", "1-0"]
     ],
     "Willem II": [
       ["Willem II-VVV", "0-1"],
@@ -572,7 +604,9 @@
       ["Fortuna Sitt-Willem II", "4-4"],
       ["De Graafscha-Willem II", "2-1"],
       ["Willem II-Feyenoord", "1-1"],
-      ["NAC Breda-Willem II", "2-2"]
+      ["NAC Breda-Willem II", "2-2"],
+      ["Willem II-Utrecht", "0-1"],
+      ["Ajax-Willem II", "2-0"]
     ]
   },
   "teams": {

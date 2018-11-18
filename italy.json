@@ -121,7 +121,6 @@
       ["Fiorentina-Torino", ""]
     ],
     "1": [
-      ["Milan-Genoa", ""],
       ["Chievo-Juventus", "2-3"],
       ["Lazio-Napoli", "1-2"],
       ["Torino-Roma", "0-1"],
@@ -130,7 +129,8 @@
       ["Parma-Udinese", "2-2"],
       ["Sassuolo-Internaziona", "1-0"],
       ["Atalanta-Frosinone", "4-0"],
-      ["Sampdoria-Fiorentina", "1-1"]
+      ["Sampdoria-Fiorentina", "1-1"],
+      ["Milan-Genoa", "2-1"]
     ],
     "3": [
       ["Milan-Roma", "2-1"],
@@ -228,41 +228,41 @@
       ["Napoli-Sassuolo", "2-0"],
       ["SPAL-Internaziona", "1-2"]
     ],
-    "12": [
-      ["Atalanta-Internaziona", ""],
-      ["Chievo-Bologna", ""],
-      ["Empoli-Udinese", ""],
-      ["Frosinone-Fiorentina", ""],
-      ["Genoa-Napoli", ""],
-      ["Milan-Juventus", ""],
-      ["Roma-Sampdoria", ""],
-      ["Sassuolo-Lazio", ""],
-      ["SPAL-Cagliari", ""],
-      ["Torino-Parma", ""]
+    "38": [
+      ["Frosinone-Chievo", ""],
+      ["Internaziona-Empoli", ""],
+      ["Fiorentina-Genoa", ""],
+      ["Sampdoria-Juventus", ""],
+      ["Torino-Lazio", ""],
+      ["SPAL-Milan", ""],
+      ["Bologna-Napoli", ""],
+      ["Roma-Parma", ""],
+      ["Atalanta-Sassuolo", ""],
+      ["Cagliari-Udinese", ""]
     ],
     "11": [
-      ["Bologna-Atalanta", ""],
-      ["Chievo-Sassuolo", ""],
-      ["Fiorentina-Roma", ""],
-      ["Internaziona-Genoa", ""],
-      ["Juventus-Cagliari", ""],
-      ["Lazio-SPAL", ""],
-      ["Napoli-Empoli", ""],
-      ["Parma-Frosinone", ""],
-      ["Sampdoria-Torino", ""],
-      ["Udinese-Milan", ""]
+      ["Napoli-Empoli", "5-1"],
+      ["Internaziona-Genoa", "5-0"],
+      ["Fiorentina-Roma", "1-1"],
+      ["Juventus-Cagliari", "3-1"],
+      ["Lazio-SPAL", "4-1"],
+      ["Chievo-Sassuolo", "0-2"],
+      ["Parma-Frosinone", "0-0"],
+      ["Sampdoria-Torino", "1-4"],
+      ["Bologna-Atalanta", "1-2"],
+      ["Udinese-Milan", "0-1"]
     ],
     "10": [
-      ["Cagliari-Chievo", ""],
-      ["Genoa-Udinese", ""],
-      ["SPAL-Frosinone", ""],
-      ["Milan-Sampdoria", ""],
-      ["Napoli-Roma", ""],
-      ["Lazio-Internaziona", ""],
       ["Atalanta-Parma", "3-0"],
       ["Empoli-Juventus", "1-2"],
       ["Torino-Fiorentina", "1-1"],
-      ["Sassuolo-Bologna", "2-2"]
+      ["Sassuolo-Bologna", "2-2"],
+      ["Cagliari-Chievo", "2-1"],
+      ["Genoa-Udinese", "2-2"],
+      ["SPAL-Frosinone", "0-3"],
+      ["Milan-Sampdoria", "3-2"],
+      ["Napoli-Roma", "1-1"],
+      ["Lazio-Internaziona", "0-3"]
     ],
     "13": [
       ["Bologna-Fiorentina", ""],
@@ -276,17 +276,17 @@
       ["Parma-Sassuolo", ""],
       ["Udinese-Roma", ""]
     ],
-    "38": [
-      ["Frosinone-Chievo", ""],
-      ["Internaziona-Empoli", ""],
-      ["Fiorentina-Genoa", ""],
-      ["Sampdoria-Juventus", ""],
-      ["Torino-Lazio", ""],
-      ["SPAL-Milan", ""],
-      ["Bologna-Napoli", ""],
-      ["Roma-Parma", ""],
-      ["Atalanta-Sassuolo", ""],
-      ["Cagliari-Udinese", ""]
+    "12": [
+      ["Frosinone-Fiorentina", "1-1"],
+      ["Torino-Parma", "1-2"],
+      ["SPAL-Cagliari", "2-2"],
+      ["Genoa-Napoli", "1-2"],
+      ["Atalanta-Internaziona", "4-1"],
+      ["Chievo-Bologna", "2-2"],
+      ["Empoli-Udinese", "2-1"],
+      ["Roma-Sampdoria", "4-1"],
+      ["Sassuolo-Lazio", "1-1"],
+      ["Milan-Juventus", "0-2"]
     ],
     "15": [
       ["Cagliari-Roma", ""],
@@ -457,7 +457,7 @@
       ["Roma-Udinese", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Udinese": [
       ["Parma-Udinese", "2-2"],
       ["Udinese-Sampdoria", "1-0"],
@@ -467,7 +467,9 @@
       ["Udinese-Lazio", "1-2"],
       ["Bologna-Udinese", "2-1"],
       ["Udinese-Juventus", "0-2"],
-      ["Udinese-Napoli", "0-3"]
+      ["Udinese-Napoli", "0-3"],
+      ["Genoa-Udinese", "2-2"],
+      ["Udinese-Milan", "0-1"]
     ],
     "Chievo": [
       ["Chievo-Juventus", "2-3"],
@@ -478,7 +480,9 @@
       ["Genoa-Chievo", "2-0"],
       ["Chievo-Torino", "0-1"],
       ["Milan-Chievo", "3-1"],
-      ["Chievo-Atalanta", "1-5"]
+      ["Chievo-Atalanta", "1-5"],
+      ["Cagliari-Chievo", "2-1"],
+      ["Chievo-Sassuolo", "0-2"]
     ],
     "SPAL": [
       ["Bologna-SPAL", "0-1"],
@@ -489,7 +493,9 @@
       ["SPAL-Sassuolo", "0-2"],
       ["Sampdoria-SPAL", "2-1"],
       ["SPAL-Internaziona", "1-2"],
-      ["Roma-SPAL", "0-2"]
+      ["Roma-SPAL", "0-2"],
+      ["SPAL-Frosinone", "0-3"],
+      ["Lazio-SPAL", "4-1"]
     ],
     "Napoli": [
       ["Lazio-Napoli", "1-2"],
@@ -500,7 +506,9 @@
       ["Napoli-Parma", "3-0"],
       ["Juventus-Napoli", "3-1"],
       ["Napoli-Sassuolo", "2-0"],
-      ["Udinese-Napoli", "0-3"]
+      ["Udinese-Napoli", "0-3"],
+      ["Napoli-Roma", "1-1"],
+      ["Napoli-Empoli", "5-1"]
     ],
     "Lazio": [
       ["Lazio-Napoli", "1-2"],
@@ -511,7 +519,9 @@
       ["Udinese-Lazio", "1-2"],
       ["Roma-Lazio", "3-1"],
       ["Lazio-Fiorentina", "1-0"],
-      ["Parma-Lazio", "0-2"]
+      ["Parma-Lazio", "0-2"],
+      ["Lazio-Internaziona", "0-3"],
+      ["Lazio-SPAL", "4-1"]
     ],
     "Bologna": [
       ["Bologna-SPAL", "0-1"],
@@ -522,7 +532,9 @@
       ["Juventus-Bologna", "2-0"],
       ["Bologna-Udinese", "2-1"],
       ["Cagliari-Bologna", "2-0"],
-      ["Bologna-Torino", "2-2"]
+      ["Bologna-Torino", "2-2"],
+      ["Sassuolo-Bologna", "2-2"],
+      ["Bologna-Atalanta", "1-2"]
     ],
     "Torino": [
       ["Torino-Roma", "0-1"],
@@ -533,7 +545,9 @@
       ["Atalanta-Torino", "0-0"],
       ["Chievo-Torino", "0-1"],
       ["Torino-Frosinone", "3-2"],
-      ["Bologna-Torino", "2-2"]
+      ["Bologna-Torino", "2-2"],
+      ["Torino-Fiorentina", "1-1"],
+      ["Sampdoria-Torino", "1-4"]
     ],
     "Sassuolo": [
       ["Sassuolo-Internaziona", "1-0"],
@@ -544,7 +558,9 @@
       ["SPAL-Sassuolo", "0-2"],
       ["Sassuolo-Milan", "1-4"],
       ["Napoli-Sassuolo", "2-0"],
-      ["Sampdoria-Sassuolo", "0-0"]
+      ["Sampdoria-Sassuolo", "0-0"],
+      ["Sassuolo-Bologna", "2-2"],
+      ["Chievo-Sassuolo", "0-2"]
     ],
     "Internaziona": [
       ["Sassuolo-Internaziona", "1-0"],
@@ -555,7 +571,9 @@
       ["Internaziona-Fiorentina", "2-1"],
       ["Internaziona-Cagliari", "2-0"],
       ["SPAL-Internaziona", "1-2"],
-      ["Internaziona-Milan", "1-0"]
+      ["Internaziona-Milan", "1-0"],
+      ["Lazio-Internaziona", "0-3"],
+      ["Internaziona-Genoa", "5-0"]
     ],
     "Atalanta": [
       ["Atalanta-Frosinone", "4-0"],
@@ -566,7 +584,9 @@
       ["Atalanta-Torino", "0-0"],
       ["Fiorentina-Atalanta", "2-0"],
       ["Atalanta-Sampdoria", "0-1"],
-      ["Chievo-Atalanta", "1-5"]
+      ["Chievo-Atalanta", "1-5"],
+      ["Atalanta-Parma", "3-0"],
+      ["Bologna-Atalanta", "1-2"]
     ],
     "Sampdoria": [
       ["Sampdoria-Fiorentina", "1-1"],
@@ -577,9 +597,12 @@
       ["Cagliari-Sampdoria", "0-0"],
       ["Sampdoria-SPAL", "2-1"],
       ["Atalanta-Sampdoria", "0-1"],
-      ["Sampdoria-Sassuolo", "0-0"]
+      ["Sampdoria-Sassuolo", "0-0"],
+      ["Milan-Sampdoria", "3-2"],
+      ["Sampdoria-Torino", "1-4"]
     ],
     "Milan": [
+      ["Milan-Genoa", "2-1"],
       ["Napoli-Milan", "3-2"],
       ["Milan-Roma", "2-1"],
       ["Cagliari-Milan", "1-1"],
@@ -587,7 +610,9 @@
       ["Empoli-Milan", "1-1"],
       ["Sassuolo-Milan", "1-4"],
       ["Milan-Chievo", "3-1"],
-      ["Internaziona-Milan", "1-0"]
+      ["Internaziona-Milan", "1-0"],
+      ["Milan-Sampdoria", "3-2"],
+      ["Udinese-Milan", "0-1"]
     ],
     "Frosinone": [
       ["Atalanta-Frosinone", "4-0"],
@@ -598,7 +623,9 @@
       ["Roma-Frosinone", "4-0"],
       ["Frosinone-Genoa", "1-2"],
       ["Torino-Frosinone", "3-2"],
-      ["Frosinone-Empoli", "3-3"]
+      ["Frosinone-Empoli", "3-3"],
+      ["SPAL-Frosinone", "0-3"],
+      ["Parma-Frosinone", "0-0"]
     ],
     "Empoli": [
       ["Empoli-Cagliari", "2-0"],
@@ -609,7 +636,9 @@
       ["Empoli-Milan", "1-1"],
       ["Parma-Empoli", "1-0"],
       ["Empoli-Roma", "0-2"],
-      ["Frosinone-Empoli", "3-3"]
+      ["Frosinone-Empoli", "3-3"],
+      ["Empoli-Juventus", "1-2"],
+      ["Napoli-Empoli", "5-1"]
     ],
     "Juventus": [
       ["Chievo-Juventus", "2-3"],
@@ -620,7 +649,9 @@
       ["Juventus-Bologna", "2-0"],
       ["Juventus-Napoli", "3-1"],
       ["Udinese-Juventus", "0-2"],
-      ["Juventus-Genoa", "1-1"]
+      ["Juventus-Genoa", "1-1"],
+      ["Empoli-Juventus", "1-2"],
+      ["Juventus-Cagliari", "3-1"]
     ],
     "Roma": [
       ["Torino-Roma", "0-1"],
@@ -631,7 +662,9 @@
       ["Roma-Frosinone", "4-0"],
       ["Roma-Lazio", "3-1"],
       ["Empoli-Roma", "0-2"],
-      ["Roma-SPAL", "0-2"]
+      ["Roma-SPAL", "0-2"],
+      ["Napoli-Roma", "1-1"],
+      ["Fiorentina-Roma", "1-1"]
     ],
     "Parma": [
       ["Parma-Udinese", "2-2"],
@@ -642,9 +675,12 @@
       ["Napoli-Parma", "3-0"],
       ["Parma-Empoli", "1-0"],
       ["Genoa-Parma", "1-3"],
-      ["Parma-Lazio", "0-2"]
+      ["Parma-Lazio", "0-2"],
+      ["Atalanta-Parma", "3-0"],
+      ["Parma-Frosinone", "0-0"]
     ],
     "Genoa": [
+      ["Milan-Genoa", "2-1"],
       ["Genoa-Empoli", "2-1"],
       ["Sassuolo-Genoa", "5-3"],
       ["Genoa-Bologna", "1-0"],
@@ -652,7 +688,9 @@
       ["Genoa-Chievo", "2-0"],
       ["Frosinone-Genoa", "1-2"],
       ["Genoa-Parma", "1-3"],
-      ["Juventus-Genoa", "1-1"]
+      ["Juventus-Genoa", "1-1"],
+      ["Genoa-Udinese", "2-2"],
+      ["Internaziona-Genoa", "5-0"]
     ],
     "Cagliari": [
       ["Empoli-Cagliari", "2-0"],
@@ -663,7 +701,9 @@
       ["Cagliari-Sampdoria", "0-0"],
       ["Internaziona-Cagliari", "2-0"],
       ["Cagliari-Bologna", "2-0"],
-      ["Fiorentina-Cagliari", "1-1"]
+      ["Fiorentina-Cagliari", "1-1"],
+      ["Cagliari-Chievo", "2-1"],
+      ["Juventus-Cagliari", "3-1"]
     ],
     "Fiorentina": [
       ["Sampdoria-Fiorentina", "1-1"],
@@ -674,7 +714,9 @@
       ["Internaziona-Fiorentina", "2-1"],
       ["Fiorentina-Atalanta", "2-0"],
       ["Lazio-Fiorentina", "1-0"],
-      ["Fiorentina-Cagliari", "1-1"]
+      ["Fiorentina-Cagliari", "1-1"],
+      ["Torino-Fiorentina", "1-1"],
+      ["Fiorentina-Roma", "1-1"]
     ]
   },
   "teams": {

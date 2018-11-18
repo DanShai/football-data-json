@@ -188,26 +188,26 @@
       ["Desportivo A-Portimonense", "3-0"]
     ],
     "9": [
-      ["Santa Clara-Sporting CP", ""],
-      ["Chaves-Desportivo A", ""],
-      ["Portimonense-Belenenses", ""],
-      ["Rio Ave-Nacional", ""],
-      ["Maritimo-Porto", ""],
-      ["Boavista-Vitoria Guim", ""],
-      ["Feirense-Tondela", ""],
-      ["Sporting Bra-Vitoria Setu", ""],
-      ["Benfica-Moreirense", ""]
+      ["Benfica-Moreirense", "1-3"],
+      ["Portimonense-Belenenses", "1-1"],
+      ["Maritimo-Porto", "0-2"],
+      ["Boavista-Vitoria Guim", "0-0"],
+      ["Feirense-Tondela", "2-4"],
+      ["Santa Clara-Sporting CP", "1-2"],
+      ["Sporting Bra-Vitoria Setu", "2-1"],
+      ["Rio Ave-Nacional", "3-3"],
+      ["Chaves-Desportivo A", "1-2"]
     ],
     "8": [
-      ["Tondela-Vitoria Setu", ""],
-      ["Moreirense-Maritimo", ""],
-      ["Porto-Feirense", ""],
-      ["Sporting CP-Boavista", ""],
       ["Nacional-Portimonense", "0-1"],
       ["Vitoria Guim-Sporting Bra", "1-1"],
       ["Desportivo A-Santa Clara", "1-2"],
       ["Rio Ave-Chaves", "1-0"],
-      ["Belenenses-Benfica", "2-0"]
+      ["Belenenses-Benfica", "2-0"],
+      ["Moreirense-Maritimo", "1-0"],
+      ["Tondela-Vitoria Setu", "1-2"],
+      ["Porto-Feirense", "2-0"],
+      ["Sporting CP-Boavista", "3-0"]
     ],
     "11": [
       ["Santa Clara-Belenenses", ""],
@@ -221,15 +221,15 @@
       ["Boavista-Porto", ""]
     ],
     "10": [
-      ["Sporting CP-Chaves", ""],
-      ["Vitoria Guim-Santa Clara", ""],
-      ["Vitoria Setu-Feirense", ""],
-      ["Nacional-Maritimo", ""],
-      ["Porto-Sporting Bra", ""],
-      ["Tondela-Benfica", ""],
-      ["Belenenses-Boavista", ""],
-      ["Desportivo A-Rio Ave", ""],
-      ["Moreirense-Portimonense", ""]
+      ["Moreirense-Portimonense", "2-0"],
+      ["Vitoria Setu-Feirense", "2-1"],
+      ["Belenenses-Boavista", "0-0"],
+      ["Desportivo A-Rio Ave", "2-1"],
+      ["Nacional-Maritimo", "1-0"],
+      ["Porto-Sporting Bra", "1-0"],
+      ["Vitoria Guim-Santa Clara", "2-0"],
+      ["Tondela-Benfica", "1-3"],
+      ["Sporting CP-Chaves", "2-1"]
     ],
     "13": [
       ["Santa Clara-Porto", ""],
@@ -375,7 +375,7 @@
       ["Maritimo-Sporting Bra", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Porto": [
       ["Porto-Chaves", "5-0"],
       ["Belenenses-Porto", "2-3"],
@@ -383,7 +383,10 @@
       ["Porto-Moreirense", "3-0"],
       ["Vitoria Setu-Porto", "0-2"],
       ["Porto-Tondela", "1-0"],
-      ["Benfica-Porto", "1-0"]
+      ["Benfica-Porto", "1-0"],
+      ["Porto-Feirense", "2-0"],
+      ["Maritimo-Porto", "0-2"],
+      ["Porto-Sporting Bra", "1-0"]
     ],
     "Feirense": [
       ["Feirense-Rio Ave", "2-0"],
@@ -392,7 +395,10 @@
       ["Sporting CP-Feirense", "1-0"],
       ["Feirense-Nacional", "0-0"],
       ["Moreirense-Feirense", "1-0"],
-      ["Feirense-Belenenses", "0-0"]
+      ["Feirense-Belenenses", "0-0"],
+      ["Porto-Feirense", "2-0"],
+      ["Feirense-Tondela", "2-4"],
+      ["Vitoria Setu-Feirense", "2-1"]
     ],
     "Maritimo": [
       ["Maritimo-Santa Clara", "1-0"],
@@ -401,7 +407,10 @@
       ["Desportivo A-Maritimo", "0-1"],
       ["Maritimo-Belenenses", "0-0"],
       ["Sporting CP-Maritimo", "2-0"],
-      ["Maritimo-Vitoria Guim", "1-3"]
+      ["Maritimo-Vitoria Guim", "1-3"],
+      ["Moreirense-Maritimo", "1-0"],
+      ["Maritimo-Porto", "0-2"],
+      ["Nacional-Maritimo", "1-0"]
     ],
     "Boavista": [
       ["Portimonense-Boavista", "0-2"],
@@ -410,7 +419,10 @@
       ["Santa Clara-Boavista", "4-2"],
       ["Boavista-Chaves", "1-2"],
       ["Rio Ave-Boavista", "2-1"],
-      ["Boavista-Desportivo A", "1-0"]
+      ["Boavista-Desportivo A", "1-0"],
+      ["Sporting CP-Boavista", "3-0"],
+      ["Boavista-Vitoria Guim", "0-0"],
+      ["Belenenses-Boavista", "0-0"]
     ],
     "Sporting CP": [
       ["Moreirense-Sporting CP", "1-3"],
@@ -419,7 +431,10 @@
       ["Sporting CP-Feirense", "1-0"],
       ["Sporting Bra-Sporting CP", "1-0"],
       ["Sporting CP-Maritimo", "2-0"],
-      ["Portimonense-Sporting CP", "4-2"]
+      ["Portimonense-Sporting CP", "4-2"],
+      ["Sporting CP-Boavista", "3-0"],
+      ["Santa Clara-Sporting CP", "1-2"],
+      ["Sporting CP-Chaves", "2-1"]
     ],
     "Chaves": [
       ["Porto-Chaves", "5-0"],
@@ -429,7 +444,9 @@
       ["Boavista-Chaves", "1-2"],
       ["Chaves-Benfica", "2-2"],
       ["Santa Clara-Chaves", "1-0"],
-      ["Rio Ave-Chaves", "1-0"]
+      ["Rio Ave-Chaves", "1-0"],
+      ["Chaves-Desportivo A", "1-2"],
+      ["Sporting CP-Chaves", "2-1"]
     ],
     "Sporting Bra": [
       ["Sporting Bra-Nacional", "4-2"],
@@ -439,7 +456,9 @@
       ["Sporting Bra-Sporting CP", "1-0"],
       ["Belenenses-Sporting Bra", "0-3"],
       ["Sporting Bra-Rio Ave", "1-1"],
-      ["Vitoria Guim-Sporting Bra", "1-1"]
+      ["Vitoria Guim-Sporting Bra", "1-1"],
+      ["Sporting Bra-Vitoria Setu", "2-1"],
+      ["Porto-Sporting Bra", "1-0"]
     ],
     "Portimonense": [
       ["Portimonense-Boavista", "0-2"],
@@ -449,7 +468,9 @@
       ["Portimonense-Vitoria Guim", "3-2"],
       ["Desportivo A-Portimonense", "3-0"],
       ["Portimonense-Sporting CP", "4-2"],
-      ["Nacional-Portimonense", "0-1"]
+      ["Nacional-Portimonense", "0-1"],
+      ["Portimonense-Belenenses", "1-1"],
+      ["Moreirense-Portimonense", "2-0"]
     ],
     "Benfica": [
       ["Benfica-Vitoria Guim", "3-2"],
@@ -459,7 +480,9 @@
       ["Benfica-Desportivo A", "2-0"],
       ["Chaves-Benfica", "2-2"],
       ["Benfica-Porto", "1-0"],
-      ["Belenenses-Benfica", "2-0"]
+      ["Belenenses-Benfica", "2-0"],
+      ["Benfica-Moreirense", "1-3"],
+      ["Tondela-Benfica", "1-3"]
     ],
     "Vitoria Setu": [
       ["Vitoria Setu-Desportivo A", "2-0"],
@@ -468,7 +491,10 @@
       ["Belenenses-Vitoria Setu", "0-0"],
       ["Vitoria Setu-Porto", "0-2"],
       ["Vitoria Guim-Vitoria Setu", "1-1"],
-      ["Vitoria Setu-Moreirense", "3-0"]
+      ["Vitoria Setu-Moreirense", "3-0"],
+      ["Tondela-Vitoria Setu", "1-2"],
+      ["Sporting Bra-Vitoria Setu", "2-1"],
+      ["Vitoria Setu-Feirense", "2-1"]
     ],
     "Desportivo A": [
       ["Vitoria Setu-Desportivo A", "2-0"],
@@ -478,7 +504,9 @@
       ["Benfica-Desportivo A", "2-0"],
       ["Desportivo A-Portimonense", "3-0"],
       ["Boavista-Desportivo A", "1-0"],
-      ["Desportivo A-Santa Clara", "1-2"]
+      ["Desportivo A-Santa Clara", "1-2"],
+      ["Chaves-Desportivo A", "1-2"],
+      ["Desportivo A-Rio Ave", "2-1"]
     ],
     "Moreirense": [
       ["Moreirense-Sporting CP", "1-3"],
@@ -487,7 +515,10 @@
       ["Porto-Moreirense", "3-0"],
       ["Tondela-Moreirense", "2-0"],
       ["Moreirense-Feirense", "1-0"],
-      ["Vitoria Setu-Moreirense", "3-0"]
+      ["Vitoria Setu-Moreirense", "3-0"],
+      ["Moreirense-Maritimo", "1-0"],
+      ["Benfica-Moreirense", "1-3"],
+      ["Moreirense-Portimonense", "2-0"]
     ],
     "Belenenses": [
       ["Tondela-Belenenses", "0-1"],
@@ -497,7 +528,9 @@
       ["Maritimo-Belenenses", "0-0"],
       ["Belenenses-Sporting Bra", "0-3"],
       ["Feirense-Belenenses", "0-0"],
-      ["Belenenses-Benfica", "2-0"]
+      ["Belenenses-Benfica", "2-0"],
+      ["Portimonense-Belenenses", "1-1"],
+      ["Belenenses-Boavista", "0-0"]
     ],
     "Nacional": [
       ["Sporting Bra-Nacional", "4-2"],
@@ -507,7 +540,9 @@
       ["Feirense-Nacional", "0-0"],
       ["Nacional-Santa Clara", "0-3"],
       ["Tondela-Nacional", "1-1"],
-      ["Nacional-Portimonense", "0-1"]
+      ["Nacional-Portimonense", "0-1"],
+      ["Rio Ave-Nacional", "3-3"],
+      ["Nacional-Maritimo", "1-0"]
     ],
     "Tondela": [
       ["Tondela-Belenenses", "0-1"],
@@ -516,7 +551,10 @@
       ["Vitoria Guim-Tondela", "1-0"],
       ["Tondela-Moreirense", "2-0"],
       ["Porto-Tondela", "1-0"],
-      ["Tondela-Nacional", "1-1"]
+      ["Tondela-Nacional", "1-1"],
+      ["Tondela-Vitoria Setu", "1-2"],
+      ["Feirense-Tondela", "2-4"],
+      ["Tondela-Benfica", "1-3"]
     ],
     "Rio Ave": [
       ["Feirense-Rio Ave", "2-0"],
@@ -526,7 +564,9 @@
       ["Santa Clara-Rio Ave", "1-3"],
       ["Rio Ave-Boavista", "2-1"],
       ["Sporting Bra-Rio Ave", "1-1"],
-      ["Rio Ave-Chaves", "1-0"]
+      ["Rio Ave-Chaves", "1-0"],
+      ["Rio Ave-Nacional", "3-3"],
+      ["Desportivo A-Rio Ave", "2-1"]
     ],
     "Vitoria Guim": [
       ["Benfica-Vitoria Guim", "3-2"],
@@ -536,7 +576,9 @@
       ["Portimonense-Vitoria Guim", "3-2"],
       ["Vitoria Guim-Vitoria Setu", "1-1"],
       ["Maritimo-Vitoria Guim", "1-3"],
-      ["Vitoria Guim-Sporting Bra", "1-1"]
+      ["Vitoria Guim-Sporting Bra", "1-1"],
+      ["Boavista-Vitoria Guim", "0-0"],
+      ["Vitoria Guim-Santa Clara", "2-0"]
     ],
     "Santa Clara": [
       ["Maritimo-Santa Clara", "1-0"],
@@ -546,7 +588,9 @@
       ["Santa Clara-Rio Ave", "1-3"],
       ["Nacional-Santa Clara", "0-3"],
       ["Santa Clara-Chaves", "1-0"],
-      ["Desportivo A-Santa Clara", "1-2"]
+      ["Desportivo A-Santa Clara", "1-2"],
+      ["Santa Clara-Sporting CP", "1-2"],
+      ["Vitoria Guim-Santa Clara", "2-0"]
     ]
   },
   "teams": {

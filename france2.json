@@ -229,7 +229,6 @@
       ["Niort-Lens", "1-2"]
     ],
     "12": [
-      ["Clermont-Brest", ""],
       ["Gazelec Ajac-Beziers", "0-1"],
       ["Auxerre-Paris", "0-2"],
       ["Chateauroux-Ajaccio", "2-2"],
@@ -238,7 +237,8 @@
       ["Red Star-Orleans", "0-4"],
       ["Sochaux-Niort", "0-3"],
       ["Valenciennes-Nancy", "1-1"],
-      ["Le Havre-Lens", "2-1"]
+      ["Le Havre-Lens", "2-1"],
+      ["Clermont-Brest", "2-2"]
     ],
     "11": [
       ["Beziers-Auxerre", ""],
@@ -265,16 +265,16 @@
       ["Sochaux-Metz", "1-2"]
     ],
     "13": [
-      ["Ajaccio-Gazelec Ajac", ""],
-      ["Beziers-Lorient", ""],
-      ["Brest-Red Star", ""],
-      ["Lens-Chateauroux", ""],
-      ["Metz-Auxerre", ""],
-      ["Nancy-Clermont", ""],
-      ["Niort-Le Havre", ""],
-      ["Orleans-Grenoble Foo", ""],
-      ["Paris-Sochaux", ""],
-      ["Troyes-Valenciennes", ""]
+      ["Ajaccio-Gazelec Ajac", "1-2"],
+      ["Brest-Red Star", "1-1"],
+      ["Nancy-Clermont", "0-1"],
+      ["Paris-Sochaux", "0-0"],
+      ["Beziers-Lorient", "0-1"],
+      ["Lens-Chateauroux", "0-1"],
+      ["Niort-Le Havre", "1-0"],
+      ["Orleans-Grenoble Foo", "0-3"],
+      ["Troyes-Valenciennes", "4-2"],
+      ["Metz-Auxerre", "0-1"]
     ],
     "38": [
       ["Auxerre-Valenciennes", ""],
@@ -301,16 +301,16 @@
       ["Troyes-Lorient", ""]
     ],
     "14": [
-      ["Gazelec Ajac-Troyes", ""],
-      ["Auxerre-Niort", ""],
-      ["Brest-Nancy", ""],
-      ["Chateauroux-Metz", ""],
-      ["Clermont-Orleans", ""],
-      ["Grenoble Foo-Ajaccio", ""],
-      ["Le Havre-Sochaux", ""],
-      ["Lorient-Paris", ""],
-      ["Red Star-Beziers", ""],
-      ["Valenciennes-Lens", ""]
+      ["Gazelec Ajac-Troyes", "2-1"],
+      ["Auxerre-Niort", "0-0"],
+      ["Chateauroux-Metz", "1-2"],
+      ["Clermont-Orleans", "3-0"],
+      ["Grenoble Foo-Ajaccio", "2-0"],
+      ["Le Havre-Sochaux", "3-2"],
+      ["Lorient-Paris", "2-1"],
+      ["Red Star-Beziers", "0-3"],
+      ["Valenciennes-Lens", "4-2"],
+      ["Brest-Nancy", "2-1"]
     ],
     "17": [
       ["Ajaccio-Nancy", ""],
@@ -457,7 +457,7 @@
       ["Troyes-Gazelec Ajac", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Troyes": [
       ["Ajaccio-Troyes", "0-1"],
       ["Troyes-Brest", "1-2"],
@@ -467,7 +467,9 @@
       ["Paris-Troyes", "2-0"],
       ["Troyes-Niort", "2-0"],
       ["Le Havre-Troyes", "1-1"],
-      ["Troyes-Auxerre", "1-0"]
+      ["Troyes-Auxerre", "1-0"],
+      ["Chateauroux-Troyes", "0-3"],
+      ["Troyes-Sochaux", "1-2"]
     ],
     "Sochaux": [
       ["Grenoble Foo-Sochaux", "1-0"],
@@ -478,7 +480,9 @@
       ["Sochaux-Beziers", "1-0"],
       ["Lens-Sochaux", "2-0"],
       ["Sochaux-Orleans", "0-1"],
-      ["Nancy-Sochaux", "0-0"]
+      ["Nancy-Sochaux", "0-0"],
+      ["Sochaux-Metz", "1-2"],
+      ["Troyes-Sochaux", "1-2"]
     ],
     "Auxerre": [
       ["Valenciennes-Auxerre", "3-1"],
@@ -489,7 +493,8 @@
       ["Auxerre-Brest", "0-2"],
       ["Clermont-Auxerre", "2-0"],
       ["Auxerre-Ajaccio", "0-0"],
-      ["Troyes-Auxerre", "1-0"]
+      ["Troyes-Auxerre", "1-0"],
+      ["Auxerre-Lens", "1-2"]
     ],
     "Lorient": [
       ["Lorient-Le Havre", "0-0"],
@@ -500,7 +505,9 @@
       ["Lorient-Grenoble Foo", "1-0"],
       ["Red Star-Lorient", "0-3"],
       ["Lorient-Clermont", "0-0"],
-      ["Orleans-Lorient", "2-0"]
+      ["Orleans-Lorient", "2-0"],
+      ["Lorient-Nancy", "4-1"],
+      ["Brest-Lorient", "3-2"]
     ],
     "Ajaccio": [
       ["Ajaccio-Troyes", "0-1"],
@@ -511,7 +518,9 @@
       ["Niort-Ajaccio", "2-0"],
       ["Ajaccio-Paris", "0-0"],
       ["Auxerre-Ajaccio", "0-0"],
-      ["Ajaccio-Valenciennes", "3-1"]
+      ["Ajaccio-Valenciennes", "3-1"],
+      ["Red Star-Ajaccio", "2-0"],
+      ["Ajaccio-Le Havre", "3-2"]
     ],
     "Paris": [
       ["Gazelec Ajac-Paris", "1-1"],
@@ -522,7 +531,9 @@
       ["Paris-Troyes", "2-0"],
       ["Ajaccio-Paris", "0-0"],
       ["Paris-Metz", "2-1"],
-      ["Lens-Paris", "0-0"]
+      ["Lens-Paris", "0-0"],
+      ["Niort-Paris", "1-0"],
+      ["Paris-Chateauroux", "0-0"]
     ],
     "Valenciennes": [
       ["Valenciennes-Auxerre", "3-1"],
@@ -533,7 +544,9 @@
       ["Valenciennes-Clermont", "0-4"],
       ["Grenoble Foo-Valenciennes", "4-2"],
       ["Valenciennes-Red Star", "4-1"],
-      ["Ajaccio-Valenciennes", "3-1"]
+      ["Ajaccio-Valenciennes", "3-1"],
+      ["Valenciennes-Brest", "1-3"],
+      ["Orleans-Valenciennes", "1-0"]
     ],
     "Clermont": [
       ["Clermont-Chateauroux", "0-0"],
@@ -544,7 +557,9 @@
       ["Valenciennes-Clermont", "0-4"],
       ["Clermont-Auxerre", "2-0"],
       ["Lorient-Clermont", "0-0"],
-      ["Clermont-Gazelec Ajac", "1-1"]
+      ["Clermont-Gazelec Ajac", "1-1"],
+      ["Grenoble Foo-Clermont", "1-0"],
+      ["Clermont-Red Star", "0-0"]
     ],
     "Le Havre": [
       ["Lorient-Le Havre", "0-0"],
@@ -555,7 +570,9 @@
       ["Le Havre-Orleans", "3-1"],
       ["Nancy-Le Havre", "0-1"],
       ["Le Havre-Troyes", "1-1"],
-      ["Metz-Le Havre", "0-1"]
+      ["Metz-Le Havre", "0-1"],
+      ["Le Havre-Beziers", "2-3"],
+      ["Ajaccio-Le Havre", "3-2"]
     ],
     "Orleans": [
       ["Orleans-Lens", "0-2"],
@@ -566,7 +583,9 @@
       ["Le Havre-Orleans", "3-1"],
       ["Orleans-Chateauroux", "2-0"],
       ["Sochaux-Orleans", "0-1"],
-      ["Orleans-Lorient", "2-0"]
+      ["Orleans-Lorient", "2-0"],
+      ["Gazelec Ajac-Orleans", "0-2"],
+      ["Orleans-Valenciennes", "1-0"]
     ],
     "Lens": [
       ["Orleans-Lens", "0-2"],
@@ -577,7 +596,9 @@
       ["Metz-Lens", "2-0"],
       ["Lens-Sochaux", "2-0"],
       ["Niort-Lens", "1-2"],
-      ["Lens-Paris", "0-0"]
+      ["Lens-Paris", "0-0"],
+      ["Auxerre-Lens", "1-2"],
+      ["Lens-Gazelec Ajac", "5-0"]
     ],
     "Grenoble Foo": [
       ["Grenoble Foo-Sochaux", "1-0"],
@@ -588,7 +609,9 @@
       ["Lorient-Grenoble Foo", "1-0"],
       ["Grenoble Foo-Valenciennes", "4-2"],
       ["Grenoble Foo-Brest", "1-2"],
-      ["Red Star-Grenoble Foo", "2-3"]
+      ["Red Star-Grenoble Foo", "2-3"],
+      ["Grenoble Foo-Clermont", "1-0"],
+      ["Nancy-Grenoble Foo", "1-2"]
     ],
     "Gazelec Ajac": [
       ["Gazelec Ajac-Paris", "1-1"],
@@ -599,7 +622,9 @@
       ["Gazelec Ajac-Red Star", "2-1"],
       ["Brest-Gazelec Ajac", "4-1"],
       ["Gazelec Ajac-Nancy", "0-1"],
-      ["Clermont-Gazelec Ajac", "1-1"]
+      ["Clermont-Gazelec Ajac", "1-1"],
+      ["Gazelec Ajac-Orleans", "0-2"],
+      ["Lens-Gazelec Ajac", "5-0"]
     ],
     "Beziers": [
       ["Nancy-Beziers", "0-2"],
@@ -610,7 +635,8 @@
       ["Sochaux-Beziers", "1-0"],
       ["Beziers-Metz", "1-3"],
       ["Chateauroux-Beziers", "2-0"],
-      ["Beziers-Niort", "1-1"]
+      ["Beziers-Niort", "1-1"],
+      ["Le Havre-Beziers", "2-3"]
     ],
     "Niort": [
       ["Red Star-Niort", "1-2"],
@@ -621,7 +647,9 @@
       ["Niort-Ajaccio", "2-0"],
       ["Troyes-Niort", "2-0"],
       ["Niort-Lens", "1-2"],
-      ["Beziers-Niort", "1-1"]
+      ["Beziers-Niort", "1-1"],
+      ["Niort-Paris", "1-0"],
+      ["Metz-Niort", "3-0"]
     ],
     "Nancy": [
       ["Nancy-Beziers", "0-2"],
@@ -632,7 +660,9 @@
       ["Chateauroux-Nancy", "1-0"],
       ["Nancy-Le Havre", "0-1"],
       ["Gazelec Ajac-Nancy", "0-1"],
-      ["Nancy-Sochaux", "0-0"]
+      ["Nancy-Sochaux", "0-0"],
+      ["Lorient-Nancy", "4-1"],
+      ["Nancy-Grenoble Foo", "1-2"]
     ],
     "Chateauroux": [
       ["Clermont-Chateauroux", "0-0"],
@@ -643,7 +673,9 @@
       ["Chateauroux-Nancy", "1-0"],
       ["Orleans-Chateauroux", "2-0"],
       ["Chateauroux-Beziers", "2-0"],
-      ["Brest-Chateauroux", "5-1"]
+      ["Brest-Chateauroux", "5-1"],
+      ["Chateauroux-Troyes", "0-3"],
+      ["Paris-Chateauroux", "0-0"]
     ],
     "Brest": [
       ["Brest-Metz", "0-1"],
@@ -654,7 +686,9 @@
       ["Auxerre-Brest", "0-2"],
       ["Brest-Gazelec Ajac", "4-1"],
       ["Grenoble Foo-Brest", "1-2"],
-      ["Brest-Chateauroux", "5-1"]
+      ["Brest-Chateauroux", "5-1"],
+      ["Valenciennes-Brest", "1-3"],
+      ["Brest-Lorient", "3-2"]
     ],
     "Red Star": [
       ["Red Star-Niort", "1-2"],
@@ -665,7 +699,9 @@
       ["Gazelec Ajac-Red Star", "2-1"],
       ["Red Star-Lorient", "0-3"],
       ["Valenciennes-Red Star", "4-1"],
-      ["Red Star-Grenoble Foo", "2-3"]
+      ["Red Star-Grenoble Foo", "2-3"],
+      ["Red Star-Ajaccio", "2-0"],
+      ["Clermont-Red Star", "0-0"]
     ],
     "Metz": [
       ["Brest-Metz", "0-1"],
@@ -676,7 +712,9 @@
       ["Metz-Lens", "2-0"],
       ["Beziers-Metz", "1-3"],
       ["Paris-Metz", "2-1"],
-      ["Metz-Le Havre", "0-1"]
+      ["Metz-Le Havre", "0-1"],
+      ["Sochaux-Metz", "1-2"],
+      ["Metz-Niort", "3-0"]
     ]
   },
   "teams": {

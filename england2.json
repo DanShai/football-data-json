@@ -477,32 +477,32 @@
       ["West Bromwic-Derby County", "1-4"]
     ],
     "17": [
-      ["Birmingham C-Hull City", ""],
-      ["Blackburn Ro-Rotherham Un", ""],
-      ["Bolton Wande-Swansea City", ""],
-      ["Bristol City-Preston Nort", ""],
-      ["Derby County-Aston Villa", ""],
-      ["Middlesbroug-Wigan Athlet", ""],
-      ["Norwich City-Millwall", ""],
-      ["Nottingham F-Stoke City", ""],
-      ["Queens Park-Brentford", ""],
-      ["Reading-Ipswich Town", ""],
-      ["Sheffield Un-Sheffield We", ""],
-      ["West Bromwic-Leeds United", ""]
+      ["Sheffield Un-Sheffield We", "0-0"],
+      ["Birmingham C-Hull City", "3-3"],
+      ["Blackburn Ro-Rotherham Un", "1-1"],
+      ["Bolton Wande-Swansea City", "0-1"],
+      ["Bristol City-Preston Nort", "0-1"],
+      ["Derby County-Aston Villa", "0-3"],
+      ["Middlesbroug-Wigan Athlet", "2-0"],
+      ["Norwich City-Millwall", "4-3"],
+      ["Nottingham F-Stoke City", "0-0"],
+      ["Queens Park-Brentford", "3-2"],
+      ["Reading-Ipswich Town", "2-2"],
+      ["West Bromwic-Leeds United", "4-1"]
     ],
     "16": [
-      ["Aston Villa-Bolton Wande", ""],
-      ["Blackburn Ro-Queens Park", ""],
-      ["Brentford-Millwall", ""],
-      ["Derby County-Birmingham C", ""],
-      ["Hull City-West Bromwic", ""],
-      ["Ipswich Town-Preston Nort", ""],
-      ["Nottingham F-Sheffield Un", ""],
-      ["Reading-Bristol City", ""],
-      ["Rotherham Un-Swansea City", ""],
-      ["Sheffield We-Norwich City", ""],
-      ["Stoke City-Middlesbroug", ""],
-      ["Wigan Athlet-Leeds United", ""]
+      ["Aston Villa-Bolton Wande", "2-0"],
+      ["Blackburn Ro-Queens Park", "1-0"],
+      ["Brentford-Millwall", "2-0"],
+      ["Derby County-Birmingham C", "3-1"],
+      ["Hull City-West Bromwic", "1-0"],
+      ["Ipswich Town-Preston Nort", "1-1"],
+      ["Nottingham F-Sheffield Un", "1-0"],
+      ["Reading-Bristol City", "3-2"],
+      ["Rotherham Un-Swansea City", "2-1"],
+      ["Sheffield We-Norwich City", "0-4"],
+      ["Stoke City-Middlesbroug", "0-0"],
+      ["Wigan Athlet-Leeds United", "1-2"]
     ],
     "19": [
       ["Brentford-Sheffield Un", ""],
@@ -645,7 +645,7 @@
       ["Reading-Blackburn Ro", ""]
     ]
   },
-  "teamfixtures": {
+  "teamgames": {
     "Aston Villa": [
       ["Hull City-Aston Villa", "1-3"],
       ["Aston Villa-Wigan Athlet", "3-2"],
@@ -655,7 +655,9 @@
       ["Sheffield Un-Aston Villa", "4-1"],
       ["Blackburn Ro-Aston Villa", "1-1"],
       ["Aston Villa-Rotherham Un", "2-0"],
-      ["Aston Villa-Sheffield We", "1-2"]
+      ["Aston Villa-Sheffield We", "1-2"],
+      ["Bristol City-Aston Villa", "1-1"],
+      ["Aston Villa-Preston Nort", "3-3"]
     ],
     "Swansea City": [
       ["Sheffield Un-Swansea City", "1-2"],
@@ -666,7 +668,9 @@
       ["Millwall-Swansea City", "1-2"],
       ["Swansea City-Nottingham F", "0-0"],
       ["Stoke City-Swansea City", "1-0"],
-      ["Middlesbroug-Swansea City", "0-0"]
+      ["Middlesbroug-Swansea City", "0-0"],
+      ["Swansea City-Queens Park", "3-0"],
+      ["Wigan Athlet-Swansea City", "0-0"]
     ],
     "Middlesbroug": [
       ["Millwall-Middlesbroug", "2-2"],
@@ -677,7 +681,9 @@
       ["Leeds United-Middlesbroug", "0-0"],
       ["Norwich City-Middlesbroug", "1-0"],
       ["Middlesbroug-Bolton Wande", "2-0"],
-      ["Middlesbroug-Swansea City", "0-0"]
+      ["Middlesbroug-Swansea City", "0-0"],
+      ["Hull City-Middlesbroug", "1-1"],
+      ["Ipswich Town-Middlesbroug", "0-2"]
     ],
     "Bristol City": [
       ["Bristol City-Nottingham F", "1-1"],
@@ -688,7 +694,9 @@
       ["Bristol City-Blackburn Ro", "4-1"],
       ["Bristol City-Sheffield Un", "1-0"],
       ["West Bromwic-Bristol City", "4-2"],
-      ["Wigan Athlet-Bristol City", "1-0"]
+      ["Wigan Athlet-Bristol City", "1-0"],
+      ["Bristol City-Aston Villa", "1-1"],
+      ["Rotherham Un-Bristol City", "0-0"]
     ],
     "Reading": [
       ["Reading-Derby County", "1-2"],
@@ -699,7 +707,9 @@
       ["Reading-Sheffield We", "1-2"],
       ["Preston Nort-Reading", "2-3"],
       ["Reading-Norwich City", "1-2"],
-      ["Reading-Hull City", "3-0"]
+      ["Reading-Hull City", "3-0"],
+      ["Brentford-Reading", "2-2"],
+      ["Reading-Queens Park", "0-1"]
     ],
     "Sheffield Un": [
       ["Sheffield Un-Swansea City", "1-2"],
@@ -710,7 +720,9 @@
       ["Sheffield Un-Aston Villa", "4-1"],
       ["Bristol City-Sheffield Un", "1-0"],
       ["Sheffield Un-Birmingham C", "0-0"],
-      ["Sheffield Un-Preston Nort", "3-2"]
+      ["Sheffield Un-Preston Nort", "3-2"],
+      ["Millwall-Sheffield Un", "2-3"],
+      ["Blackburn Ro-Sheffield Un", "0-2"]
     ],
     "Millwall": [
       ["Millwall-Middlesbroug", "2-2"],
@@ -721,7 +733,9 @@
       ["Millwall-Swansea City", "1-2"],
       ["Millwall-Leeds United", "1-1"],
       ["Queens Park-Millwall", "2-0"],
-      ["West Bromwic-Millwall", "2-0"]
+      ["West Bromwic-Millwall", "2-0"],
+      ["Millwall-Sheffield Un", "2-3"],
+      ["Nottingham F-Millwall", "2-2"]
     ],
     "Rotherham Un": [
       ["Brentford-Rotherham Un", "5-1"],
@@ -732,7 +746,9 @@
       ["Wigan Athlet-Rotherham Un", "1-0"],
       ["Rotherham Un-Derby County", "1-0"],
       ["Aston Villa-Rotherham Un", "2-0"],
-      ["Nottingham F-Rotherham Un", "1-0"]
+      ["Nottingham F-Rotherham Un", "1-0"],
+      ["Rotherham Un-Stoke City", "2-2"],
+      ["Rotherham Un-Bristol City", "0-0"]
     ],
     "Queens Park": [
       ["Preston Nort-Queens Park", "1-0"],
@@ -743,7 +759,9 @@
       ["Birmingham C-Queens Park", "0-0"],
       ["Bolton Wande-Queens Park", "1-2"],
       ["Queens Park-Millwall", "2-0"],
-      ["Queens Park-Norwich City", "0-1"]
+      ["Queens Park-Norwich City", "0-1"],
+      ["Swansea City-Queens Park", "3-0"],
+      ["Reading-Queens Park", "0-1"]
     ],
     "Norwich City": [
       ["Birmingham C-Norwich City", "2-2"],
@@ -754,7 +772,9 @@
       ["Ipswich Town-Norwich City", "1-1"],
       ["Norwich City-Middlesbroug", "1-0"],
       ["Reading-Norwich City", "1-2"],
-      ["Queens Park-Norwich City", "0-1"]
+      ["Queens Park-Norwich City", "0-1"],
+      ["Norwich City-Wigan Athlet", "1-0"],
+      ["Derby County-Norwich City", "1-1"]
     ],
     "Nottingham F": [
       ["Bristol City-Nottingham F", "1-1"],
@@ -765,7 +785,9 @@
       ["Brentford-Nottingham F", "2-1"],
       ["Swansea City-Nottingham F", "0-0"],
       ["Nottingham F-Sheffield We", "2-1"],
-      ["Nottingham F-Rotherham Un", "1-0"]
+      ["Nottingham F-Rotherham Un", "1-0"],
+      ["Blackburn Ro-Nottingham F", "2-2"],
+      ["Nottingham F-Millwall", "2-2"]
     ],
     "Derby County": [
       ["Reading-Derby County", "1-2"],
@@ -776,7 +798,9 @@
       ["Hull City-Derby County", "1-2"],
       ["Rotherham Un-Derby County", "1-0"],
       ["Derby County-Blackburn Ro", "0-0"],
-      ["Derby County-Brentford", "3-1"]
+      ["Derby County-Brentford", "3-1"],
+      ["Bolton Wande-Derby County", "1-0"],
+      ["Derby County-Norwich City", "1-1"]
     ],
     "Wigan Athlet": [
       ["Wigan Athlet-Sheffield We", "3-2"],
@@ -787,7 +811,9 @@
       ["Wigan Athlet-Rotherham Un", "1-0"],
       ["Brentford-Wigan Athlet", "2-0"],
       ["Wigan Athlet-Hull City", "2-1"],
-      ["Wigan Athlet-Bristol City", "1-0"]
+      ["Wigan Athlet-Bristol City", "1-0"],
+      ["Norwich City-Wigan Athlet", "1-0"],
+      ["Wigan Athlet-Swansea City", "0-0"]
     ],
     "Preston Nort": [
       ["Preston Nort-Queens Park", "1-0"],
@@ -798,7 +824,9 @@
       ["Preston Nort-Bolton Wande", "2-2"],
       ["Preston Nort-Reading", "2-3"],
       ["Leeds United-Preston Nort", "3-0"],
-      ["Sheffield Un-Preston Nort", "3-2"]
+      ["Sheffield Un-Preston Nort", "3-2"],
+      ["Preston Nort-West Bromwic", "2-3"],
+      ["Aston Villa-Preston Nort", "3-3"]
     ],
     "Birmingham C": [
       ["Birmingham C-Norwich City", "2-2"],
@@ -809,7 +837,9 @@
       ["Birmingham C-Queens Park", "0-0"],
       ["Birmingham C-West Bromwic", "1-1"],
       ["Sheffield Un-Birmingham C", "0-0"],
-      ["Leeds United-Birmingham C", "1-2"]
+      ["Leeds United-Birmingham C", "1-2"],
+      ["Birmingham C-Ipswich Town", "2-2"],
+      ["Brentford-Birmingham C", "1-1"]
     ],
     "West Bromwic": [
       ["West Bromwic-Bolton Wande", "1-2"],
@@ -820,7 +850,9 @@
       ["West Bromwic-Stoke City", "2-1"],
       ["Birmingham C-West Bromwic", "1-1"],
       ["West Bromwic-Bristol City", "4-2"],
-      ["West Bromwic-Millwall", "2-0"]
+      ["West Bromwic-Millwall", "2-0"],
+      ["Preston Nort-West Bromwic", "2-3"],
+      ["Sheffield We-West Bromwic", "2-2"]
     ],
     "Blackburn Ro": [
       ["Ipswich Town-Blackburn Ro", "2-2"],
@@ -831,7 +863,9 @@
       ["Bristol City-Blackburn Ro", "4-1"],
       ["Blackburn Ro-Aston Villa", "1-1"],
       ["Derby County-Blackburn Ro", "0-0"],
-      ["Stoke City-Blackburn Ro", "2-3"]
+      ["Stoke City-Blackburn Ro", "2-3"],
+      ["Blackburn Ro-Nottingham F", "2-2"],
+      ["Blackburn Ro-Sheffield Un", "0-2"]
     ],
     "Brentford": [
       ["Brentford-Rotherham Un", "5-1"],
@@ -842,7 +876,9 @@
       ["Brentford-Nottingham F", "2-1"],
       ["Brentford-Wigan Athlet", "2-0"],
       ["Ipswich Town-Brentford", "1-1"],
-      ["Derby County-Brentford", "3-1"]
+      ["Derby County-Brentford", "3-1"],
+      ["Brentford-Reading", "2-2"],
+      ["Brentford-Birmingham C", "1-1"]
     ],
     "Ipswich Town": [
       ["Ipswich Town-Blackburn Ro", "2-2"],
@@ -853,7 +889,9 @@
       ["Ipswich Town-Norwich City", "1-1"],
       ["Hull City-Ipswich Town", "2-0"],
       ["Ipswich Town-Brentford", "1-1"],
-      ["Ipswich Town-Bolton Wande", "0-0"]
+      ["Ipswich Town-Bolton Wande", "0-0"],
+      ["Birmingham C-Ipswich Town", "2-2"],
+      ["Ipswich Town-Middlesbroug", "0-2"]
     ],
     "Hull City": [
       ["Hull City-Aston Villa", "1-3"],
@@ -864,7 +902,9 @@
       ["Hull City-Derby County", "1-2"],
       ["Hull City-Ipswich Town", "2-0"],
       ["Wigan Athlet-Hull City", "2-1"],
-      ["Reading-Hull City", "3-0"]
+      ["Reading-Hull City", "3-0"],
+      ["Hull City-Middlesbroug", "1-1"],
+      ["Hull City-Leeds United", "0-1"]
     ],
     "Bolton Wande": [
       ["West Bromwic-Bolton Wande", "1-2"],
@@ -875,7 +915,9 @@
       ["Preston Nort-Bolton Wande", "2-2"],
       ["Bolton Wande-Queens Park", "1-2"],
       ["Middlesbroug-Bolton Wande", "2-0"],
-      ["Ipswich Town-Bolton Wande", "0-0"]
+      ["Ipswich Town-Bolton Wande", "0-0"],
+      ["Bolton Wande-Derby County", "1-0"],
+      ["Stoke City-Bolton Wande", "2-0"]
     ],
     "Leeds United": [
       ["Leeds United-Stoke City", "3-1"],
@@ -886,7 +928,9 @@
       ["Leeds United-Middlesbroug", "0-0"],
       ["Millwall-Leeds United", "1-1"],
       ["Leeds United-Preston Nort", "3-0"],
-      ["Leeds United-Birmingham C", "1-2"]
+      ["Leeds United-Birmingham C", "1-2"],
+      ["Sheffield We-Leeds United", "1-1"],
+      ["Hull City-Leeds United", "0-1"]
     ],
     "Stoke City": [
       ["Leeds United-Stoke City", "3-1"],
@@ -897,7 +941,9 @@
       ["West Bromwic-Stoke City", "2-1"],
       ["Sheffield We-Stoke City", "2-2"],
       ["Stoke City-Swansea City", "1-0"],
-      ["Stoke City-Blackburn Ro", "2-3"]
+      ["Stoke City-Blackburn Ro", "2-3"],
+      ["Rotherham Un-Stoke City", "2-2"],
+      ["Stoke City-Bolton Wande", "2-0"]
     ],
     "Sheffield We": [
       ["Wigan Athlet-Sheffield We", "3-2"],
@@ -908,7 +954,9 @@
       ["Reading-Sheffield We", "1-2"],
       ["Sheffield We-Stoke City", "2-2"],
       ["Nottingham F-Sheffield We", "2-1"],
-      ["Aston Villa-Sheffield We", "1-2"]
+      ["Aston Villa-Sheffield We", "1-2"],
+      ["Sheffield We-Leeds United", "1-1"],
+      ["Sheffield We-West Bromwic", "2-2"]
     ]
   },
   "teams": {
