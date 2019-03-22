@@ -457,7 +457,7 @@
       ["West Ham Uni-Everton", ""]
     ]
   },
-  "markov": {
+  "team_games": {
     "Southampton": [
       ["Southampton-Burnley", "0-0"],
       ["Everton-Southampton", "2-1"],

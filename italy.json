@@ -458,7 +458,7 @@
       ["Roma-Udinese", ""]
     ]
   },
-  "markov": {
+  "team_games": {
     "Udinese": [
       ["Parma-Udinese", "2-2"],
       ["Udinese-Sampdoria", "1-0"],
