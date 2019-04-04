@@ -1,4 +1,5 @@
 {
+
   "fixtures": {
     "24": [
       ["Schalke 04-Fortuna Duss", "0-4"],
@@ -34,15 +35,15 @@
       ["Wolfsburg-Fortuna Duss", "5-2"]
     ],
     "27": [
-      ["Hoffenheim-Bayer Leverk", ""],
-      ["Borussia Dor-Wolfsburg", ""],
-      ["RB Leipzig-Hertha BSC", ""],
-      ["Eintracht Fr-Stuttgart", ""],
-      ["Werder Breme-Mainz 05", ""],
-      ["Hannover 96-Schalke 04", ""],
-      ["Freiburg-Bayern Munch", ""],
-      ["Fortuna Duss-Borussia M g", ""],
-      ["Nurnberg-Augsburg", ""]
+      ["Hoffenheim-Bayer Leverk", "4-1"],
+      ["Borussia Dor-Wolfsburg", "2-0"],
+      ["RB Leipzig-Hertha BSC", "5-0"],
+      ["Eintracht Fr-Stuttgart", "3-0"],
+      ["Werder Breme-Mainz 05", "3-1"],
+      ["Hannover 96-Schalke 04", "0-1"],
+      ["Freiburg-Bayern Munch", "1-1"],
+      ["Fortuna Duss-Borussia M g", "3-1"],
+      ["Nurnberg-Augsburg", "3-0"]
     ],
     "20": [
       ["Schalke 04-Borussia M g", "0-2"],
@@ -402,7 +403,8 @@
       ["Bayern Munch-Hertha BSC", "1-0"],
       ["Hertha BSC-Mainz 05", "2-1"],
       ["Freiburg-Hertha BSC", "2-1"],
-      ["Hertha BSC-Borussia Dor", "2-3"]
+      ["Hertha BSC-Borussia Dor", "2-3"],
+      ["RB Leipzig-Hertha BSC", "5-0"]
     ],
     "Fortuna Duss": [
       ["Fortuna Duss-Augsburg", "1-2"],
@@ -430,7 +432,8 @@
       ["Fortuna Duss-Nurnberg", "2-1"],
       ["Schalke 04-Fortuna Duss", "0-4"],
       ["Fortuna Duss-Eintracht Fr", "0-3"],
-      ["Wolfsburg-Fortuna Duss", "5-2"]
+      ["Wolfsburg-Fortuna Duss", "5-2"],
+      ["Fortuna Duss-Borussia M g", "3-1"]
     ],
     "Werder Breme": [
       ["Werder Breme-Hannover 96", "1-1"],
@@ -458,7 +461,8 @@
       ["Werder Breme-Stuttgart", "1-1"],
       ["Wolfsburg-Werder Breme", "1-1"],
       ["Werder Breme-Schalke 04", "4-2"],
-      ["Bayer Leverk-Werder Breme", "1-3"]
+      ["Bayer Leverk-Werder Breme", "1-3"],
+      ["Werder Breme-Mainz 05", "3-1"]
     ],
     "Freiburg": [
       ["Freiburg-Eintracht Fr", "0-2"],
@@ -486,7 +490,8 @@
       ["Freiburg-Augsburg", "5-1"],
       ["Bayer Leverk-Freiburg", "2-0"],
       ["Freiburg-Hertha BSC", "2-1"],
-      ["Borussia M g-Freiburg", "1-1"]
+      ["Borussia M g-Freiburg", "1-1"],
+      ["Freiburg-Bayern Munch", "1-1"]
     ],
     "Augsburg": [
       ["Fortuna Duss-Augsburg", "1-2"],
@@ -514,7 +519,8 @@
       ["Freiburg-Augsburg", "5-1"],
       ["Augsburg-Borussia Dor", "2-1"],
       ["RB Leipzig-Augsburg", "0-0"],
-      ["Augsburg-Hannover 96", "3-1"]
+      ["Augsburg-Hannover 96", "3-1"],
+      ["Nurnberg-Augsburg", "3-0"]
     ],
     "Wolfsburg": [
       ["Wolfsburg-Schalke 04", "2-1"],
@@ -542,7 +548,8 @@
       ["Borussia M g-Wolfsburg", "0-3"],
       ["Wolfsburg-Werder Breme", "1-1"],
       ["Bayern Munch-Wolfsburg", "6-0"],
-      ["Wolfsburg-Fortuna Duss", "5-2"]
+      ["Wolfsburg-Fortuna Duss", "5-2"],
+      ["Borussia Dor-Wolfsburg", "2-0"]
     ],
     "Bayern Munch": [
       ["Bayern Munch-Hoffenheim", "3-1"],
@@ -570,7 +577,8 @@
       ["Bayern Munch-Hertha BSC", "1-0"],
       ["Borussia M g-Bayern Munch", "1-5"],
       ["Bayern Munch-Wolfsburg", "6-0"],
-      ["Bayern Munch-Mainz 05", "6-0"]
+      ["Bayern Munch-Mainz 05", "6-0"],
+      ["Freiburg-Bayern Munch", "1-1"]
     ],
     "Schalke 04": [
       ["Wolfsburg-Schalke 04", "2-1"],
@@ -598,7 +606,8 @@
       ["Mainz 05-Schalke 04", "3-0"],
       ["Schalke 04-Fortuna Duss", "0-4"],
       ["Werder Breme-Schalke 04", "4-2"],
-      ["Schalke 04-RB Leipzig", "0-1"]
+      ["Schalke 04-RB Leipzig", "0-1"],
+      ["Hannover 96-Schalke 04", "0-1"]
     ],
     "Hoffenheim": [
       ["Bayern Munch-Hoffenheim", "3-1"],
@@ -626,7 +635,8 @@
       ["RB Leipzig-Hoffenheim", "1-1"],
       ["Eintracht Fr-Hoffenheim", "3-2"],
       ["Hoffenheim-Nurnberg", "2-1"],
-      ["Stuttgart-Hoffenheim", "1-1"]
+      ["Stuttgart-Hoffenheim", "1-1"],
+      ["Hoffenheim-Bayer Leverk", "4-1"]
     ],
     "Mainz 05": [
       ["Mainz 05-Stuttgart", "1-0"],
@@ -654,7 +664,8 @@
       ["Mainz 05-Schalke 04", "3-0"],
       ["Hertha BSC-Mainz 05", "2-1"],
       ["Mainz 05-Borussia M g", "0-1"],
-      ["Bayern Munch-Mainz 05", "6-0"]
+      ["Bayern Munch-Mainz 05", "6-0"],
+      ["Werder Breme-Mainz 05", "3-1"]
     ],
     "Stuttgart": [
       ["Mainz 05-Stuttgart", "1-0"],
@@ -682,7 +693,8 @@
       ["Werder Breme-Stuttgart", "1-1"],
       ["Stuttgart-Hannover 96", "5-1"],
       ["Borussia Dor-Stuttgart", "3-1"],
-      ["Stuttgart-Hoffenheim", "1-1"]
+      ["Stuttgart-Hoffenheim", "1-1"],
+      ["Eintracht Fr-Stuttgart", "3-0"]
     ],
     "RB Leipzig": [
       ["Borussia Dor-RB Leipzig", "4-1"],
@@ -710,7 +722,8 @@
       ["RB Leipzig-Hoffenheim", "1-1"],
       ["Nurnberg-RB Leipzig", "0-1"],
       ["RB Leipzig-Augsburg", "0-0"],
-      ["Schalke 04-RB Leipzig", "0-1"]
+      ["Schalke 04-RB Leipzig", "0-1"],
+      ["RB Leipzig-Hertha BSC", "5-0"]
     ],
     "Hannover 96": [
       ["Werder Breme-Hannover 96", "1-1"],
@@ -738,7 +751,8 @@
       ["Hannover 96-Eintracht Fr", "0-3"],
       ["Stuttgart-Hannover 96", "5-1"],
       ["Hannover 96-Bayer Leverk", "2-3"],
-      ["Augsburg-Hannover 96", "3-1"]
+      ["Augsburg-Hannover 96", "3-1"],
+      ["Hannover 96-Schalke 04", "0-1"]
     ],
     "Nurnberg": [
       ["Hertha BSC-Nurnberg", "1-0"],
@@ -766,7 +780,8 @@
       ["Fortuna Duss-Nurnberg", "2-1"],
       ["Nurnberg-RB Leipzig", "0-1"],
       ["Hoffenheim-Nurnberg", "2-1"],
-      ["Eintracht Fr-Nurnberg", "1-0"]
+      ["Eintracht Fr-Nurnberg", "1-0"],
+      ["Nurnberg-Augsburg", "3-0"]
     ],
     "Bayer Leverk": [
       ["Borussia M g-Bayer Leverk", "2-0"],
@@ -794,7 +809,8 @@
       ["Borussia Dor-Bayer Leverk", "3-2"],
       ["Bayer Leverk-Freiburg", "2-0"],
       ["Hannover 96-Bayer Leverk", "2-3"],
-      ["Bayer Leverk-Werder Breme", "1-3"]
+      ["Bayer Leverk-Werder Breme", "1-3"],
+      ["Hoffenheim-Bayer Leverk", "4-1"]
     ],
     "Borussia Dor": [
       ["Borussia Dor-RB Leipzig", "4-1"],
@@ -822,7 +838,8 @@
       ["Borussia Dor-Bayer Leverk", "3-2"],
       ["Augsburg-Borussia Dor", "2-1"],
       ["Borussia Dor-Stuttgart", "3-1"],
-      ["Hertha BSC-Borussia Dor", "2-3"]
+      ["Hertha BSC-Borussia Dor", "2-3"],
+      ["Borussia Dor-Wolfsburg", "2-0"]
     ],
     "Eintracht Fr": [
       ["Freiburg-Eintracht Fr", "0-2"],
@@ -850,7 +867,8 @@
       ["Hannover 96-Eintracht Fr", "0-3"],
       ["Eintracht Fr-Hoffenheim", "3-2"],
       ["Fortuna Duss-Eintracht Fr", "0-3"],
-      ["Eintracht Fr-Nurnberg", "1-0"]
+      ["Eintracht Fr-Nurnberg", "1-0"],
+      ["Eintracht Fr-Stuttgart", "3-0"]
     ],
     "Borussia M g": [
       ["Borussia M g-Bayer Leverk", "2-0"],
@@ -878,7 +896,8 @@
       ["Borussia M g-Wolfsburg", "0-3"],
       ["Borussia M g-Bayern Munch", "1-5"],
       ["Mainz 05-Borussia M g", "0-1"],
-      ["Borussia M g-Freiburg", "1-1"]
+      ["Borussia M g-Freiburg", "1-1"],
+      ["Fortuna Duss-Borussia M g", "3-1"]
     ]
   },
   "teams": {

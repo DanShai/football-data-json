@@ -37,7 +37,6 @@
       ["Wolverhampto-Newcastle Un", "1-1"]
     ],
     "27": [
-      ["Chelsea-Brighton   H", ""],
       ["Everton-Manchester C", "0-2"],
       ["Cardiff City-Watford", "1-5"],
       ["West Ham Uni-Fulham", "3-1"],
@@ -46,7 +45,8 @@
       ["Newcastle Un-Huddersfield", "2-0"],
       ["Leicester Ci-Crystal Pala", "1-4"],
       ["Arsenal-Southampton", "2-0"],
-      ["Manchester U-Liverpool", "0-0"]
+      ["Manchester U-Liverpool", "0-0"],
+      ["Chelsea-Brighton   H", "3-0"]
     ],
     "20": [
       ["Brighton   H-Everton", "1-0"],
@@ -228,17 +228,17 @@
       ["Southampton-Chelsea", "0-3"],
       ["Liverpool-Manchester C", "0-0"]
     ],
-    "12": [
-      ["Cardiff City-Brighton   H", "2-1"],
-      ["Huddersfield-West Ham Uni", "1-1"],
-      ["Leicester Ci-Burnley", "0-0"],
-      ["Newcastle Un-AFC Bournemo", "2-1"],
-      ["Southampton-Watford", "1-1"],
-      ["Crystal Pala-Tottenham Ho", "0-1"],
-      ["Liverpool-Fulham", "2-0"],
-      ["Chelsea-Everton", "0-0"],
-      ["Arsenal-Wolverhampto", "1-1"],
-      ["Manchester C-Manchester U", "3-1"]
+    "38": [
+      ["Brighton   H-Manchester C", ""],
+      ["Burnley-Arsenal", ""],
+      ["Crystal Pala-AFC Bournemo", ""],
+      ["Fulham-Newcastle Un", ""],
+      ["Leicester Ci-Chelsea", ""],
+      ["Liverpool-Wolverhampto", ""],
+      ["Manchester U-Cardiff City", ""],
+      ["Southampton-Huddersfield", ""],
+      ["Tottenham Ho-Everton", ""],
+      ["Watford-West Ham Uni", ""]
     ],
     "11": [
       ["AFC Bournemo-Manchester U", "1-2"],
@@ -276,17 +276,17 @@
       ["Wolverhampto-Huddersfield", "0-2"],
       ["Burnley-Newcastle Un", "1-2"]
     ],
-    "38": [
-      ["Brighton   H-Manchester C", ""],
-      ["Burnley-Arsenal", ""],
-      ["Crystal Pala-AFC Bournemo", ""],
-      ["Fulham-Newcastle Un", ""],
-      ["Leicester Ci-Chelsea", ""],
-      ["Liverpool-Wolverhampto", ""],
-      ["Manchester U-Cardiff City", ""],
-      ["Southampton-Huddersfield", ""],
-      ["Tottenham Ho-Everton", ""],
-      ["Watford-West Ham Uni", ""]
+    "12": [
+      ["Cardiff City-Brighton   H", "2-1"],
+      ["Huddersfield-West Ham Uni", "1-1"],
+      ["Leicester Ci-Burnley", "0-0"],
+      ["Newcastle Un-AFC Bournemo", "2-1"],
+      ["Southampton-Watford", "1-1"],
+      ["Crystal Pala-Tottenham Ho", "0-1"],
+      ["Liverpool-Fulham", "2-0"],
+      ["Chelsea-Everton", "0-0"],
+      ["Arsenal-Wolverhampto", "1-1"],
+      ["Manchester C-Manchester U", "3-1"]
     ],
     "15": [
       ["AFC Bournemo-Huddersfield", "2-1"],
@@ -362,7 +362,6 @@
     ],
     "31": [
       ["Brighton   H-Cardiff City", ""],
-      ["Tottenham Ho-Crystal Pala", ""],
       ["Watford-Southampton", ""],
       ["Wolverhampto-Arsenal", ""],
       ["Manchester U-Manchester C", ""],
@@ -370,7 +369,8 @@
       ["Burnley-Leicester Ci", "1-2"],
       ["West Ham Uni-Huddersfield", "4-3"],
       ["Fulham-Liverpool", "1-2"],
-      ["Everton-Chelsea", "2-0"]
+      ["Everton-Chelsea", "2-0"],
+      ["Tottenham Ho-Crystal Pala", "2-0"]
     ],
     "30": [
       ["Crystal Pala-Brighton   H", "1-2"],
@@ -433,28 +433,28 @@
       ["Watford-Arsenal", ""]
     ],
     "33": [
-      ["AFC Bournemo-Burnley", ""],
-      ["Chelsea-West Ham Uni", ""],
-      ["Everton-Arsenal", ""],
-      ["Huddersfield-Leicester Ci", ""],
-      ["Manchester C-Cardiff City", ""],
-      ["Newcastle Un-Crystal Pala", ""],
       ["Southampton-Liverpool", ""],
+      ["AFC Bournemo-Burnley", ""],
+      ["Huddersfield-Leicester Ci", ""],
+      ["Newcastle Un-Crystal Pala", ""],
       ["Tottenham Ho-Brighton   H", ""],
-      ["Watford-Fulham", ""],
-      ["Wolverhampto-Manchester U", ""]
+      ["Everton-Arsenal", ""],
+      ["Chelsea-West Ham Uni", ""],
+      ["Watford-Fulham", "4-1"],
+      ["Wolverhampto-Manchester U", "2-1"],
+      ["Manchester C-Cardiff City", "2-0"]
     ],
     "32": [
-      ["Arsenal-Newcastle Un", ""],
-      ["Brighton   H-Southampton", ""],
-      ["Burnley-Wolverhampto", ""],
-      ["Cardiff City-Chelsea", ""],
-      ["Crystal Pala-Huddersfield", ""],
-      ["Fulham-Manchester C", ""],
-      ["Leicester Ci-AFC Bournemo", ""],
-      ["Liverpool-Tottenham Ho", ""],
-      ["Manchester U-Watford", ""],
-      ["West Ham Uni-Everton", ""]
+      ["Fulham-Manchester C", "0-2"],
+      ["Brighton   H-Southampton", "0-1"],
+      ["Burnley-Wolverhampto", "2-0"],
+      ["Crystal Pala-Huddersfield", "2-0"],
+      ["Leicester Ci-AFC Bournemo", "2-0"],
+      ["Manchester U-Watford", "2-1"],
+      ["West Ham Uni-Everton", "0-2"],
+      ["Cardiff City-Chelsea", "1-2"],
+      ["Liverpool-Tottenham Ho", "2-1"],
+      ["Arsenal-Newcastle Un", "2-0"]
     ]
   },
   "team_games": {
@@ -1029,6 +1029,7 @@
       ["Fulham-Brighton   H", "4-2"],
       ["Brighton   H-Watford", "0-0"],
       ["Brighton   H-Burnley", "1-3"],
+      ["Chelsea-Brighton   H", "3-0"],
       ["Leicester Ci-Brighton   H", "2-1"],
       ["Brighton   H-Huddersfield", "1-0"],
       ["Crystal Pala-Brighton   H", "1-2"]
@@ -1060,6 +1061,7 @@
       ["AFC Bournemo-Chelsea", "4-0"],
       ["Chelsea-Huddersfield", "5-0"],
       ["Manchester C-Chelsea", "6-0"],
+      ["Chelsea-Brighton   H", "3-0"],
       ["Chelsea-Tottenham Ho", "2-0"],
       ["Fulham-Chelsea", "1-2"],
       ["Chelsea-Wolverhampto", "1-1"]

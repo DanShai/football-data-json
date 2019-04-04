@@ -1,4 +1,5 @@
 {
+
   "fixtures": {
     "24": [
       ["Barcelona-Real Vallado", "1-0"],
@@ -109,16 +110,16 @@
       ["Villarreal-Rayo Valleca", "3-1"]
     ],
     "29": [
-      ["Deportivo Al-Atletico Mad", ""],
-      ["Barcelona-Espanyol", ""],
-      ["Celta de Vig-Villarreal", ""],
-      ["Getafe-Leganes", ""],
-      ["Sevilla-Valencia", ""],
-      ["Girona-Athletic Clu", ""],
-      ["Rayo Valleca-Real Betis", ""],
-      ["Levante-Eibar", ""],
-      ["Real Madrid-Huesca", ""],
-      ["Real Vallado-Real Socieda", ""]
+      ["Deportivo Al-Atletico Mad", "0-4"],
+      ["Barcelona-Espanyol", "2-0"],
+      ["Celta de Vig-Villarreal", "3-2"],
+      ["Getafe-Leganes", "0-2"],
+      ["Sevilla-Valencia", "0-1"],
+      ["Girona-Athletic Clu", "1-2"],
+      ["Rayo Valleca-Real Betis", "1-1"],
+      ["Levante-Eibar", "2-2"],
+      ["Real Madrid-Huesca", "3-2"],
+      ["Real Vallado-Real Socieda", "1-1"]
     ],
     "1": [
       ["Girona-Real Vallado", "0-0"],
@@ -373,16 +374,16 @@
       ["Real Vallado-Sevilla", ""]
     ],
     "30": [
-      ["Athletic Clu-Levante", ""],
-      ["Atletico Mad-Girona", ""],
-      ["Eibar-Rayo Valleca", ""],
-      ["Espanyol-Getafe", ""],
       ["Leganes-Real Vallado", ""],
       ["Sevilla-Deportivo Al", ""],
-      ["Villarreal-Barcelona", ""],
       ["Real Socieda-Real Betis", ""],
-      ["Huesca-Celta de Vig", ""],
-      ["Valencia-Real Madrid", ""]
+      ["Athletic Clu-Levante", "3-2"],
+      ["Atletico Mad-Girona", "2-0"],
+      ["Eibar-Rayo Valleca", "2-1"],
+      ["Espanyol-Getafe", "1-1"],
+      ["Villarreal-Barcelona", "4-4"],
+      ["Huesca-Celta de Vig", "3-3"],
+      ["Valencia-Real Madrid", "2-1"]
     ],
     "37": [
       ["Athletic Clu-Celta de Vig", ""],
@@ -486,7 +487,9 @@
       ["Getafe-Rayo Valleca", "2-1"],
       ["Real Betis-Getafe", "1-2"],
       ["Getafe-Huesca", "2-1"],
-      ["Valencia-Getafe", "0-0"]
+      ["Valencia-Getafe", "0-0"],
+      ["Getafe-Leganes", "0-2"],
+      ["Espanyol-Getafe", "1-1"]
     ],
     "Eibar": [
       ["Eibar-Huesca", "1-2"],
@@ -516,7 +519,9 @@
       ["Athletic Clu-Eibar", "1-0"],
       ["Eibar-Celta de Vig", "1-0"],
       ["Deportivo Al-Eibar", "1-1"],
-      ["Eibar-Real Vallado", "1-2"]
+      ["Eibar-Real Vallado", "1-2"],
+      ["Levante-Eibar", "2-2"],
+      ["Eibar-Rayo Valleca", "2-1"]
     ],
     "Real Socieda": [
       ["Villarreal-Real Socieda", "1-2"],
@@ -546,7 +551,8 @@
       ["Girona-Real Socieda", "0-0"],
       ["Real Socieda-Atletico Mad", "0-2"],
       ["Sevilla-Real Socieda", "5-2"],
-      ["Real Socieda-Levante", "1-1"]
+      ["Real Socieda-Levante", "1-1"],
+      ["Real Vallado-Real Socieda", "1-1"]
     ],
     "Deportivo Al": [
       ["Barcelona-Deportivo Al", "3-0"],
@@ -576,7 +582,8 @@
       ["Deportivo Al-Celta de Vig", "0-0"],
       ["Villarreal-Deportivo Al", "1-2"],
       ["Deportivo Al-Eibar", "1-1"],
-      ["Huesca-Deportivo Al", "1-3"]
+      ["Huesca-Deportivo Al", "1-3"],
+      ["Deportivo Al-Atletico Mad", "0-4"]
     ],
     "Celta de Vig": [
       ["Celta de Vig-Espanyol", "1-1"],
@@ -606,7 +613,9 @@
       ["Deportivo Al-Celta de Vig", "0-0"],
       ["Eibar-Celta de Vig", "1-0"],
       ["Celta de Vig-Real Betis", "0-1"],
-      ["Real Madrid-Celta de Vig", "2-0"]
+      ["Real Madrid-Celta de Vig", "2-0"],
+      ["Celta de Vig-Villarreal", "3-2"],
+      ["Huesca-Celta de Vig", "3-3"]
     ],
     "Espanyol": [
       ["Celta de Vig-Espanyol", "1-1"],
@@ -636,7 +645,9 @@
       ["Espanyol-Huesca", "1-1"],
       ["Espanyol-Real Vallado", "3-1"],
       ["Athletic Clu-Espanyol", "1-1"],
-      ["Espanyol-Sevilla", "0-1"]
+      ["Espanyol-Sevilla", "0-1"],
+      ["Barcelona-Espanyol", "2-0"],
+      ["Espanyol-Getafe", "1-1"]
     ],
     "Sevilla": [
       ["Rayo Valleca-Sevilla", "1-4"],
@@ -666,7 +677,8 @@
       ["Sevilla-Barcelona", "2-4"],
       ["Huesca-Sevilla", "2-1"],
       ["Sevilla-Real Socieda", "5-2"],
-      ["Espanyol-Sevilla", "0-1"]
+      ["Espanyol-Sevilla", "0-1"],
+      ["Sevilla-Valencia", "0-1"]
     ],
     "Girona": [
       ["Girona-Real Vallado", "0-0"],
@@ -696,7 +708,9 @@
       ["Girona-Real Socieda", "0-0"],
       ["Rayo Valleca-Girona", "0-2"],
       ["Girona-Valencia", "2-3"],
-      ["Leganes-Girona", "0-2"]
+      ["Leganes-Girona", "0-2"],
+      ["Girona-Athletic Clu", "1-2"],
+      ["Atletico Mad-Girona", "2-0"]
     ],
     "Barcelona": [
       ["Barcelona-Deportivo Al", "3-0"],
@@ -726,7 +740,9 @@
       ["Sevilla-Barcelona", "2-4"],
       ["Real Madrid-Barcelona", "0-1"],
       ["Barcelona-Rayo Valleca", "3-1"],
-      ["Real Betis-Barcelona", "1-4"]
+      ["Real Betis-Barcelona", "1-4"],
+      ["Barcelona-Espanyol", "2-0"],
+      ["Villarreal-Barcelona", "4-4"]
     ],
     "Real Madrid": [
       ["Real Madrid-Getafe", "2-0"],
@@ -756,7 +772,9 @@
       ["Levante-Real Madrid", "1-2"],
       ["Real Madrid-Barcelona", "0-1"],
       ["Real Vallado-Real Madrid", "1-4"],
-      ["Real Madrid-Celta de Vig", "2-0"]
+      ["Real Madrid-Celta de Vig", "2-0"],
+      ["Real Madrid-Huesca", "3-2"],
+      ["Valencia-Real Madrid", "2-1"]
     ],
     "Huesca": [
       ["Eibar-Huesca", "1-2"],
@@ -786,7 +804,9 @@
       ["Espanyol-Huesca", "1-1"],
       ["Huesca-Sevilla", "2-1"],
       ["Getafe-Huesca", "2-1"],
-      ["Huesca-Deportivo Al", "1-3"]
+      ["Huesca-Deportivo Al", "1-3"],
+      ["Real Madrid-Huesca", "3-2"],
+      ["Huesca-Celta de Vig", "3-3"]
     ],
     "Leganes": [
       ["Athletic Clu-Leganes", "2-1"],
@@ -816,7 +836,8 @@
       ["Leganes-Valencia", "1-1"],
       ["Leganes-Levante", "1-0"],
       ["Atletico Mad-Leganes", "1-0"],
-      ["Leganes-Girona", "0-2"]
+      ["Leganes-Girona", "0-2"],
+      ["Getafe-Leganes", "0-2"]
     ],
     "Athletic Clu": [
       ["Athletic Clu-Leganes", "2-1"],
@@ -846,7 +867,9 @@
       ["Athletic Clu-Eibar", "1-0"],
       ["Valencia-Athletic Clu", "2-0"],
       ["Athletic Clu-Espanyol", "1-1"],
-      ["Athletic Clu-Atletico Mad", "2-0"]
+      ["Athletic Clu-Atletico Mad", "2-0"],
+      ["Girona-Athletic Clu", "1-2"],
+      ["Athletic Clu-Levante", "3-2"]
     ],
     "Rayo Valleca": [
       ["Rayo Valleca-Sevilla", "1-4"],
@@ -876,7 +899,9 @@
       ["Getafe-Rayo Valleca", "2-1"],
       ["Rayo Valleca-Girona", "0-2"],
       ["Barcelona-Rayo Valleca", "3-1"],
-      ["Villarreal-Rayo Valleca", "3-1"]
+      ["Villarreal-Rayo Valleca", "3-1"],
+      ["Rayo Valleca-Real Betis", "1-1"],
+      ["Eibar-Rayo Valleca", "2-1"]
     ],
     "Villarreal": [
       ["Villarreal-Real Socieda", "1-2"],
@@ -906,7 +931,9 @@
       ["Atletico Mad-Villarreal", "2-0"],
       ["Villarreal-Deportivo Al", "1-2"],
       ["Levante-Villarreal", "0-2"],
-      ["Villarreal-Rayo Valleca", "3-1"]
+      ["Villarreal-Rayo Valleca", "3-1"],
+      ["Celta de Vig-Villarreal", "3-2"],
+      ["Villarreal-Barcelona", "4-4"]
     ],
     "Valencia": [
       ["Valencia-Atletico Mad", "1-1"],
@@ -936,7 +963,9 @@
       ["Leganes-Valencia", "1-1"],
       ["Valencia-Athletic Clu", "2-0"],
       ["Girona-Valencia", "2-3"],
-      ["Valencia-Getafe", "0-0"]
+      ["Valencia-Getafe", "0-0"],
+      ["Sevilla-Valencia", "0-1"],
+      ["Valencia-Real Madrid", "2-1"]
     ],
     "Levante": [
       ["Real Betis-Levante", "0-3"],
@@ -966,7 +995,9 @@
       ["Levante-Real Madrid", "1-2"],
       ["Leganes-Levante", "1-0"],
       ["Levante-Villarreal", "0-2"],
-      ["Real Socieda-Levante", "1-1"]
+      ["Real Socieda-Levante", "1-1"],
+      ["Levante-Eibar", "2-2"],
+      ["Athletic Clu-Levante", "3-2"]
     ],
     "Real Vallado": [
       ["Girona-Real Vallado", "0-0"],
@@ -996,7 +1027,8 @@
       ["Real Vallado-Real Betis", "0-2"],
       ["Espanyol-Real Vallado", "3-1"],
       ["Real Vallado-Real Madrid", "1-4"],
-      ["Eibar-Real Vallado", "1-2"]
+      ["Eibar-Real Vallado", "1-2"],
+      ["Real Vallado-Real Socieda", "1-1"]
     ],
     "Real Betis": [
       ["Real Betis-Levante", "0-3"],
@@ -1026,7 +1058,8 @@
       ["Real Vallado-Real Betis", "0-2"],
       ["Real Betis-Getafe", "1-2"],
       ["Celta de Vig-Real Betis", "0-1"],
-      ["Real Betis-Barcelona", "1-4"]
+      ["Real Betis-Barcelona", "1-4"],
+      ["Rayo Valleca-Real Betis", "1-1"]
     ],
     "Atletico Mad": [
       ["Valencia-Atletico Mad", "1-1"],
@@ -1056,7 +1089,9 @@
       ["Atletico Mad-Villarreal", "2-0"],
       ["Real Socieda-Atletico Mad", "0-2"],
       ["Atletico Mad-Leganes", "1-0"],
-      ["Athletic Clu-Atletico Mad", "2-0"]
+      ["Athletic Clu-Atletico Mad", "2-0"],
+      ["Deportivo Al-Atletico Mad", "0-4"],
+      ["Atletico Mad-Girona", "2-0"]
     ]
   },
   "teams": {

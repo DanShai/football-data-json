@@ -15,11 +15,11 @@
       ["Wigan Athlet-Norwich City", ""]
     ],
     "29": [
-      ["Middlesbroug-Bristol City", ""],
       ["Aston Villa-Ipswich Town", "2-1"],
       ["Blackburn Ro-Hull City", "3-0"],
       ["Bolton Wande-Reading", "1-1"],
       ["Derby County-Millwall", "0-1"],
+      ["Middlesbroug-Bristol City", "0-1"],
       ["Norwich City-Sheffield Un", "2-2"],
       ["Nottingham F-Wigan Athlet", "3-1"],
       ["Queens Park-West Bromwic", "2-3"],
@@ -421,18 +421,18 @@
       ["Swansea City-Queens Park", "3-0"]
     ],
     "39": [
-      ["Aston Villa-Blackburn Ro", ""],
-      ["Derby County-Rotherham Un", ""],
-      ["Ipswich Town-Hull City", ""],
-      ["Leeds United-Millwall", ""],
-      ["Middlesbroug-Norwich City", ""],
-      ["Nottingham F-Swansea City", ""],
-      ["Queens Park-Bolton Wande", ""],
-      ["Reading-Preston Nort", ""],
-      ["Sheffield Un-Bristol City", ""],
-      ["Stoke City-Sheffield We", ""],
-      ["West Bromwic-Birmingham C", ""],
-      ["Wigan Athlet-Brentford", ""]
+      ["Aston Villa-Blackburn Ro", "2-1"],
+      ["Derby County-Rotherham Un", "6-1"],
+      ["Ipswich Town-Hull City", "0-2"],
+      ["Leeds United-Millwall", "3-2"],
+      ["Middlesbroug-Norwich City", "0-1"],
+      ["Nottingham F-Swansea City", "2-1"],
+      ["Queens Park-Bolton Wande", "1-2"],
+      ["Reading-Preston Nort", "2-1"],
+      ["Sheffield Un-Bristol City", "2-3"],
+      ["Stoke City-Sheffield We", "0-0"],
+      ["West Bromwic-Birmingham C", "3-2"],
+      ["Wigan Athlet-Brentford", "0-0"]
     ],
     "38": [
       ["Swansea City-Derby County", ""],
@@ -617,7 +617,6 @@
       ["Wigan Athlet-Ipswich Town", "1-1"]
     ],
     "33": [
-      ["Swansea City-Brentford", ""],
       ["Aston Villa-West Bromwic", "0-2"],
       ["Blackburn Ro-Middlesbroug", "0-1"],
       ["Bolton Wande-Norwich City", "0-4"],
@@ -628,7 +627,8 @@
       ["Preston Nort-Nottingham F", "0-0"],
       ["Queens Park-Leeds United", "1-0"],
       ["Rotherham Un-Sheffield We", "2-2"],
-      ["Sheffield Un-Reading", "4-0"]
+      ["Sheffield Un-Reading", "4-0"],
+      ["Swansea City-Brentford", "3-0"]
     ],
     "32": [
       ["Birmingham C-Bolton Wande", "0-1"],
@@ -739,6 +739,7 @@
       ["Derby County-Middlesbroug", "1-1"],
       ["Birmingham C-Middlesbroug", "1-2"],
       ["Middlesbroug-Millwall", "1-1"],
+      ["Middlesbroug-Bristol City", "0-1"],
       ["West Bromwic-Middlesbroug", "2-3"]
     ],
     "Bristol City": [
@@ -770,6 +771,7 @@
       ["Stoke City-Bristol City", "0-2"],
       ["Bristol City-Bolton Wande", "2-1"],
       ["Nottingham F-Bristol City", "0-1"],
+      ["Middlesbroug-Bristol City", "0-1"],
       ["Bristol City-Swansea City", "2-0"]
     ],
     "Reading": [

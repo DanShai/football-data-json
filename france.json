@@ -373,16 +373,16 @@
       ["Toulouse-Nantes", ""]
     ],
     "30": [
-      ["Amiens SC-Bordeaux", ""],
-      ["Dijon-Nice", ""],
-      ["Olympique Ma-Angers SCO", ""],
-      ["Monaco-Caen", ""],
-      ["Montpellier-Guingamp", ""],
-      ["Nantes-Lille", ""],
-      ["Rennes-Olympique Ly", ""],
-      ["SaintEtienne-Nimes", ""],
-      ["Strasbourg-Reims", ""],
-      ["Toulouse-PSG", ""]
+      ["Amiens SC-Bordeaux", "0-0"],
+      ["Dijon-Nice", "0-1"],
+      ["Olympique Ma-Angers SCO", "2-2"],
+      ["Monaco-Caen", "0-1"],
+      ["Montpellier-Guingamp", "2-0"],
+      ["Nantes-Lille", "2-3"],
+      ["Rennes-Olympique Ly", "0-1"],
+      ["SaintEtienne-Nimes", "2-1"],
+      ["Strasbourg-Reims", "4-0"],
+      ["Toulouse-PSG", "0-1"]
     ],
     "37": [
       ["Bordeaux-Reims", ""],
@@ -487,7 +487,8 @@
       ["Montpellier-Reims", "2-4"],
       ["Reims-Amiens SC", "2-2"],
       ["Dijon-Reims", "1-1"],
-      ["Reims-Nantes", "1-0"]
+      ["Reims-Nantes", "1-0"],
+      ["Strasbourg-Reims", "4-0"]
     ],
     "Monaco": [
       ["Nantes-Monaco", "1-3"],
@@ -518,7 +519,8 @@
       ["Monaco-Olympique Ly", "2-0"],
       ["Angers SCO-Monaco", "2-2"],
       ["Monaco-Bordeaux", "1-1"],
-      ["Lille-Monaco", "0-1"]
+      ["Lille-Monaco", "0-1"],
+      ["Monaco-Caen", "0-1"]
     ],
     "Toulouse": [
       ["Olympique Ma-Toulouse", "4-0"],
@@ -549,7 +551,8 @@
       ["Toulouse-Caen", "1-1"],
       ["Olympique Ly-Toulouse", "5-1"],
       ["Toulouse-Guingamp", "1-0"],
-      ["Nice-Toulouse", "1-1"]
+      ["Nice-Toulouse", "1-1"],
+      ["Toulouse-PSG", "0-1"]
     ],
     "Olympique Ly": [
       ["Olympique Ly-Amiens SC", "2-0"],
@@ -580,7 +583,8 @@
       ["Monaco-Olympique Ly", "2-0"],
       ["Olympique Ly-Toulouse", "5-1"],
       ["Strasbourg-Olympique Ly", "2-2"],
-      ["Olympique Ly-Montpellier", "3-2"]
+      ["Olympique Ly-Montpellier", "3-2"],
+      ["Rennes-Olympique Ly", "0-1"]
     ],
     "Montpellier": [
       ["Montpellier-Dijon", "1-2"],
@@ -611,7 +615,8 @@
       ["Montpellier-Reims", "2-4"],
       ["Bordeaux-Montpellier", "1-2"],
       ["Montpellier-Angers SCO", "2-2"],
-      ["Olympique Ly-Montpellier", "3-2"]
+      ["Olympique Ly-Montpellier", "3-2"],
+      ["Montpellier-Guingamp", "2-0"]
     ],
     "Lille": [
       ["Lille-Rennes", "3-1"],
@@ -642,7 +647,8 @@
       ["Strasbourg-Lille", "1-1"],
       ["Lille-Dijon", "1-0"],
       ["SaintEtienne-Lille", "0-1"],
-      ["Lille-Monaco", "0-1"]
+      ["Lille-Monaco", "0-1"],
+      ["Nantes-Lille", "2-3"]
     ],
     "Guingamp": [
       ["SaintEtienne-Guingamp", "2-1"],
@@ -673,7 +679,8 @@
       ["Guingamp-Angers SCO", "1-0"],
       ["Guingamp-Nantes", "0-0"],
       ["Toulouse-Guingamp", "1-0"],
-      ["Guingamp-Dijon", "1-0"]
+      ["Guingamp-Dijon", "1-0"],
+      ["Montpellier-Guingamp", "2-0"]
     ],
     "Nantes": [
       ["Nantes-Monaco", "1-3"],
@@ -703,7 +710,8 @@
       ["Monaco-Nantes", "1-0"],
       ["Nantes-Bordeaux", "1-0"],
       ["Guingamp-Nantes", "0-0"],
-      ["Reims-Nantes", "1-0"]
+      ["Reims-Nantes", "1-0"],
+      ["Nantes-Lille", "2-3"]
     ],
     "Dijon": [
       ["Montpellier-Dijon", "1-2"],
@@ -734,7 +742,8 @@
       ["Dijon-SaintEtienne", "0-1"],
       ["Lille-Dijon", "1-0"],
       ["Dijon-Reims", "1-1"],
-      ["Guingamp-Dijon", "1-0"]
+      ["Guingamp-Dijon", "1-0"],
+      ["Dijon-Nice", "0-1"]
     ],
     "Nimes": [
       ["Angers SCO-Nimes", "3-4"],
@@ -764,7 +773,8 @@
       ["Nimes-Dijon", "2-0"],
       ["PSG-Nimes", "3-0"],
       ["Amiens SC-Nimes", "2-1"],
-      ["Nimes-Strasbourg", "2-2"]
+      ["Nimes-Strasbourg", "2-2"],
+      ["SaintEtienne-Nimes", "2-1"]
     ],
     "PSG": [
       ["PSG-Caen", "3-0"],
@@ -794,7 +804,8 @@
       ["SaintEtienne-PSG", "0-1"],
       ["PSG-Nimes", "3-0"],
       ["Caen-PSG", "1-2"],
-      ["PSG-Olympique Ma", "3-1"]
+      ["PSG-Olympique Ma", "3-1"],
+      ["Toulouse-PSG", "0-1"]
     ],
     "Olympique Ma": [
       ["Olympique Ma-Toulouse", "4-0"],
@@ -825,7 +836,8 @@
       ["Rennes-Olympique Ma", "1-1"],
       ["Olympique Ma-SaintEtienne", "2-0"],
       ["Olympique Ma-Nice", "1-0"],
-      ["PSG-Olympique Ma", "3-1"]
+      ["PSG-Olympique Ma", "3-1"],
+      ["Olympique Ma-Angers SCO", "2-2"]
     ],
     "Angers SCO": [
       ["Angers SCO-Nimes", "3-4"],
@@ -856,7 +868,8 @@
       ["Guingamp-Angers SCO", "1-0"],
       ["Angers SCO-Monaco", "2-2"],
       ["Montpellier-Angers SCO", "2-2"],
-      ["Angers SCO-Amiens SC", "0-0"]
+      ["Angers SCO-Amiens SC", "0-0"],
+      ["Olympique Ma-Angers SCO", "2-2"]
     ],
     "Amiens SC": [
       ["Olympique Ly-Amiens SC", "2-0"],
@@ -887,7 +900,8 @@
       ["Amiens SC-Nice", "1-0"],
       ["Reims-Amiens SC", "2-2"],
       ["Amiens SC-Nimes", "2-1"],
-      ["Angers SCO-Amiens SC", "0-0"]
+      ["Angers SCO-Amiens SC", "0-0"],
+      ["Amiens SC-Bordeaux", "0-0"]
     ],
     "Rennes": [
       ["Lille-Rennes", "3-1"],
@@ -917,7 +931,8 @@
       ["Reims-Rennes", "2-0"],
       ["Rennes-Olympique Ma", "1-1"],
       ["Rennes-Caen", "3-1"],
-      ["Bordeaux-Rennes", "1-1"]
+      ["Bordeaux-Rennes", "1-1"],
+      ["Rennes-Olympique Ly", "0-1"]
     ],
     "Bordeaux": [
       ["Bordeaux-Strasbourg", "0-2"],
@@ -948,7 +963,8 @@
       ["Nantes-Bordeaux", "1-0"],
       ["Bordeaux-Montpellier", "1-2"],
       ["Monaco-Bordeaux", "1-1"],
-      ["Bordeaux-Rennes", "1-1"]
+      ["Bordeaux-Rennes", "1-1"],
+      ["Amiens SC-Bordeaux", "0-0"]
     ],
     "Nice": [
       ["Nice-Reims", "0-1"],
@@ -979,7 +995,8 @@
       ["Amiens SC-Nice", "1-0"],
       ["Nice-Strasbourg", "1-0"],
       ["Olympique Ma-Nice", "1-0"],
-      ["Nice-Toulouse", "1-1"]
+      ["Nice-Toulouse", "1-1"],
+      ["Dijon-Nice", "0-1"]
     ],
     "Caen": [
       ["PSG-Caen", "3-0"],
@@ -1010,7 +1027,8 @@
       ["Toulouse-Caen", "1-1"],
       ["Caen-PSG", "1-2"],
       ["Rennes-Caen", "3-1"],
-      ["Caen-SaintEtienne", "0-5"]
+      ["Caen-SaintEtienne", "0-5"],
+      ["Monaco-Caen", "0-1"]
     ],
     "Strasbourg": [
       ["Bordeaux-Strasbourg", "0-2"],
@@ -1041,7 +1059,8 @@
       ["Strasbourg-Lille", "1-1"],
       ["Nice-Strasbourg", "1-0"],
       ["Strasbourg-Olympique Ly", "2-2"],
-      ["Nimes-Strasbourg", "2-2"]
+      ["Nimes-Strasbourg", "2-2"],
+      ["Strasbourg-Reims", "4-0"]
     ],
     "SaintEtienne": [
       ["SaintEtienne-Guingamp", "2-1"],
@@ -1072,7 +1091,8 @@
       ["Dijon-SaintEtienne", "0-1"],
       ["Olympique Ma-SaintEtienne", "2-0"],
       ["SaintEtienne-Lille", "0-1"],
-      ["Caen-SaintEtienne", "0-5"]
+      ["Caen-SaintEtienne", "0-5"],
+      ["SaintEtienne-Nimes", "2-1"]
     ]
   },
   "teams": {
