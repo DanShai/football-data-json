@@ -782,8 +782,8 @@
       ["Osasuna", "1-3", "Levante"],
       ["Eibar", "1-2", "AthleticClub"],
       ["AtleticoMadr", "6-1", "Granada"],
-      ["Cadiz", "1-3", "Sevilla"],
       ["Valladolid", "1-1", "CeltaVigo"],
+      ["Cadiz", "1-3", "Sevilla"],
       ["Barcelona", "4-0", "Villarreal"]
     ],
     "2": [
@@ -874,12 +874,12 @@
       ["Osasuna", "", "RealSociedad"],
       ["Huesca", "", "Valencia"],
       ["Eibar", "", "Barcelona"],
-      ["RealMadrid", "", "Villarreal"],
       ["Granada", "", "Getafe"],
+      ["RealMadrid", "", "Villarreal"],
       ["Levante", "", "Cadiz"],
-      ["CeltaVigo", "", "Betis"],
-      ["Elche", "", "AthleticClub"],
       ["Sevilla", "", "Alaves"],
+      ["Elche", "", "AthleticClub"],
+      ["CeltaVigo", "", "Betis"],
       ["Valladolid", "", "AtleticoMadr"]
     ],
     "11": [
@@ -1028,15 +1028,15 @@
     ],
     "37": [
       ["RealSociedad", "", "Valladolid"],
-      ["Barcelona", "", "CeltaVigo"],
       ["Alaves", "", "Granada"],
-      ["AtleticoMadr", "", "Osasuna"],
+      ["Barcelona", "", "CeltaVigo"],
       ["AthleticClub", "", "RealMadrid"],
+      ["AtleticoMadr", "", "Osasuna"],
       ["Betis", "", "Huesca"],
       ["Villarreal", "", "Sevilla"],
       ["Cadiz", "", "Elche"],
-      ["Getafe", "", "Levante"],
-      ["Valencia", "", "Eibar"]
+      ["Valencia", "", "Eibar"],
+      ["Getafe", "", "Levante"]
     ],
     "36": [
       ["Osasuna", "", "Cadiz"],
@@ -1075,14 +1075,14 @@
       ["Sevilla", "", "AthleticClub"]
     ],
     "33": [
-      ["RealSociedad", "", "Sevilla"],
-      ["Osasuna", "", "Elche"],
-      ["Alaves", "", "Huesca"],
-      ["AtleticoMadr", "", "Eibar"],
-      ["Cadiz", "", "CeltaVigo"],
-      ["Betis", "", "Valencia"],
-      ["Levante", "", "Villarreal"],
-      ["Getafe", "", "RealMadrid"],
+      ["RealSociedad", "1-2", "Sevilla"],
+      ["Osasuna", "2-0", "Elche"],
+      ["Alaves", "1-0", "Huesca"],
+      ["AtleticoMadr", "5-0", "Eibar"],
+      ["Cadiz", "0-0", "CeltaVigo"],
+      ["Betis", "2-2", "Valencia"],
+      ["Levante", "1-5", "Villarreal"],
+      ["Getafe", "0-0", "RealMadrid"],
       ["AthleticClub", "", "Valladolid"],
       ["Barcelona", "", "Granada"]
     ],

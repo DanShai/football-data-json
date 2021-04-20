@@ -610,8 +610,8 @@
       ["Twente", "0-0", "Heerenveen"],
       ["WillemII", "2-0", "Emmen"],
       ["Feyenoord", "3-1", "PSVEindhoven"],
-      ["AZAlkmaar", "0-3", "Ajax"],
-      ["ADODenHaag", "1-1", "SpartaRdam"]
+      ["ADODenHaag", "1-1", "SpartaRdam"],
+      ["AZAlkmaar", "0-3", "Ajax"]
     ],
     "21": [
       ["FortunaSitta", "0-1", "HeraclesAlme"],
@@ -648,8 +648,8 @@
     ],
     "28": [
       ["VVVVenlo", "0-1", "Groningen"],
-      ["WillemII", "0-1", "AZAlkmaar"],
       ["Twente", "1-2", "Vitesse"],
+      ["WillemII", "0-1", "AZAlkmaar"],
       ["SpartaRdam", "3-2", "Zwolle"],
       ["Feyenoord", "2-0", "FortunaSitta"],
       ["ADODenHaag", "1-4", "Utrecht"],
@@ -660,8 +660,8 @@
     "29": [
       ["Vitesse", "0-0", "ADODenHaag"],
       ["HeraclesAlme", "4-0", "WillemII"],
-      ["AZAlkmaar", "2-0", "SpartaRdam"],
       ["FortunaSitta", "1-3", "Emmen"],
+      ["AZAlkmaar", "2-0", "SpartaRdam"],
       ["Zwolle", "1-0", "Twente"],
       ["Utrecht", "1-2", "Feyenoord"],
       ["VVVVenlo", "0-2", "PSVEindhoven"],
@@ -840,8 +840,8 @@
       ["Utrecht", "2-0", "HeraclesAlme"],
       ["AZAlkmaar", "2-1", "ADODenHaag"],
       ["RKCWaalwijk", "1-1", "WillemII"],
-      ["Groningen", "2-2", "Twente"],
       ["VVVVenlo", "1-1", "Heerenveen"],
+      ["Groningen", "2-2", "Twente"],
       ["Ajax", "1-0", "Feyenoord"]
     ],
     "16": [
@@ -880,8 +880,8 @@
     "31": [
       ["HeraclesAlme", "", "VVVVenlo"],
       ["FortunaSitta", "", "Twente"],
-      ["RKCWaalwijk", "", "AZAlkmaar"],
       ["Vitesse", "", "Zwolle"],
+      ["RKCWaalwijk", "", "AZAlkmaar"],
       ["Utrecht", "", "WillemII"],
       ["ADODenHaag", "", "Feyenoord"],
       ["Groningen", "", "SpartaRdam"],
@@ -905,21 +905,21 @@
       ["Twente", "", "ADODenHaag"],
       ["Utrecht", "", "PSVEindhoven"],
       ["WillemII", "", "FortunaSitta"],
-      ["Zwolle", "", "Groningen"],
       ["Heerenveen", "", "SpartaRdam"],
+      ["Zwolle", "", "Groningen"],
       ["AZAlkmaar", "", "HeraclesAlme"],
       ["VVVVenlo", "", "Emmen"]
     ],
     "33": [
-      ["Emmen", "", "Heerenveen"],
       ["PSVEindhoven", "", "Zwolle"],
+      ["Emmen", "", "Heerenveen"],
       ["FortunaSitta", "", "Vitesse"],
       ["ADODenHaag", "", "WillemII"],
       ["HeraclesAlme", "", "Feyenoord"],
       ["RKCWaalwijk", "", "Twente"],
-      ["Groningen", "", "AZAlkmaar"],
+      ["Ajax", "", "VVVVenlo"],
       ["SpartaRdam", "", "Utrecht"],
-      ["Ajax", "", "VVVVenlo"]
+      ["Groningen", "", "AZAlkmaar"]
     ],
     "32": [
       ["SpartaRdam", "", "Vitesse"],

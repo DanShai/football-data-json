@@ -31,7 +31,8 @@
       ["Cittadella", "2-0", "Pisa"],
       ["Cittadella", "0-0", "Salernitana"],
       ["SPAL", "1-0", "Cittadella"],
-      ["VicenzaVirtu", "1-0", "Cittadella"]
+      ["VicenzaVirtu", "1-0", "Cittadella"],
+      ["Cittadella", "1-1", "USReggina"]
     ],
     "Ascoli": [
       ["Brescia", "1-1", "Ascoli"],
@@ -64,7 +65,8 @@
       ["Ascoli", "1-1", "Venezia"],
       ["Pescara", "2-3", "Ascoli"],
       ["Ascoli", "0-0", "Cremonese"],
-      ["Cosenza", "2-1", "Ascoli"]
+      ["Cosenza", "2-1", "Ascoli"],
+      ["Ascoli", "2-1", "VicenzaVirtu"]
     ],
     "SPAL": [
       ["SSMonza1912", "0-0", "SPAL"],
@@ -97,7 +99,8 @@
       ["SPAL", "0-0", "VirtusEntell"],
       ["Pisa", "3-0", "SPAL"],
       ["SPAL", "1-0", "Cittadella"],
-      ["Chievo", "1-1", "SPAL"]
+      ["Chievo", "1-1", "SPAL"],
+      ["SPAL", "1-1", "Venezia"]
     ],
     "USReggina": [
       ["Salernitana", "1-1", "USReggina"],
@@ -130,7 +133,8 @@
       ["USReggina", "1-0", "SSMonza1912"],
       ["Brescia", "1-0", "USReggina"],
       ["USReggina", "1-1", "Chievo"],
-      ["Venezia", "0-2", "USReggina"]
+      ["Venezia", "0-2", "USReggina"],
+      ["Cittadella", "1-1", "USReggina"]
     ],
     "Pordenone": [
       ["Lecce", "0-0", "Pordenone"],
@@ -162,7 +166,8 @@
       ["SSMonza1912", "2-0", "Pordenone"],
       ["Pordenone", "0-0", "Pescara"],
       ["Empoli", "1-0", "Pordenone"],
-      ["Brescia", "4-1", "Pordenone"]
+      ["Brescia", "4-1", "Pordenone"],
+      ["Pordenone", "3-0", "VirtusEntell"]
     ],
     "SSMonza1912": [
       ["SSMonza1912", "0-0", "SPAL"],
@@ -195,7 +200,8 @@
       ["USReggina", "1-0", "SSMonza1912"],
       ["SSMonza1912", "2-0", "Reggiana"],
       ["SSMonza1912", "1-4", "Venezia"],
-      ["VirtusEntell", "1-1", "SSMonza1912"]
+      ["VirtusEntell", "1-1", "SSMonza1912"],
+      ["SSMonza1912", "1-1", "Pescara"]
     ],
     "Pescara": [
       ["Pescara", "0-0", "Chievo"],
@@ -228,7 +234,8 @@
       ["Pordenone", "0-0", "Pescara"],
       ["Pescara", "2-3", "Ascoli"],
       ["VicenzaVirtu", "1-0", "Pescara"],
-      ["Pescara", "3-1", "Pisa"]
+      ["Pescara", "3-1", "Pisa"],
+      ["SSMonza1912", "1-1", "Pescara"]
     ],
     "Pisa": [
       ["Reggiana", "2-2", "Pisa"],
@@ -260,7 +267,8 @@
       ["Pisa", "0-0", "USReggina"],
       ["Cittadella", "2-0", "Pisa"],
       ["Pisa", "3-0", "SPAL"],
-      ["Pescara", "3-1", "Pisa"]
+      ["Pescara", "3-1", "Pisa"],
+      ["Pisa", "0-1", "Lecce"]
     ],
     "Empoli": [
       ["Frosinone", "0-2", "Empoli"],
@@ -326,7 +334,8 @@
       ["VicenzaVirtu", "0-2", "Empoli"],
       ["Cosenza", "1-1", "VicenzaVirtu"],
       ["VicenzaVirtu", "1-0", "Pescara"],
-      ["VicenzaVirtu", "1-0", "Cittadella"]
+      ["VicenzaVirtu", "1-0", "Cittadella"],
+      ["Ascoli", "2-1", "VicenzaVirtu"]
     ],
     "VirtusEntell": [
       ["Cosenza", "0-0", "VirtusEntell"],
@@ -359,7 +368,8 @@
       ["SPAL", "0-0", "VirtusEntell"],
       ["VirtusEntell", "0-2", "Cremonese"],
       ["Empoli", "1-0", "VirtusEntell"],
-      ["VirtusEntell", "1-1", "SSMonza1912"]
+      ["VirtusEntell", "1-1", "SSMonza1912"],
+      ["Pordenone", "3-0", "VirtusEntell"]
     ],
     "Frosinone": [
       ["Frosinone", "0-2", "Empoli"],
@@ -392,7 +402,8 @@
       ["Frosinone", "0-1", "Brescia"],
       ["Chievo", "0-0", "Frosinone"],
       ["Frosinone", "0-3", "Lecce"],
-      ["Frosinone", "0-0", "Reggiana"]
+      ["Frosinone", "0-0", "Reggiana"],
+      ["Salernitana", "1-0", "Frosinone"]
     ],
     "Reggiana": [
       ["Reggiana", "2-2", "Pisa"],
@@ -425,7 +436,8 @@
       ["Cremonese", "3-0", "Reggiana"],
       ["SSMonza1912", "2-0", "Reggiana"],
       ["Reggiana", "1-1", "Cosenza"],
-      ["Frosinone", "0-0", "Reggiana"]
+      ["Frosinone", "0-0", "Reggiana"],
+      ["Reggiana", "2-2", "Brescia"]
     ],
     "Venezia": [
       ["Venezia", "1-0", "VicenzaVirtu"],
@@ -458,7 +470,8 @@
       ["Ascoli", "1-1", "Venezia"],
       ["Venezia", "2-3", "Lecce"],
       ["SSMonza1912", "1-4", "Venezia"],
-      ["Venezia", "0-2", "USReggina"]
+      ["Venezia", "0-2", "USReggina"],
+      ["SPAL", "1-1", "Venezia"]
     ],
     "Cremonese": [
       ["Cremonese", "0-2", "Cittadella"],
@@ -491,7 +504,8 @@
       ["Cremonese", "3-0", "Reggiana"],
       ["VirtusEntell", "0-2", "Cremonese"],
       ["Ascoli", "0-0", "Cremonese"],
-      ["Cremonese", "2-2", "Empoli"]
+      ["Cremonese", "2-2", "Empoli"],
+      ["Cosenza", "0-1", "Cremonese"]
     ],
     "Cosenza": [
       ["Cosenza", "0-0", "VirtusEntell"],
@@ -524,7 +538,8 @@
       ["Salernitana", "0-0", "Cosenza"],
       ["Cosenza", "1-1", "VicenzaVirtu"],
       ["Reggiana", "1-1", "Cosenza"],
-      ["Cosenza", "2-1", "Ascoli"]
+      ["Cosenza", "2-1", "Ascoli"],
+      ["Cosenza", "0-1", "Cremonese"]
     ],
     "Chievo": [
       ["Pescara", "0-0", "Chievo"],
@@ -590,7 +605,8 @@
       ["Lecce", "4-2", "Chievo"],
       ["Venezia", "2-3", "Lecce"],
       ["Frosinone", "0-3", "Lecce"],
-      ["Lecce", "2-0", "Salernitana"]
+      ["Lecce", "2-0", "Salernitana"],
+      ["Pisa", "0-1", "Lecce"]
     ],
     "Brescia": [
       ["Brescia", "1-1", "Ascoli"],
@@ -623,7 +639,8 @@
       ["Frosinone", "0-1", "Brescia"],
       ["Brescia", "1-0", "USReggina"],
       ["Salernitana", "1-0", "Brescia"],
-      ["Brescia", "4-1", "Pordenone"]
+      ["Brescia", "4-1", "Pordenone"],
+      ["Reggiana", "2-2", "Brescia"]
     ],
     "Salernitana": [
       ["Salernitana", "1-1", "USReggina"],
@@ -656,7 +673,8 @@
       ["Salernitana", "0-0", "Cosenza"],
       ["Cittadella", "0-0", "Salernitana"],
       ["Salernitana", "1-0", "Brescia"],
-      ["Lecce", "2-0", "Salernitana"]
+      ["Lecce", "2-0", "Salernitana"],
+      ["Salernitana", "1-0", "Frosinone"]
     ]
   },
   "fixtures": {
@@ -700,8 +718,8 @@
       ["Cosenza", "1-2", "Frosinone"],
       ["Pescara", "0-1", "SPAL"],
       ["Pisa", "0-0", "USReggina"],
-      ["Cremonese", "0-1", "Salernitana"],
       ["VirtusEntell", "0-0", "Ascoli"],
+      ["Cremonese", "0-1", "Salernitana"],
       ["Venezia", "0-1", "Brescia"],
       ["SSMonza1912", "2-0", "Pordenone"],
       ["Empoli", "1-1", "Cittadella"],
@@ -723,8 +741,8 @@
     "21": [
       ["Lecce", "1-2", "Ascoli"],
       ["Frosinone", "1-2", "Venezia"],
-      ["Brescia", "3-3", "Cittadella"],
       ["Cosenza", "1-1", "SPAL"],
+      ["Brescia", "3-3", "Cittadella"],
       ["Pescara", "0-2", "USReggina"],
       ["Cremonese", "2-1", "Pisa"],
       ["Salernitana", "1-1", "Chievo"],
@@ -733,9 +751,9 @@
       ["Reggiana", "2-1", "VirtusEntell"]
     ],
     "22": [
-      ["Pisa", "2-2", "Salernitana"],
       ["Cittadella", "1-1", "Cosenza"],
       ["Lecce", "2-2", "Brescia"],
+      ["Pisa", "2-2", "Salernitana"],
       ["Empoli", "2-2", "Pescara"],
       ["Venezia", "3-1", "Cremonese"],
       ["VicenzaVirtu", "1-2", "SSMonza1912"],
@@ -775,8 +793,8 @@
       ["Cosenza", "1-1", "VicenzaVirtu"],
       ["SSMonza1912", "2-0", "Reggiana"],
       ["Chievo", "0-0", "Frosinone"],
-      ["Cittadella", "0-0", "Salernitana"],
       ["Brescia", "1-0", "USReggina"],
+      ["Cittadella", "0-0", "Salernitana"],
       ["Empoli", "1-0", "Pordenone"],
       ["Pescara", "2-3", "Ascoli"]
     ],
@@ -807,8 +825,8 @@
     "2": [
       ["Chievo", "1-2", "Salernitana"],
       ["Venezia", "0-2", "Frosinone"],
-      ["USReggina", "3-1", "Pescara"],
       ["Empoli", "0-0", "SSMonza1912"],
+      ["USReggina", "3-1", "Pescara"],
       ["Ascoli", "0-2", "Lecce"],
       ["VirtusEntell", "0-2", "Reggiana"],
       ["SPAL", "1-1", "Cosenza"],
@@ -835,8 +853,8 @@
       ["Pisa", "1-1", "SSMonza1912"],
       ["Cittadella", "2-0", "Pordenone"],
       ["Frosinone", "0-0", "VirtusEntell"],
-      ["Venezia", "4-0", "Pescara"],
       ["Ascoli", "2-1", "Reggiana"],
+      ["Venezia", "4-0", "Pescara"],
       ["Chievo", "1-0", "Brescia"],
       ["Lecce", "2-2", "Cremonese"]
     ],
@@ -855,9 +873,9 @@
     "6": [
       ["Cittadella", "1-2", "SSMonza1912"],
       ["Brescia", "2-2", "VirtusEntell"],
-      ["VicenzaVirtu", "4-4", "Pisa"],
-      ["Salernitana", "3-0", "Reggiana"],
       ["Chievo", "2-0", "Cosenza"],
+      ["Salernitana", "3-0", "Reggiana"],
+      ["VicenzaVirtu", "4-4", "Pisa"],
       ["Ascoli", "0-1", "Pordenone"],
       ["Venezia", "2-0", "Empoli"],
       ["USReggina", "0-1", "SPAL"],
@@ -868,8 +886,8 @@
       ["Chievo", "1-2", "Lecce"],
       ["Empoli", "2-2", "VicenzaVirtu"],
       ["Brescia", "1-2", "Frosinone"],
-      ["Pisa", "1-4", "Cittadella"],
       ["Pescara", "0-2", "Pordenone"],
+      ["Pisa", "1-4", "Cittadella"],
       ["Venezia", "2-1", "Ascoli"],
       ["SSMonza1912", "1-0", "USReggina"],
       ["Reggiana", "1-1", "Cremonese"],
@@ -895,10 +913,10 @@
       ["Chievo", "", "Ascoli"],
       ["VicenzaVirtu", "", "Reggiana"],
       ["USReggina", "", "Frosinone"],
-      ["Pordenone", "", "Cosenza"],
       ["Empoli", "", "Lecce"],
+      ["Pisa", "", "VirtusEntell"],
       ["Pescara", "", "Salernitana"],
-      ["Pisa", "", "VirtusEntell"]
+      ["Pordenone", "", "Cosenza"]
     ],
     "11": [
       ["Venezia", "0-2", "SSMonza1912"],
@@ -916,8 +934,8 @@
       ["Ascoli", "0-2", "Pescara"],
       ["Salernitana", "1-0", "Cittadella"],
       ["Cremonese", "2-1", "VirtusEntell"],
-      ["Frosinone", "3-2", "Chievo"],
       ["Lecce", "2-2", "Venezia"],
+      ["Frosinone", "3-2", "Chievo"],
       ["SPAL", "4-0", "Pisa"],
       ["USReggina", "2-1", "Brescia"],
       ["Reggiana", "3-0", "SSMonza1912"],
@@ -929,8 +947,8 @@
       ["Frosinone", "0-0", "Salernitana"],
       ["Cremonese", "1-0", "Cosenza"],
       ["Brescia", "3-1", "Reggiana"],
-      ["VicenzaVirtu", "2-1", "Ascoli"],
       ["Chievo", "1-1", "Empoli"],
+      ["VicenzaVirtu", "2-1", "Ascoli"],
       ["Lecce", "0-3", "Pisa"],
       ["Pescara", "3-2", "SSMonza1912"],
       ["Venezia", "0-0", "SPAL"],
@@ -942,8 +960,8 @@
       ["Pisa", "0-0", "Pescara"],
       ["Cittadella", "3-0", "VicenzaVirtu"],
       ["Empoli", "1-0", "Cremonese"],
-      ["Ascoli", "0-3", "Cosenza"],
       ["Pordenone", "1-1", "Brescia"],
+      ["Ascoli", "0-3", "Cosenza"],
       ["SSMonza1912", "5-0", "VirtusEntell"],
       ["SPAL", "0-0", "Chievo"],
       ["Salernitana", "1-1", "Lecce"]
@@ -953,8 +971,8 @@
       ["VirtusEntell", "3-0", "Pescara"],
       ["Cosenza", "1-1", "Pisa"],
       ["Venezia", "1-2", "Salernitana"],
-      ["Lecce", "2-1", "VicenzaVirtu"],
       ["Ascoli", "2-0", "SPAL"],
+      ["Lecce", "2-1", "VicenzaVirtu"],
       ["Frosinone", "1-1", "Pordenone"],
       ["Brescia", "1-3", "Empoli"],
       ["Cremonese", "0-2", "SSMonza1912"],
@@ -978,17 +996,17 @@
       ["Lecce", "0-0", "SSMonza1912"],
       ["Ascoli", "2-1", "USReggina"],
       ["Salernitana", "0-2", "Pordenone"],
-      ["Cremonese", "0-2", "Chievo"],
       ["VirtusEntell", "1-0", "Cittadella"],
+      ["Cremonese", "0-2", "Chievo"],
       ["Reggiana", "0-1", "Pescara"],
       ["Frosinone", "1-2", "SPAL"],
       ["Brescia", "0-3", "VicenzaVirtu"]
     ],
     "16": [
       ["Pescara", "0-0", "Cosenza"],
-      ["USReggina", "1-0", "Cremonese"],
-      ["Pordenone", "3-0", "Reggiana"],
       ["Cittadella", "2-2", "Lecce"],
+      ["Pordenone", "3-0", "Reggiana"],
+      ["USReggina", "1-0", "Cremonese"],
       ["SSMonza1912", "3-0", "Salernitana"],
       ["VicenzaVirtu", "0-1", "VirtusEntell"],
       ["SPAL", "2-3", "Brescia"],
@@ -1013,8 +1031,8 @@
       ["VicenzaVirtu", "0-0", "Frosinone"],
       ["Pisa", "1-0", "Brescia"],
       ["Pordenone", "2-0", "Venezia"],
-      ["SSMonza1912", "2-2", "Cosenza"],
       ["Cittadella", "1-0", "Ascoli"],
+      ["SSMonza1912", "2-2", "Cosenza"],
       ["USReggina", "0-1", "Lecce"],
       ["Pescara", "0-2", "Cremonese"],
       ["Empoli", "5-0", "Salernitana"],
@@ -1028,8 +1046,8 @@
       ["VicenzaVirtu", "1-0", "Cittadella"],
       ["Venezia", "0-2", "USReggina"],
       ["VirtusEntell", "1-1", "SSMonza1912"],
-      ["Lecce", "2-0", "Salernitana"],
       ["Brescia", "4-1", "Pordenone"],
+      ["Lecce", "2-0", "Salernitana"],
       ["Cremonese", "2-2", "Empoli"]
     ],
     "30": [
@@ -1046,13 +1064,13 @@
     ],
     "37": [
       ["Cosenza", "", "SSMonza1912"],
-      ["Reggiana", "", "SPAL"],
-      ["Cremonese", "", "Pescara"],
       ["Salernitana", "", "Empoli"],
+      ["Cremonese", "", "Pescara"],
+      ["Reggiana", "", "SPAL"],
       ["Brescia", "", "Pisa"],
       ["Frosinone", "", "VicenzaVirtu"],
-      ["VirtusEntell", "", "Chievo"],
       ["Ascoli", "", "Cittadella"],
+      ["VirtusEntell", "", "Chievo"],
       ["Venezia", "", "Pordenone"],
       ["Lecce", "", "USReggina"]
     ],
@@ -1069,21 +1087,21 @@
       ["Chievo", "", "Cremonese"]
     ],
     "35": [
-      ["Salernitana", "", "SSMonza1912"],
-      ["Frosinone", "", "Pisa"],
-      ["Ascoli", "", "Empoli"],
       ["Cremonese", "", "USReggina"],
+      ["Frosinone", "", "Pisa"],
       ["Reggiana", "", "Pordenone"],
+      ["Ascoli", "", "Empoli"],
       ["Brescia", "", "SPAL"],
       ["Lecce", "", "Cittadella"],
+      ["Salernitana", "", "SSMonza1912"],
       ["Venezia", "", "Chievo"],
       ["VirtusEntell", "", "VicenzaVirtu"],
       ["Cosenza", "", "Pescara"]
     ],
     "34": [
       ["SPAL", "1-2", "Ascoli"],
-      ["Pisa", "3-0", "Cosenza"],
       ["Empoli", "4-2", "Brescia"],
+      ["Pisa", "3-0", "Cosenza"],
       ["Salernitana", "2-1", "Venezia"],
       ["USReggina", "2-1", "Reggiana"],
       ["VicenzaVirtu", "1-2", "Lecce"],
@@ -1095,10 +1113,10 @@
     "33": [
       ["Reggiana", "0-1", "Empoli"],
       ["Lecce", "1-2", "SPAL"],
-      ["Ascoli", "1-0", "SSMonza1912"],
       ["VirtusEntell", "0-3", "Salernitana"],
-      ["Brescia", "1-1", "Pescara"],
+      ["Ascoli", "1-0", "SSMonza1912"],
       ["Cremonese", "2-1", "Pordenone"],
+      ["Brescia", "1-1", "Pescara"],
       ["Frosinone", "1-1", "Cittadella"],
       ["USReggina", "3-0", "VicenzaVirtu"],
       ["Venezia", "3-0", "Cosenza"],
@@ -1107,11 +1125,11 @@
     "32": [
       ["Pordenone", "3-0", "VirtusEntell"],
       ["Cittadella", "1-1", "USReggina"],
-      ["Cosenza", "0-1", "Cremonese"],
       ["SSMonza1912", "1-1", "Pescara"],
+      ["Cosenza", "0-1", "Cremonese"],
       ["Pisa", "0-1", "Lecce"],
-      ["Ascoli", "2-1", "VicenzaVirtu"],
       ["Empoli", "", "Chievo"],
+      ["Ascoli", "2-1", "VicenzaVirtu"],
       ["Reggiana", "2-2", "Brescia"],
       ["SPAL", "1-1", "Venezia"],
       ["Salernitana", "1-0", "Frosinone"]

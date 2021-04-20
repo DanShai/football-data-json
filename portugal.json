@@ -26,7 +26,8 @@
       ["Porto", "2-0", "Pacos"],
       ["Portimonense", "1-2", "Porto"],
       ["Porto", "2-1", "SantaClara"],
-      ["Tondela", "0-2", "Porto"]
+      ["Tondela", "0-2", "Porto"],
+      ["Nacional", "0-1", "Porto"]
     ],
     "GilVicenteFC": [
       ["SportingCP", "3-1", "GilVicenteFC"],
@@ -141,7 +142,8 @@
       ["Famalicao", "2-2", "Braga"],
       ["Maritimo", "0-4", "Famalicao"],
       ["Famalicao", "2-0", "Pacos"],
-      ["SportingCP", "1-1", "Famalicao"]
+      ["SportingCP", "1-1", "Famalicao"],
+      ["Famalicao", "0-1", "Portimonense"]
     ],
     "Pacos": [
       ["Portimonense", "1-1", "Pacos"],
@@ -227,7 +229,8 @@
       ["SantaClara", "2-0", "Portimonense"],
       ["Portimonense", "1-2", "Porto"],
       ["Nacional", "1-5", "Portimonense"],
-      ["Portimonense", "3-0", "Vitoria"]
+      ["Portimonense", "3-0", "Vitoria"],
+      ["Famalicao", "0-1", "Portimonense"]
     ],
     "Nacional": [
       ["Nacional", "3-3", "Boavista"],
@@ -255,7 +258,8 @@
       ["Nacional", "1-2", "Maritimo"],
       ["GilVicenteFC", "2-0", "Nacional"],
       ["Nacional", "1-5", "Portimonense"],
-      ["SantaClara", "5-1", "Nacional"]
+      ["SantaClara", "5-1", "Nacional"],
+      ["Nacional", "0-1", "Porto"]
     ],
     "SCFarense": [
       ["Moreirense", "2-0", "SCFarense"],
@@ -558,11 +562,11 @@
       ["SCFarense", "0-1", "SportingCP"],
       ["Vitoria", "1-0", "SantaClara"],
       ["Moreirense", "2-3", "Tondela"],
-      ["Benfica", "1-2", "GilVicenteFC"],
       ["Belenenses", "2-0", "Maritimo"],
+      ["Benfica", "1-2", "GilVicenteFC"],
       ["RioAve", "0-0", "Braga"],
-      ["Famalicao", "", "Portimonense"],
-      ["Nacional", "", "Porto"]
+      ["Famalicao", "0-1", "Portimonense"],
+      ["Nacional", "0-1", "Porto"]
     ],
     "20": [
       ["Boavista", "1-0", "Moreirense"],
@@ -840,59 +844,59 @@
       ["GilVicenteFC", "1-2", "SportingCP"]
     ],
     "31": [
-      ["RioAve", "", "SportingCP"],
-      ["Belenenses", "", "Portimonense"],
       ["Maritimo", "", "GilVicenteFC"],
-      ["Famalicao", "", "SantaClara"],
-      ["Boavista", "", "Tondela"],
-      ["SCFarense", "", "Vitoria"],
-      ["Moreirense", "", "Nacional"],
       ["Braga", "", "Pacos"],
-      ["Benfica", "", "Porto"]
+      ["RioAve", "", "SportingCP"],
+      ["Moreirense", "", "Nacional"],
+      ["Belenenses", "", "Portimonense"],
+      ["Benfica", "", "Porto"],
+      ["SCFarense", "", "Vitoria"],
+      ["Famalicao", "", "SantaClara"],
+      ["Boavista", "", "Tondela"]
     ],
     "30": [
+      ["Maritimo", "", "Braga"],
+      ["Pacos", "", "Belenenses"],
+      ["Vitoria", "", "Moreirense"],
+      ["Tondela", "", "Benfica"],
       ["Porto", "", "Famalicao"],
       ["GilVicenteFC", "", "SCFarense"],
-      ["SportingCP", "", "Nacional"],
-      ["Vitoria", "", "Moreirense"],
-      ["Portimonense", "", "RioAve"],
-      ["Tondela", "", "Benfica"],
-      ["Pacos", "", "Belenenses"],
       ["SantaClara", "", "Boavista"],
-      ["Maritimo", "", "Braga"]
+      ["Portimonense", "", "RioAve"],
+      ["SportingCP", "", "Nacional"]
     ],
     "34": [
+      ["GilVicenteFC", "", "Boavista"],
       ["Vitoria", "", "Benfica"],
       ["SportingCP", "", "Maritimo"],
-      ["GilVicenteFC", "", "Boavista"],
-      ["SantaClara", "", "SCFarense"],
       ["Portimonense", "", "Braga"],
+      ["SantaClara", "", "SCFarense"],
       ["Tondela", "", "Pacos"],
       ["Moreirense", "", "Famalicao"],
       ["Porto", "", "Belenenses"],
       ["Nacional", "", "RioAve"]
     ],
     "33": [
-      ["Boavista", "", "Portimonense"],
       ["Pacos", "", "GilVicenteFC"],
-      ["Famalicao", "", "Nacional"],
-      ["SCFarense", "", "Tondela"],
-      ["Belenenses", "", "SantaClara"],
       ["Braga", "", "Moreirense"],
+      ["Boavista", "", "Portimonense"],
+      ["SCFarense", "", "Tondela"],
       ["Benfica", "", "SportingCP"],
       ["RioAve", "", "Porto"],
+      ["Famalicao", "", "Nacional"],
+      ["Belenenses", "", "SantaClara"],
       ["Maritimo", "", "Vitoria"]
     ],
     "32": [
-      ["Tondela", "", "Belenenses"],
       ["Pacos", "", "Maritimo"],
-      ["SportingCP", "", "Boavista"],
-      ["Porto", "", "SCFarense"],
-      ["Nacional", "", "Benfica"],
-      ["SantaClara", "", "RioAve"],
-      ["Vitoria", "", "Famalicao"],
       ["GilVicenteFC", "", "Braga"],
-      ["Portimonense", "", "Moreirense"]
+      ["Portimonense", "", "Moreirense"],
+      ["Porto", "", "SCFarense"],
+      ["SantaClara", "", "RioAve"],
+      ["Tondela", "", "Belenenses"],
+      ["Nacional", "", "Benfica"],
+      ["SportingCP", "", "Boavista"],
+      ["Vitoria", "", "Famalicao"]
     ]
   },
   "teams": {

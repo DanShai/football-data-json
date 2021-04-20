@@ -63,7 +63,8 @@
       ["NewcastleUtd", "1-1", "AstonVilla"],
       ["Brighton", "3-0", "NewcastleUtd"],
       ["NewcastleUtd", "2-2", "Tottenham"],
-      ["Burnley", "1-2", "NewcastleUtd"]
+      ["Burnley", "1-2", "NewcastleUtd"],
+      ["NewcastleUtd", "3-2", "WestHam"]
     ],
     "Fulham": [
       ["Fulham", "0-3", "Arsenal"],
@@ -96,7 +97,8 @@
       ["Fulham", "0-3", "ManchesterCi"],
       ["Fulham", "1-2", "LeedsUnited"],
       ["AstonVilla", "3-1", "Fulham"],
-      ["Fulham", "0-1", "Wolves"]
+      ["Fulham", "0-1", "Wolves"],
+      ["Arsenal", "1-1", "Fulham"]
     ],
     "CrystalPalac": [
       ["CrystalPalac", "1-0", "Southampton"],
@@ -162,7 +164,8 @@
       ["LeicesterCit", "5-0", "SheffieldUtd"],
       ["SheffieldUtd", "1-0", "AstonVilla"],
       ["LeedsUnited", "2-1", "SheffieldUtd"],
-      ["SheffieldUtd", "0-3", "Arsenal"]
+      ["SheffieldUtd", "0-3", "Arsenal"],
+      ["Wolves", "1-0", "SheffieldUtd"]
     ],
     "LeedsUnited": [
       ["Liverpool", "4-3", "LeedsUnited"],
@@ -195,7 +198,8 @@
       ["LeedsUnited", "0-0", "Chelsea"],
       ["Fulham", "1-2", "LeedsUnited"],
       ["LeedsUnited", "2-1", "SheffieldUtd"],
-      ["ManchesterCi", "1-2", "LeedsUnited"]
+      ["ManchesterCi", "1-2", "LeedsUnited"],
+      ["LeedsUnited", "1-1", "Liverpool"]
     ],
     "Burnley": [
       ["Burnley", "0-1", "ManchesterUt"],
@@ -228,7 +232,8 @@
       ["Everton", "1-2", "Burnley"],
       ["Burnley", "1-1", "LeicesterCit"],
       ["Southampton", "3-2", "Burnley"],
-      ["Burnley", "1-2", "NewcastleUtd"]
+      ["Burnley", "1-2", "NewcastleUtd"],
+      ["ManchesterUt", "3-1", "Burnley"]
     ],
     "WestBrom": [
       ["WestBrom", "0-3", "LeicesterCit"],
@@ -327,7 +332,8 @@
       ["Arsenal", "2-1", "Tottenham"],
       ["WestHam", "3-3", "Arsenal"],
       ["Arsenal", "0-3", "Liverpool"],
-      ["SheffieldUtd", "0-3", "Arsenal"]
+      ["SheffieldUtd", "0-3", "Arsenal"],
+      ["Arsenal", "1-1", "Fulham"]
     ],
     "Tottenham": [
       ["Tottenham", "0-1", "Everton"],
@@ -359,7 +365,8 @@
       ["Tottenham", "4-1", "CrystalPalac"],
       ["Arsenal", "2-1", "Tottenham"],
       ["NewcastleUtd", "2-2", "Tottenham"],
-      ["Tottenham", "1-3", "ManchesterUt"]
+      ["Tottenham", "1-3", "ManchesterUt"],
+      ["Everton", "2-2", "Tottenham"]
     ],
     "AstonVilla": [
       ["ManchesterCi", "2-0", "AstonVilla"],
@@ -457,7 +464,8 @@
       ["Wolves", "0-1", "Liverpool"],
       ["Liverpool", "0-1", "Chelsea"],
       ["Arsenal", "0-3", "Liverpool"],
-      ["Liverpool", "2-1", "AstonVilla"]
+      ["Liverpool", "2-1", "AstonVilla"],
+      ["LeedsUnited", "1-1", "Liverpool"]
     ],
     "Everton": [
       ["Tottenham", "0-1", "Everton"],
@@ -489,7 +497,8 @@
       ["Everton", "1-2", "Burnley"],
       ["WestBrom", "0-1", "Everton"],
       ["Everton", "1-1", "CrystalPalac"],
-      ["Brighton", "0-0", "Everton"]
+      ["Brighton", "0-0", "Everton"],
+      ["Everton", "2-2", "Tottenham"]
     ],
     "Wolves": [
       ["SheffieldUtd", "0-2", "Wolves"],
@@ -522,7 +531,8 @@
       ["Wolves", "0-1", "Liverpool"],
       ["ManchesterCi", "4-1", "Wolves"],
       ["Wolves", "2-3", "WestHam"],
-      ["Fulham", "0-1", "Wolves"]
+      ["Fulham", "0-1", "Wolves"],
+      ["Wolves", "1-0", "SheffieldUtd"]
     ],
     "Brighton": [
       ["Brighton", "1-3", "Chelsea"],
@@ -621,7 +631,8 @@
       ["ManchesterUt", "1-0", "WestHam"],
       ["WestHam", "3-3", "Arsenal"],
       ["Wolves", "2-3", "WestHam"],
-      ["WestHam", "3-2", "LeicesterCit"]
+      ["WestHam", "3-2", "LeicesterCit"],
+      ["NewcastleUtd", "3-2", "WestHam"]
     ],
     "ManchesterUt": [
       ["Burnley", "0-1", "ManchesterUt"],
@@ -654,7 +665,8 @@
       ["ManchesterUt", "1-0", "WestHam"],
       ["CrystalPalac", "0-0", "ManchesterUt"],
       ["ManchesterUt", "2-1", "Brighton"],
-      ["Tottenham", "1-3", "ManchesterUt"]
+      ["Tottenham", "1-3", "ManchesterUt"],
+      ["ManchesterUt", "3-1", "Burnley"]
     ]
   },
   "fixtures": {
@@ -738,14 +750,14 @@
       ["Burnley", "0-2", "ManchesterCi"],
       ["Fulham", "0-2", "LeicesterCit"],
       ["LeedsUnited", "1-2", "Everton"],
-      ["AstonVilla", "1-3", "WestHam"],
       ["Liverpool", "0-1", "Brighton"],
+      ["AstonVilla", "1-3", "WestHam"],
       ["Tottenham", "0-1", "Chelsea"]
     ],
     "23": [
       ["AstonVilla", "1-0", "Arsenal"],
-      ["NewcastleUtd", "3-2", "Southampton"],
       ["Burnley", "1-1", "Brighton"],
+      ["NewcastleUtd", "3-2", "Southampton"],
       ["Fulham", "0-0", "WestHam"],
       ["ManchesterUt", "3-3", "Everton"],
       ["Tottenham", "2-0", "WestBrom"],
@@ -889,12 +901,12 @@
     "38": [
       ["Wolves", "", "ManchesterUt"],
       ["LeedsUnited", "", "WestBrom"],
+      ["ManchesterCi", "", "Everton"],
       ["LeicesterCit", "", "Tottenham"],
       ["AstonVilla", "", "Chelsea"],
-      ["ManchesterCi", "", "Everton"],
       ["Fulham", "", "NewcastleUtd"],
-      ["Arsenal", "", "Brighton"],
       ["WestHam", "", "Southampton"],
+      ["Arsenal", "", "Brighton"],
       ["SheffieldUtd", "", "Burnley"],
       ["Liverpool", "", "CrystalPalac"]
     ],
@@ -1047,9 +1059,9 @@
       ["ManchesterUt", "", "Fulham"],
       ["Tottenham", "", "AstonVilla"],
       ["Brighton", "", "ManchesterCi"],
-      ["Burnley", "", "Liverpool"],
       ["WestBrom", "", "WestHam"],
       ["NewcastleUtd", "", "SheffieldUtd"],
+      ["Burnley", "", "Liverpool"],
       ["CrystalPalac", "", "Arsenal"],
       ["Southampton", "", "LeedsUnited"],
       ["Everton", "", "Wolves"]
@@ -1073,18 +1085,18 @@
       ["LeedsUnited", "", "Tottenham"],
       ["LeicesterCit", "", "NewcastleUtd"],
       ["Fulham", "", "Burnley"],
-      ["Arsenal", "", "WestBrom"],
       ["WestHam", "", "Everton"],
       ["Liverpool", "", "Southampton"],
-      ["SheffieldUtd", "", "CrystalPalac"]
+      ["SheffieldUtd", "", "CrystalPalac"],
+      ["Arsenal", "", "WestBrom"]
     ],
     "34": [
       ["Southampton", "", "LeicesterCit"],
       ["Burnley", "", "WestHam"],
       ["WestBrom", "", "Wolves"],
+      ["ManchesterUt", "", "Liverpool"],
       ["CrystalPalac", "", "ManchesterCi"],
       ["Chelsea", "", "Fulham"],
-      ["ManchesterUt", "", "Liverpool"],
       ["Everton", "", "AstonVilla"],
       ["Brighton", "", "LeedsUnited"],
       ["Tottenham", "", "SheffieldUtd"],
@@ -1107,9 +1119,9 @@
       ["Southampton", "", "CrystalPalac"],
       ["NewcastleUtd", "3-2", "WestHam"],
       ["Wolves", "1-0", "SheffieldUtd"],
-      ["Arsenal", "", "Fulham"],
-      ["ManchesterUt", "", "Burnley"],
-      ["LeedsUnited", "", "Liverpool"],
+      ["Arsenal", "1-1", "Fulham"],
+      ["ManchesterUt", "3-1", "Burnley"],
+      ["LeedsUnited", "1-1", "Liverpool"],
       ["Chelsea", "", "Brighton"],
       ["AstonVilla", "", "ManchesterCi"],
       ["LeicesterCit", "", "WestBrom"]

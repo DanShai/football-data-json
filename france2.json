@@ -31,7 +31,8 @@
       ["ChamblyOise", "0-3", "Troyes"],
       ["Troyes", "1-5", "Nancy"],
       ["Amiens", "3-1", "Troyes"],
-      ["Troyes", "1-0", "Guingamp"]
+      ["Troyes", "1-0", "Guingamp"],
+      ["ParisFC", "1-1", "Troyes"]
     ],
     "Sochaux": [
       ["Auxerre", "0-2", "Sochaux"],
@@ -64,7 +65,8 @@
       ["Niort", "1-3", "Sochaux"],
       ["Sochaux", "0-0", "Chateauroux"],
       ["LeHavre", "0-2", "Sochaux"],
-      ["Sochaux", "1-2", "ParisFC"]
+      ["Sochaux", "1-2", "ParisFC"],
+      ["Nancy", "0-0", "Sochaux"]
     ],
     "RodezAveyron": [
       ["RodezAveyron", "1-0", "Grenoble"],
@@ -97,7 +99,8 @@
       ["Ajaccio", "1-0", "RodezAveyron"],
       ["RodezAveyron", "3-0", "Valenciennes"],
       ["Guingamp", "1-1", "RodezAveyron"],
-      ["RodezAveyron", "2-2", "ChamblyOise"]
+      ["RodezAveyron", "2-2", "ChamblyOise"],
+      ["Amiens", "1-0", "RodezAveyron"]
     ],
     "Auxerre": [
       ["Auxerre", "0-2", "Sochaux"],
@@ -130,7 +133,8 @@
       ["Amiens", "1-1", "Auxerre"],
       ["Auxerre", "0-0", "ParisFC"],
       ["Valenciennes", "2-2", "Auxerre"],
-      ["Auxerre", "1-1", "LeHavre"]
+      ["Auxerre", "1-1", "LeHavre"],
+      ["Niort", "0-4", "Auxerre"]
     ],
     "Toulouse": [
       ["Toulouse", "0-1", "Dunkerque"],
@@ -163,7 +167,8 @@
       ["Valenciennes", "1-0", "Toulouse"],
       ["Toulouse", "4-0", "ChamblyOise"],
       ["Niort", "1-0", "Toulouse"],
-      ["Toulouse", "4-1", "Nancy"]
+      ["Toulouse", "4-1", "Nancy"],
+      ["Guingamp", "1-1", "Toulouse"]
     ],
     "ChamblyOise": [
       ["ChamblyOise", "0-3", "ParisFC"],
@@ -196,7 +201,8 @@
       ["ChamblyOise", "0-3", "Troyes"],
       ["Toulouse", "4-0", "ChamblyOise"],
       ["ChamblyOise", "2-1", "Ajaccio"],
-      ["RodezAveyron", "2-2", "ChamblyOise"]
+      ["RodezAveyron", "2-2", "ChamblyOise"],
+      ["Valenciennes", "2-1", "ChamblyOise"]
     ],
     "Ajaccio": [
       ["Ajaccio", "0-1", "Chateauroux"],
@@ -229,7 +235,8 @@
       ["Ajaccio", "1-0", "RodezAveyron"],
       ["Ajaccio", "0-2", "Guingamp"],
       ["ChamblyOise", "2-1", "Ajaccio"],
-      ["Ajaccio", "3-0", "Valenciennes"]
+      ["Ajaccio", "3-0", "Valenciennes"],
+      ["LeHavre", "1-1", "Ajaccio"]
     ],
     "Valenciennes": [
       ["Valenciennes", "3-0", "PauFC"],
@@ -262,7 +269,8 @@
       ["Valenciennes", "1-0", "Toulouse"],
       ["RodezAveyron", "3-0", "Valenciennes"],
       ["Valenciennes", "2-2", "Auxerre"],
-      ["Ajaccio", "3-0", "Valenciennes"]
+      ["Ajaccio", "3-0", "Valenciennes"],
+      ["Valenciennes", "2-1", "ChamblyOise"]
     ],
     "ParisFC": [
       ["ChamblyOise", "0-3", "ParisFC"],
@@ -295,7 +303,8 @@
       ["ParisFC", "1-0", "Dunkerque"],
       ["Auxerre", "0-0", "ParisFC"],
       ["ParisFC", "2-0", "Grenoble"],
-      ["Sochaux", "1-2", "ParisFC"]
+      ["Sochaux", "1-2", "ParisFC"],
+      ["ParisFC", "1-1", "Troyes"]
     ],
     "Chateauroux": [
       ["Ajaccio", "0-1", "Chateauroux"],
@@ -328,7 +337,8 @@
       ["PauFC", "1-0", "Chateauroux"],
       ["Sochaux", "0-0", "Chateauroux"],
       ["Chateauroux", "2-2", "Caen"],
-      ["Grenoble", "2-2", "Chateauroux"]
+      ["Grenoble", "2-2", "Chateauroux"],
+      ["Chateauroux", "1-2", "Dunkerque"]
     ],
     "Dunkerque": [
       ["Toulouse", "0-1", "Dunkerque"],
@@ -360,7 +370,8 @@
       ["Dunkerque", "1-1", "ChamblyOise"],
       ["ParisFC", "1-0", "Dunkerque"],
       ["Dunkerque", "2-0", "Niort"],
-      ["PauFC", "3-1", "Dunkerque"]
+      ["PauFC", "3-1", "Dunkerque"],
+      ["Chateauroux", "1-2", "Dunkerque"]
     ],
     "Caen": [
       ["ClermontFoot", "0-0", "Caen"],
@@ -393,7 +404,8 @@
       ["Nancy", "1-0", "Caen"],
       ["Caen", "0-2", "LeHavre"],
       ["Chateauroux", "2-2", "Caen"],
-      ["Caen", "1-1", "PauFC"]
+      ["Caen", "1-1", "PauFC"],
+      ["Grenoble", "3-1", "Caen"]
     ],
     "Niort": [
       ["Guingamp", "0-1", "Niort"],
@@ -426,7 +438,8 @@
       ["Niort", "1-3", "Sochaux"],
       ["Dunkerque", "2-0", "Niort"],
       ["Niort", "1-0", "Toulouse"],
-      ["ClermontFoot", "0-0", "Niort"]
+      ["ClermontFoot", "0-0", "Niort"],
+      ["Niort", "0-4", "Auxerre"]
     ],
     "LeHavre": [
       ["Troyes", "2-0", "LeHavre"],
@@ -459,7 +472,8 @@
       ["LeHavre", "0-2", "Grenoble"],
       ["Caen", "0-2", "LeHavre"],
       ["LeHavre", "0-2", "Sochaux"],
-      ["Auxerre", "1-1", "LeHavre"]
+      ["Auxerre", "1-1", "LeHavre"],
+      ["LeHavre", "1-1", "Ajaccio"]
     ],
     "Nancy": [
       ["Amiens", "1-0", "Nancy"],
@@ -492,7 +506,8 @@
       ["Nancy", "1-0", "Caen"],
       ["Troyes", "1-5", "Nancy"],
       ["Nancy", "1-0", "ClermontFoot"],
-      ["Toulouse", "4-1", "Nancy"]
+      ["Toulouse", "4-1", "Nancy"],
+      ["Nancy", "0-0", "Sochaux"]
     ],
     "Guingamp": [
       ["Guingamp", "0-1", "Niort"],
@@ -525,7 +540,8 @@
       ["Guingamp", "0-5", "ClermontFoot"],
       ["Ajaccio", "0-2", "Guingamp"],
       ["Guingamp", "1-1", "RodezAveyron"],
-      ["Troyes", "1-0", "Guingamp"]
+      ["Troyes", "1-0", "Guingamp"],
+      ["Guingamp", "1-1", "Toulouse"]
     ],
     "Amiens": [
       ["Amiens", "1-0", "Nancy"],
@@ -557,7 +573,8 @@
       ["Toulouse", "3-0", "Amiens"],
       ["Amiens", "1-1", "Auxerre"],
       ["ClermontFoot", "3-0", "Amiens"],
-      ["Amiens", "3-1", "Troyes"]
+      ["Amiens", "3-1", "Troyes"],
+      ["Amiens", "1-0", "RodezAveyron"]
     ],
     "Grenoble": [
       ["RodezAveyron", "1-0", "Grenoble"],
@@ -590,7 +607,8 @@
       ["LeHavre", "0-2", "Grenoble"],
       ["Grenoble", "1-1", "PauFC"],
       ["ParisFC", "2-0", "Grenoble"],
-      ["Grenoble", "2-2", "Chateauroux"]
+      ["Grenoble", "2-2", "Chateauroux"],
+      ["Grenoble", "3-1", "Caen"]
     ],
     "PauFC": [
       ["Valenciennes", "3-0", "PauFC"],
@@ -623,7 +641,8 @@
       ["PauFC", "1-0", "Chateauroux"],
       ["Grenoble", "1-1", "PauFC"],
       ["PauFC", "3-1", "Dunkerque"],
-      ["Caen", "1-1", "PauFC"]
+      ["Caen", "1-1", "PauFC"],
+      ["PauFC", "2-1", "ClermontFoot"]
     ],
     "ClermontFoot": [
       ["ClermontFoot", "0-0", "Caen"],
@@ -656,7 +675,8 @@
       ["Guingamp", "0-5", "ClermontFoot"],
       ["ClermontFoot", "3-0", "Amiens"],
       ["Nancy", "1-0", "ClermontFoot"],
-      ["ClermontFoot", "0-0", "Niort"]
+      ["ClermontFoot", "0-0", "Niort"],
+      ["PauFC", "2-1", "ClermontFoot"]
     ]
   },
   "fixtures": {
@@ -665,10 +685,10 @@
       ["Guingamp", "0-0", "Dunkerque"],
       ["Amiens", "0-0", "Caen"],
       ["RodezAveyron", "2-0", "ClermontFoot"],
-      ["Nancy", "1-0", "PauFC"],
       ["Ajaccio", "0-0", "Auxerre"],
-      ["Valenciennes", "0-1", "Grenoble"],
+      ["Nancy", "1-0", "PauFC"],
       ["Niort", "1-1", "Chateauroux"],
+      ["Valenciennes", "0-1", "Grenoble"],
       ["Troyes", "1-1", "Toulouse"],
       ["LeHavre", "1-0", "ParisFC"]
     ],
@@ -686,12 +706,12 @@
     ],
     "26": [
       ["Valenciennes", "2-2", "Troyes"],
-      ["ChamblyOise", "0-1", "Auxerre"],
       ["Amiens", "0-1", "Sochaux"],
+      ["ChamblyOise", "0-1", "Auxerre"],
       ["Ajaccio", "0-2", "ClermontFoot"],
       ["LeHavre", "1-1", "Dunkerque"],
-      ["Nancy", "1-2", "Grenoble"],
       ["Niort", "2-1", "PauFC"],
+      ["Nancy", "1-2", "Grenoble"],
       ["ParisFC", "1-0", "Chateauroux"],
       ["RodezAveyron", "1-0", "Toulouse"],
       ["Guingamp", "2-2", "Caen"]
@@ -700,13 +720,13 @@
       ["Toulouse", "3-0", "Amiens"],
       ["Troyes", "1-0", "Ajaccio"],
       ["Auxerre", "0-1", "RodezAveyron"],
-      ["Caen", "0-2", "ParisFC"],
       ["PauFC", "2-0", "LeHavre"],
+      ["Caen", "0-2", "ParisFC"],
       ["Chateauroux", "1-4", "Nancy"],
       ["Dunkerque", "1-1", "ChamblyOise"],
       ["Sochaux", "0-0", "Guingamp"],
-      ["ClermontFoot", "4-0", "Valenciennes"],
-      ["Grenoble", "1-1", "Niort"]
+      ["Grenoble", "1-1", "Niort"],
+      ["ClermontFoot", "4-0", "Valenciennes"]
     ],
     "20": [
       ["Troyes", "2-1", "Sochaux"],
@@ -723,11 +743,11 @@
     "21": [
       ["ClermontFoot", "1-0", "Auxerre"],
       ["ParisFC", "4-2", "Amiens"],
-      ["Grenoble", "2-0", "ChamblyOise"],
       ["Chateauroux", "3-3", "Valenciennes"],
+      ["Grenoble", "2-0", "ChamblyOise"],
       ["PauFC", "0-1", "Troyes"],
-      ["LeHavre", "1-1", "Guingamp"],
       ["Nancy", "2-2", "Niort"],
+      ["LeHavre", "1-1", "Guingamp"],
       ["Dunkerque", "3-1", "Ajaccio"],
       ["Caen", "1-2", "RodezAveyron"],
       ["Sochaux", "0-1", "Toulouse"]
@@ -739,17 +759,17 @@
       ["Ajaccio", "2-1", "Grenoble"],
       ["ChamblyOise", "4-2", "Caen"],
       ["Nancy", "1-1", "ParisFC"],
-      ["Valenciennes", "1-0", "Dunkerque"],
       ["Amiens", "1-0", "Chateauroux"],
-      ["Niort", "0-0", "LeHavre"],
-      ["Guingamp", "2-3", "PauFC"]
+      ["Guingamp", "2-3", "PauFC"],
+      ["Valenciennes", "1-0", "Dunkerque"],
+      ["Niort", "0-0", "LeHavre"]
     ],
     "23": [
-      ["PauFC", "2-0", "Amiens"],
       ["Auxerre", "3-1", "Toulouse"],
+      ["PauFC", "2-0", "Amiens"],
       ["Grenoble", "2-1", "Guingamp"],
-      ["Caen", "1-1", "Valenciennes"],
       ["LeHavre", "1-1", "Nancy"],
+      ["Caen", "1-1", "Valenciennes"],
       ["Dunkerque", "0-0", "RodezAveyron"],
       ["ClermontFoot", "2-1", "Troyes"],
       ["Chateauroux", "4-0", "ChamblyOise"],
@@ -758,15 +778,15 @@
     ],
     "28": [
       ["Guingamp", "0-5", "ClermontFoot"],
-      ["PauFC", "1-0", "Chateauroux"],
-      ["Ajaccio", "1-0", "RodezAveyron"],
       ["ChamblyOise", "0-3", "Troyes"],
-      ["Niort", "1-3", "Sochaux"],
-      ["ParisFC", "1-0", "Dunkerque"],
+      ["Ajaccio", "1-0", "RodezAveyron"],
+      ["PauFC", "1-0", "Chateauroux"],
       ["Nancy", "1-0", "Caen"],
+      ["ParisFC", "1-0", "Dunkerque"],
+      ["Niort", "1-3", "Sochaux"],
+      ["Valenciennes", "1-0", "Toulouse"],
       ["Amiens", "1-1", "Auxerre"],
-      ["LeHavre", "0-2", "Grenoble"],
-      ["Valenciennes", "1-0", "Toulouse"]
+      ["LeHavre", "0-2", "Grenoble"]
     ],
     "29": [
       ["Auxerre", "0-0", "ParisFC"],
@@ -774,9 +794,9 @@
       ["Troyes", "1-5", "Nancy"],
       ["Ajaccio", "0-2", "Guingamp"],
       ["RodezAveyron", "3-0", "Valenciennes"],
-      ["Sochaux", "0-0", "Chateauroux"],
-      ["Toulouse", "4-0", "ChamblyOise"],
       ["Grenoble", "1-1", "PauFC"],
+      ["Toulouse", "4-0", "ChamblyOise"],
+      ["Sochaux", "0-0", "Chateauroux"],
       ["Caen", "0-2", "LeHavre"],
       ["ClermontFoot", "3-0", "Amiens"]
     ],
@@ -798,8 +818,8 @@
       ["Troyes", "2-0", "PauFC"],
       ["Niort", "1-0", "Nancy"],
       ["RodezAveyron", "0-3", "Caen"],
-      ["ChamblyOise", "1-2", "Grenoble"],
       ["Amiens", "1-2", "ParisFC"],
+      ["ChamblyOise", "1-2", "Grenoble"],
       ["Valenciennes", "1-0", "Chateauroux"],
       ["Toulouse", "0-0", "Sochaux"],
       ["Ajaccio", "1-0", "Dunkerque"]
@@ -811,18 +831,18 @@
       ["ParisFC", "1-0", "Valenciennes"],
       ["LeHavre", "1-0", "Amiens"],
       ["Chateauroux", "1-2", "Auxerre"],
-      ["Grenoble", "5-3", "Toulouse"],
       ["Dunkerque", "1-1", "ClermontFoot"],
+      ["Grenoble", "5-3", "Toulouse"],
       ["PauFC", "1-1", "RodezAveyron"],
       ["Sochaux", "2-1", "Troyes"]
     ],
     "5": [
       ["Toulouse", "3-1", "Auxerre"],
-      ["Niort", "2-2", "ParisFC"],
-      ["Guingamp", "1-0", "Grenoble"],
       ["Nancy", "0-1", "LeHavre"],
-      ["Valenciennes", "1-0", "Caen"],
+      ["Guingamp", "1-0", "Grenoble"],
+      ["Niort", "2-2", "ParisFC"],
       ["Ajaccio", "1-1", "Sochaux"],
+      ["Valenciennes", "1-0", "Caen"],
       ["ChamblyOise", "2-1", "Chateauroux"],
       ["RodezAveyron", "2-1", "Dunkerque"],
       ["Amiens", "0-0", "PauFC"],
@@ -831,8 +851,8 @@
     "4": [
       ["ClermontFoot", "1-1", "Toulouse"],
       ["LeHavre", "0-1", "Niort"],
-      ["ParisFC", "0-2", "Nancy"],
       ["Grenoble", "2-0", "Ajaccio"],
+      ["ParisFC", "0-2", "Nancy"],
       ["PauFC", "0-1", "Guingamp"],
       ["Caen", "0-0", "ChamblyOise"],
       ["Sochaux", "2-2", "RodezAveyron"],
@@ -870,9 +890,9 @@
       ["ChamblyOise", "0-1", "Dunkerque"],
       ["Ajaccio", "0-4", "Troyes"],
       ["Nancy", "2-1", "Chateauroux"],
-      ["RodezAveyron", "2-2", "Auxerre"],
       ["LeHavre", "1-0", "PauFC"],
       ["Valenciennes", "1-3", "ClermontFoot"],
+      ["RodezAveyron", "2-2", "Auxerre"],
       ["Amiens", "0-1", "Toulouse"],
       ["Niort", "0-0", "Grenoble"]
     ],
@@ -882,16 +902,16 @@
       ["PauFC", "4-1", "Niort"],
       ["Troyes", "1-1", "Valenciennes"],
       ["Auxerre", "4-0", "ChamblyOise"],
-      ["Toulouse", "3-0", "RodezAveyron"],
       ["Chateauroux", "1-2", "ParisFC"],
+      ["Toulouse", "3-0", "RodezAveyron"],
       ["Dunkerque", "0-1", "LeHavre"],
       ["Sochaux", "0-2", "Amiens"],
       ["Grenoble", "1-0", "Nancy"]
     ],
     "38": [
       ["Niort", "", "Guingamp"],
-      ["Dunkerque", "", "Toulouse"],
       ["ParisFC", "", "ChamblyOise"],
+      ["Dunkerque", "", "Toulouse"],
       ["Nancy", "", "Amiens"],
       ["LeHavre", "", "Troyes"],
       ["PauFC", "", "Valenciennes"],
@@ -903,11 +923,11 @@
     "11": [
       ["LeHavre", "1-2", "Caen"],
       ["Amiens", "1-1", "ClermontFoot"],
-      ["ChamblyOise", "1-1", "Toulouse"],
       ["Niort", "1-2", "Dunkerque"],
-      ["Valenciennes", "1-1", "RodezAveyron"],
-      ["PauFC", "0-2", "Grenoble"],
+      ["ChamblyOise", "1-1", "Toulouse"],
       ["Chateauroux", "2-1", "Sochaux"],
+      ["PauFC", "0-2", "Grenoble"],
+      ["Valenciennes", "1-1", "RodezAveyron"],
       ["ParisFC", "0-3", "Auxerre"],
       ["Guingamp", "2-2", "Ajaccio"],
       ["Nancy", "2-3", "Troyes"]
@@ -918,21 +938,21 @@
       ["Dunkerque", "0-1", "ParisFC"],
       ["Chateauroux", "0-3", "PauFC"],
       ["RodezAveyron", "0-1", "Ajaccio"],
+      ["Caen", "2-1", "Nancy"],
       ["Auxerre", "2-1", "Amiens"],
       ["Sochaux", "3-4", "Niort"],
       ["Troyes", "2-2", "ChamblyOise"],
-      ["Caen", "2-1", "Nancy"],
       ["Toulouse", "4-5", "Valenciennes"]
     ],
     "13": [
-      ["Amiens", "1-0", "Dunkerque"],
       ["Chateauroux", "0-1", "Grenoble"],
+      ["Amiens", "1-0", "Dunkerque"],
       ["Niort", "1-0", "ClermontFoot"],
       ["PauFC", "1-0", "Caen"],
       ["ChamblyOise", "1-0", "RodezAveyron"],
       ["ParisFC", "0-0", "Sochaux"],
-      ["Nancy", "1-3", "Toulouse"],
       ["LeHavre", "1-1", "Auxerre"],
+      ["Nancy", "1-3", "Toulouse"],
       ["Valenciennes", "1-1", "Ajaccio"],
       ["Guingamp", "1-2", "Troyes"]
     ],
@@ -942,8 +962,8 @@
       ["Sochaux", "4-0", "LeHavre"],
       ["Ajaccio", "0-0", "ChamblyOise"],
       ["RodezAveyron", "1-1", "Guingamp"],
-      ["Dunkerque", "2-2", "PauFC"],
       ["ClermontFoot", "2-0", "Nancy"],
+      ["Dunkerque", "2-2", "PauFC"],
       ["Auxerre", "1-1", "Valenciennes"],
       ["Troyes", "2-1", "Amiens"],
       ["Caen", "1-1", "Chateauroux"]
@@ -951,10 +971,10 @@
     "15": [
       ["Caen", "0-0", "Troyes"],
       ["ParisFC", "1-1", "RodezAveyron"],
-      ["Guingamp", "1-1", "Valenciennes"],
       ["Niort", "2-0", "Ajaccio"],
-      ["Chateauroux", "0-3", "Toulouse"],
+      ["Guingamp", "1-1", "Valenciennes"],
       ["Amiens", "1-1", "ChamblyOise"],
+      ["Chateauroux", "0-3", "Toulouse"],
       ["Grenoble", "4-0", "Dunkerque"],
       ["Nancy", "2-2", "Auxerre"],
       ["LeHavre", "0-0", "ClermontFoot"],
@@ -963,8 +983,8 @@
     "14": [
       ["Troyes", "2-1", "ParisFC"],
       ["Auxerre", "6-0", "Niort"],
-      ["Sochaux", "1-1", "Nancy"],
       ["ClermontFoot", "3-0", "PauFC"],
+      ["Sochaux", "1-1", "Nancy"],
       ["Toulouse", "2-2", "Guingamp"],
       ["Dunkerque", "2-0", "Chateauroux"],
       ["ChamblyOise", "1-2", "Valenciennes"],
@@ -976,20 +996,20 @@
       ["PauFC", "0-3", "Toulouse"],
       ["Caen", "1-4", "Sochaux"],
       ["Nancy", "3-3", "ChamblyOise"],
-      ["Amiens", "0-0", "Ajaccio"],
       ["ParisFC", "3-2", "Guingamp"],
-      ["Chateauroux", "0-1", "ClermontFoot"],
+      ["Amiens", "0-0", "Ajaccio"],
       ["LeHavre", "1-1", "RodezAveyron"],
+      ["Chateauroux", "0-1", "ClermontFoot"],
       ["Grenoble", "2-0", "Troyes"],
       ["Niort", "0-3", "Valenciennes"],
       ["Dunkerque", "0-1", "Auxerre"]
     ],
     "16": [
-      ["Auxerre", "2-1", "PauFC"],
       ["Ajaccio", "1-0", "Nancy"],
       ["Sochaux", "1-1", "Grenoble"],
-      ["Dunkerque", "2-3", "Caen"],
+      ["Auxerre", "2-1", "PauFC"],
       ["ChamblyOise", "3-0", "Guingamp"],
+      ["Dunkerque", "2-3", "Caen"],
       ["Valenciennes", "0-2", "Amiens"],
       ["Troyes", "1-0", "Niort"],
       ["RodezAveyron", "1-1", "Chateauroux"],
@@ -1000,19 +1020,19 @@
       ["PauFC", "1-3", "ChamblyOise"],
       ["LeHavre", "0-2", "Valenciennes"],
       ["Chateauroux", "2-3", "Guingamp"],
-      ["Sochaux", "0-0", "ClermontFoot"],
       ["Nancy", "2-2", "RodezAveyron"],
-      ["Dunkerque", "0-0", "Troyes"],
+      ["Sochaux", "0-0", "ClermontFoot"],
       ["Niort", "0-2", "Amiens"],
+      ["Dunkerque", "0-0", "Troyes"],
       ["ParisFC", "1-1", "Ajaccio"],
       ["Grenoble", "2-2", "Auxerre"],
       ["Caen", "2-2", "Toulouse"]
     ],
     "18": [
-      ["Valenciennes", "2-3", "Nancy"],
       ["Auxerre", "1-1", "Caen"],
-      ["RodezAveyron", "1-1", "Niort"],
+      ["Valenciennes", "2-3", "Nancy"],
       ["Guingamp", "2-2", "Amiens"],
+      ["RodezAveyron", "1-1", "Niort"],
       ["ChamblyOise", "0-1", "LeHavre"],
       ["Troyes", "2-0", "Chateauroux"],
       ["Toulouse", "1-0", "ParisFC"],
@@ -1023,8 +1043,8 @@
     "31": [
       ["Toulouse", "4-1", "Nancy"],
       ["ClermontFoot", "0-0", "Niort"],
-      ["RodezAveyron", "2-2", "ChamblyOise"],
       ["Caen", "1-1", "PauFC"],
+      ["RodezAveyron", "2-2", "ChamblyOise"],
       ["Troyes", "1-0", "Guingamp"],
       ["Ajaccio", "3-0", "Valenciennes"],
       ["Grenoble", "2-2", "Chateauroux"],
@@ -1039,8 +1059,8 @@
       ["ParisFC", "2-0", "Grenoble"],
       ["LeHavre", "0-2", "Sochaux"],
       ["Nancy", "1-0", "ClermontFoot"],
-      ["Guingamp", "1-1", "RodezAveyron"],
       ["Valenciennes", "2-2", "Auxerre"],
+      ["Guingamp", "1-1", "RodezAveyron"],
       ["Chateauroux", "2-2", "Caen"],
       ["Niort", "1-0", "Toulouse"]
     ],
@@ -1049,9 +1069,9 @@
       ["Toulouse", "", "Caen"],
       ["Auxerre", "", "Grenoble"],
       ["Valenciennes", "", "LeHavre"],
-      ["RodezAveyron", "", "Nancy"],
       ["ChamblyOise", "", "PauFC"],
       ["Ajaccio", "", "ParisFC"],
+      ["RodezAveyron", "", "Nancy"],
       ["Amiens", "", "Niort"],
       ["Troyes", "", "Dunkerque"],
       ["ClermontFoot", "", "Sochaux"]
@@ -1082,22 +1102,22 @@
     ],
     "34": [
       ["Grenoble", "", "Sochaux"],
-      ["Chateauroux", "", "RodezAveyron"],
-      ["LeHavre", "", "Toulouse"],
       ["Caen", "", "Dunkerque"],
+      ["Chateauroux", "", "RodezAveyron"],
       ["ParisFC", "", "ClermontFoot"],
       ["Niort", "", "Troyes"],
       ["PauFC", "", "Auxerre"],
       ["Nancy", "", "Ajaccio"],
       ["Amiens", "", "Valenciennes"],
-      ["Guingamp", "", "ChamblyOise"]
+      ["Guingamp", "", "ChamblyOise"],
+      ["LeHavre", "", "Toulouse"]
     ],
     "33": [
       ["Troyes", "1-0", "Caen"],
       ["ClermontFoot", "1-1", "LeHavre"],
+      ["RodezAveyron", "2-2", "ParisFC"],
       ["ChamblyOise", "2-0", "Amiens"],
       ["Valenciennes", "0-1", "Guingamp"],
-      ["RodezAveyron", "2-2", "ParisFC"],
       ["Auxerre", "3-2", "Nancy"],
       ["Dunkerque", "1-1", "Grenoble"],
       ["Ajaccio", "3-0", "Niort"],
@@ -1106,8 +1126,8 @@
     ],
     "32": [
       ["ParisFC", "1-1", "Troyes"],
-      ["LeHavre", "1-1", "Ajaccio"],
       ["Chateauroux", "1-2", "Dunkerque"],
+      ["LeHavre", "1-1", "Ajaccio"],
       ["PauFC", "2-1", "ClermontFoot"],
       ["Niort", "0-4", "Auxerre"],
       ["Valenciennes", "2-1", "ChamblyOise"],

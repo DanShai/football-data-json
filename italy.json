@@ -129,7 +129,8 @@
       ["Torino", "1-2", "Inter"],
       ["Inter", "2-1", "Sassuolo"],
       ["Bologna", "0-1", "Inter"],
-      ["Inter", "1-0", "Cagliari"]
+      ["Inter", "1-0", "Cagliari"],
+      ["Napoli", "1-1", "Inter"]
     ],
     "Napoli": [
       ["Parma", "0-2", "Napoli"],
@@ -161,7 +162,8 @@
       ["Milan", "0-1", "Napoli"],
       ["Roma", "0-2", "Napoli"],
       ["Napoli", "4-3", "Crotone"],
-      ["Sampdoria", "0-2", "Napoli"]
+      ["Sampdoria", "0-2", "Napoli"],
+      ["Napoli", "1-1", "Inter"]
     ],
     "Lazio": [
       ["Lazio", "1-4", "Atalanta"],
@@ -192,7 +194,8 @@
       ["Lazio", "3-2", "Crotone"],
       ["Udinese", "0-1", "Lazio"],
       ["Lazio", "2-1", "Spezia"],
-      ["HellasVerona", "0-1", "Lazio"]
+      ["HellasVerona", "0-1", "Lazio"],
+      ["Lazio", "5-3", "Benevento"]
     ],
     "Bologna": [
       ["Milan", "2-0", "Bologna"],
@@ -224,7 +227,8 @@
       ["Bologna", "3-1", "Sampdoria"],
       ["Crotone", "2-3", "Bologna"],
       ["Bologna", "0-1", "Inter"],
-      ["Roma", "1-0", "Bologna"]
+      ["Roma", "1-0", "Bologna"],
+      ["Bologna", "4-1", "Spezia"]
     ],
     "Torino": [
       ["Fiorentina", "1-0", "Torino"],
@@ -255,7 +259,8 @@
       ["Torino", "1-2", "Inter"],
       ["Sampdoria", "1-0", "Torino"],
       ["Torino", "2-2", "Juventus"],
-      ["Udinese", "0-1", "Torino"]
+      ["Udinese", "0-1", "Torino"],
+      ["Torino", "3-1", "Roma"]
     ],
     "Sassuolo": [
       ["Sassuolo", "1-1", "Cagliari"],
@@ -353,7 +358,8 @@
       ["Atalanta", "3-1", "Spezia"],
       ["HellasVerona", "0-2", "Atalanta"],
       ["Atalanta", "3-2", "Udinese"],
-      ["Fiorentina", "2-3", "Atalanta"]
+      ["Fiorentina", "2-3", "Atalanta"],
+      ["Atalanta", "1-0", "Juventus"]
     ],
     "Sampdoria": [
       ["Juventus", "3-0", "Sampdoria"],
@@ -418,7 +424,8 @@
       ["Milan", "0-1", "Napoli"],
       ["Fiorentina", "2-3", "Milan"],
       ["Milan", "1-1", "Sampdoria"],
-      ["Parma", "1-3", "Milan"]
+      ["Parma", "1-3", "Milan"],
+      ["Milan", "2-1", "Genoa"]
     ],
     "Cagliari": [
       ["Sassuolo", "1-1", "Cagliari"],
@@ -483,7 +490,8 @@
       ["Cagliari", "1-3", "Juventus"],
       ["Juventus", "0-1", "Benevento"],
       ["Torino", "2-2", "Juventus"],
-      ["Juventus", "3-1", "Genoa"]
+      ["Juventus", "3-1", "Genoa"],
+      ["Atalanta", "1-0", "Juventus"]
     ],
     "Roma": [
       ["HellasVerona", "3-0", "Roma"],
@@ -515,7 +523,8 @@
       ["Parma", "2-0", "Roma"],
       ["Roma", "0-2", "Napoli"],
       ["Sassuolo", "2-2", "Roma"],
-      ["Roma", "1-0", "Bologna"]
+      ["Roma", "1-0", "Bologna"],
+      ["Torino", "3-1", "Roma"]
     ],
     "Benevento": [
       ["Benevento", "2-5", "Inter"],
@@ -547,7 +556,8 @@
       ["Benevento", "1-4", "Fiorentina"],
       ["Juventus", "0-1", "Benevento"],
       ["Benevento", "2-2", "Parma"],
-      ["Benevento", "0-1", "Sassuolo"]
+      ["Benevento", "0-1", "Sassuolo"],
+      ["Lazio", "5-3", "Benevento"]
     ],
     "Genoa": [
       ["Genoa", "4-1", "Crotone"],
@@ -579,7 +589,8 @@
       ["Genoa", "1-1", "Udinese"],
       ["Parma", "1-2", "Genoa"],
       ["Genoa", "1-1", "Fiorentina"],
-      ["Juventus", "3-1", "Genoa"]
+      ["Juventus", "3-1", "Genoa"],
+      ["Milan", "2-1", "Genoa"]
     ],
     "Spezia": [
       ["Udinese", "0-2", "Spezia"],
@@ -611,7 +622,8 @@
       ["Atalanta", "3-1", "Spezia"],
       ["Spezia", "2-1", "Cagliari"],
       ["Lazio", "2-1", "Spezia"],
-      ["Spezia", "3-2", "Crotone"]
+      ["Spezia", "3-2", "Crotone"],
+      ["Bologna", "4-1", "Spezia"]
     ],
     "Fiorentina": [
       ["Fiorentina", "1-0", "Torino"],
@@ -664,8 +676,8 @@
       ["Lazio", "", "Torino"],
       ["Juventus", "3-0", "Spezia"],
       ["Sassuolo", "3-3", "Napoli"],
-      ["Benevento", "0-3", "HellasVerona"],
       ["Atalanta", "5-1", "Crotone"],
+      ["Benevento", "0-3", "HellasVerona"],
       ["Genoa", "1-1", "Sampdoria"],
       ["Milan", "1-1", "Udinese"],
       ["Fiorentina", "1-2", "Roma"],
@@ -678,8 +690,8 @@
       ["Juventus", "3-1", "Lazio"],
       ["Roma", "1-0", "Genoa"],
       ["Fiorentina", "3-3", "Parma"],
-      ["Crotone", "4-2", "Torino"],
       ["HellasVerona", "0-2", "Milan"],
+      ["Crotone", "4-2", "Torino"],
       ["Sampdoria", "2-2", "Cagliari"],
       ["Napoli", "3-1", "Bologna"],
       ["Inter", "1-0", "Atalanta"]
@@ -763,8 +775,8 @@
       ["Atalanta", "3-2", "Udinese"],
       ["Benevento", "2-2", "Parma"],
       ["Lazio", "2-1", "Spezia"],
-      ["Napoli", "4-3", "Crotone"],
       ["Genoa", "1-1", "Fiorentina"],
+      ["Napoli", "4-3", "Crotone"],
       ["Torino", "2-2", "Juventus"],
       ["Bologna", "0-1", "Inter"]
     ],
@@ -786,8 +798,8 @@
       ["Udinese", "0-1", "Roma"],
       ["Atalanta", "5-2", "Cagliari"],
       ["Lazio", "1-1", "Inter"],
-      ["Benevento", "1-0", "Bologna"],
       ["Parma", "1-0", "HellasVerona"],
+      ["Benevento", "1-0", "Bologna"],
       ["Milan", "3-0", "Spezia"],
       ["Genoa", "1-2", "Torino"],
       ["Juventus", "2-1", "Napoli"]
@@ -885,8 +897,8 @@
       ["Cagliari", "", "Genoa"],
       ["Sampdoria", "", "Parma"],
       ["Atalanta", "", "Milan"],
-      ["Bologna", "", "Juventus"],
-      ["Spezia", "", "Roma"]
+      ["Spezia", "", "Roma"],
+      ["Bologna", "", "Juventus"]
     ],
     "11": [
       ["Sassuolo", "1-0", "Benevento"],
@@ -939,8 +951,8 @@
     "15": [
       ["Inter", "6-2", "Crotone"],
       ["Fiorentina", "0-0", "Bologna"],
-      ["Atalanta", "5-1", "Sassuolo"],
       ["Parma", "0-3", "Torino"],
+      ["Atalanta", "5-1", "Sassuolo"],
       ["Genoa", "1-1", "Lazio"],
       ["Roma", "1-0", "Sampdoria"],
       ["Cagliari", "1-4", "Napoli"],
@@ -952,11 +964,11 @@
       ["Crotone", "2-1", "Parma"],
       ["Juventus", "0-3", "Fiorentina"],
       ["HellasVerona", "1-2", "Inter"],
-      ["Udinese", "0-2", "Benevento"],
       ["Sampdoria", "2-3", "Sassuolo"],
+      ["Udinese", "0-2", "Benevento"],
       ["Napoli", "1-1", "Torino"],
-      ["Roma", "3-2", "Cagliari"],
       ["Bologna", "2-2", "Atalanta"],
+      ["Roma", "3-2", "Cagliari"],
       ["Milan", "3-2", "Lazio"],
       ["Spezia", "1-2", "Genoa"]
     ],
@@ -975,12 +987,12 @@
     "16": [
       ["Cagliari", "1-2", "Benevento"],
       ["Bologna", "2-2", "Udinese"],
+      ["Lazio", "2-1", "Fiorentina"],
       ["Sampdoria", "2-1", "Inter"],
       ["Atalanta", "3-0", "Parma"],
-      ["Lazio", "2-1", "Fiorentina"],
       ["Sassuolo", "2-1", "Genoa"],
-      ["Torino", "1-1", "HellasVerona"],
       ["Crotone", "1-3", "Roma"],
+      ["Torino", "1-1", "HellasVerona"],
       ["Napoli", "1-2", "Spezia"],
       ["Milan", "1-3", "Juventus"]
     ],
@@ -1013,12 +1025,12 @@
       ["Crotone", "1-2", "Udinese"],
       ["Sassuolo", "3-1", "Fiorentina"],
       ["Cagliari", "4-3", "Parma"],
-      ["Milan", "", "Genoa"],
-      ["Bologna", "", "Spezia"],
-      ["Atalanta", "", "Juventus"],
-      ["Lazio", "", "Benevento"],
-      ["Torino", "", "Roma"],
-      ["Napoli", "", "Inter"]
+      ["Milan", "2-1", "Genoa"],
+      ["Bologna", "4-1", "Spezia"],
+      ["Atalanta", "1-0", "Juventus"],
+      ["Lazio", "5-3", "Benevento"],
+      ["Torino", "3-1", "Roma"],
+      ["Napoli", "1-1", "Inter"]
     ],
     "30": [
       ["Spezia", "3-2", "Crotone"],
@@ -1033,8 +1045,8 @@
       ["Benevento", "0-1", "Sassuolo"]
     ],
     "37": [
-      ["Genoa", "", "Atalanta"],
       ["Fiorentina", "", "Napoli"],
+      ["Genoa", "", "Atalanta"],
       ["Roma", "", "Lazio"],
       ["Spezia", "", "Torino"],
       ["Parma", "", "Sassuolo"],
@@ -1047,25 +1059,25 @@
     "36": [
       ["Atalanta", "", "Benevento"],
       ["Sampdoria", "", "Spezia"],
-      ["Torino", "", "Milan"],
       ["Crotone", "", "HellasVerona"],
+      ["Torino", "", "Milan"],
       ["Cagliari", "", "Fiorentina"],
-      ["Sassuolo", "", "Juventus"],
       ["Lazio", "", "Parma"],
-      ["Napoli", "", "Udinese"],
+      ["Sassuolo", "", "Juventus"],
       ["Bologna", "", "Genoa"],
+      ["Napoli", "", "Udinese"],
       ["Inter", "", "Roma"]
     ],
     "35": [
       ["Spezia", "", "Napoli"],
       ["Udinese", "", "Bologna"],
       ["Fiorentina", "", "Lazio"],
-      ["Benevento", "", "Cagliari"],
       ["Parma", "", "Atalanta"],
-      ["Genoa", "", "Sassuolo"],
+      ["Benevento", "", "Cagliari"],
       ["Inter", "", "Sampdoria"],
-      ["HellasVerona", "", "Torino"],
       ["Roma", "", "Crotone"],
+      ["HellasVerona", "", "Torino"],
+      ["Genoa", "", "Sassuolo"],
       ["Juventus", "", "Milan"]
     ],
     "34": [
@@ -1099,8 +1111,8 @@
       ["Genoa", "", "Benevento"],
       ["Spezia", "", "Inter"],
       ["Udinese", "", "Cagliari"],
-      ["Bologna", "", "Torino"],
       ["Crotone", "", "Sampdoria"],
+      ["Bologna", "", "Torino"],
       ["Roma", "", "Atalanta"],
       ["Napoli", "", "Lazio"]
     ]
